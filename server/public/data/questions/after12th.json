@@ -1,0 +1,227 @@
+[
+  {
+    "question": "Which entrance exam have you prepared for or are planning to take?",
+    "type": "multiple_choice",
+    "category": "academic",
+    "subcategory": "exam_preference",
+    "options": [
+      { "text": "JEE (Main/Advanced) for Engineering", "value": "jee", "weight": 90 },
+      { "text": "NEET for Medical (MBBS/BDS)", "value": "neet", "weight": 90 },
+      { "text": "CLAT/AILET for Law", "value": "law_entrance", "weight": 85 },
+      { "text": "NID/NIFT/UCEED for Design", "value": "design_entrance", "weight": 85 },
+      { "text": "University specific exams (CUET, etc.)", "value": "university_exam", "weight": 80 },
+      { "text": "None, seeking direct admission", "value": "direct", "weight": 60 }
+    ],
+    "difficulty": "easy",
+    "stage": ["after12th"],
+    "tags": ["entrance", "exam", "career"]
+  },
+  {
+    "question": "What kind of work environment do you see yourself thriving in?",
+    "type": "multiple_choice",
+    "category": "personality",
+    "subcategory": "work_environment",
+    "options": [
+      { "text": "A fast-paced corporate office", "value": "corporate", "weight": 80 },
+      { "text": "A hospital or healthcare setting", "value": "hospital", "weight": 85 },
+      { "text": "A research lab or academic institution", "value": "research", "weight": 85 },
+      { "text": "A creative studio or media house", "value": "creative", "weight": 90 },
+      { "text": "Working independently or as a freelancer", "value": "freelance", "weight": 75 }
+    ],
+    "difficulty": "medium",
+    "stage": ["after12th"],
+    "tags": ["work", "environment", "personality"]
+  },
+  {
+    "question": "How important is a high starting salary to you?",
+    "type": "rating",
+    "category": "personality",
+    "subcategory": "career_motivation",
+    "difficulty": "easy",
+    "stage": ["after12th"],
+    "tags": ["salary", "motivation", "career"]
+  },
+  {
+    "question": "Which subject from your 12th grade did you enjoy the most?",
+    "type": "multiple_choice",
+    "category": "interest",
+    "subcategory": "subject_interest",
+    "options": [
+      { "text": "Physics", "value": "physics", "weight": 85 },
+      { "text": "Chemistry", "value": "chemistry", "weight": 80 },
+      { "text": "Mathematics", "value": "math", "weight": 90 },
+      { "text": "Biology", "value": "biology", "weight": 85 },
+      { "text": "Accounts/Economics", "value": "commerce_subjects", "weight": 88 },
+      { "text": "History/Political Science", "value": "arts_subjects", "weight": 75 }
+    ],
+    "difficulty": "easy",
+    "stage": ["after12th"],
+    "tags": ["subjects", "interest", "academic"]
+  },
+  {
+    "question": "Rate your interest in pursuing higher education abroad.",
+    "type": "rating",
+    "category": "interest",
+    "subcategory": "global_opportunities",
+    "difficulty": "medium",
+    "stage": ["after12th"],
+    "tags": ["abroad", "education"]
+  },
+  {
+    "question": "Do you prefer theoretical or practical learning?",
+    "type": "multiple_choice",
+    "category": "personality",
+    "subcategory": "style",
+    "options": [
+      { "text": "Theoretical", "value": "theory", "weight": 80 },
+      { "text": "Practical", "value": "practical", "weight": 90 }
+    ],
+    "difficulty": "easy",
+    "stage": ["after12th"],
+    "tags": ["learning", "style"]
+  },
+  {
+    "question": "How confident are you in public speaking?",
+    "type": "rating",
+    "category": "communication",
+    "subcategory": "public_speaking",
+    "difficulty": "medium",
+    "stage": ["after12th"],
+    "tags": ["communication", "confidence"]
+  },
+  {
+    "question": "Have you participated in any extracurricular activities?",
+    "type": "boolean",
+    "category": "leadership",
+    "subcategory": "activities",
+    "difficulty": "easy",
+    "stage": ["after12th"],
+    "tags": ["extracurricular", "leadership"]
+  },
+  {
+    "question": "What is your dream job?",
+    "type": "text",
+    "category": "interest",
+    "subcategory": "aspiration",
+    "difficulty": "hard",
+    "stage": ["after12th"],
+    "tags": ["dream", "job"]
+  },
+  {
+    "question": "Rate your analytical thinking skills.",
+    "type": "rating",
+    "category": "analytical",
+    "subcategory": "thinking",
+    "difficulty": "medium",
+    "stage": ["after12th"],
+    "tags": ["analytical", "skills"]
+  },
+  {
+    "question": "Which postgraduate course interests you?",
+    "type": "multiple_choice",
+    "category": "interest",
+    "subcategory": "postgrad_interest",
+    "options": [
+      { "text": "M.Tech in AI", "value": "mtech_ai", "weight": 95 },
+      { "text": "MBA in Finance", "value": "mba_finance", "weight": 85 },
+      { "text": "LLM in Corporate Law", "value": "llm_law", "weight": 80 },
+      { "text": "M.Sc in Biotechnology", "value": "msc_bio", "weight": 90 }
+    ],
+    "difficulty": "medium",
+    "stage": ["after12th"],
+    "tags": ["postgrad", "courses"]
+  },
+  {
+    "question": "Do you want to pursue a diploma in vocational skills?",
+    "type": "boolean",
+    "category": "interest",
+    "subcategory": "diploma_vocational",
+    "difficulty": "easy",
+    "stage": ["after12th"],
+    "tags": ["diploma", "vocational"]
+  },
+  {
+    "question": "Rate your interest in entrepreneurship.",
+    "type": "rating",
+    "category": "personality",
+    "subcategory": "entrepreneurship",
+    "difficulty": "medium",
+    "stage": ["after12th"],
+    "tags": ["entrepreneurship", "business"]
+  },
+  {
+    "question": "Which industry sector appeals to you for jobs?",
+    "type": "multiple_choice",
+    "category": "interest",
+    "subcategory": "sector_preference",
+    "options": [
+      { "text": "Information Technology", "value": "it", "weight": 95 },
+      { "text": "Banking and Finance", "value": "finance", "weight": 85 },
+      { "text": "Healthcare and Pharma", "value": "healthcare", "weight": 90 },
+      { "text": "Manufacturing", "value": "manufacturing", "weight": 80 }
+    ],
+    "difficulty": "easy",
+    "stage": ["after12th"],
+    "tags": ["sector", "jobs"]
+  },
+  {
+    "question": "Have you considered integrated courses like B.Tech + M.Tech?",
+    "type": "boolean",
+    "category": "academic",
+    "subcategory": "integrated_courses",
+    "difficulty": "medium",
+    "stage": ["after12th"],
+    "tags": ["integrated", "courses"]
+  },
+  {
+    "question": "What is your preferred location for higher studies?",
+    "type": "text",
+    "category": "interest",
+    "subcategory": "study_location",
+    "difficulty": "easy",
+    "stage": ["after12th"],
+    "tags": ["location", "studies"]
+  },
+  {
+    "question": "Rate your skills in time management.",
+    "type": "rating",
+    "category": "personality",
+    "subcategory": "time_management",
+    "difficulty": "medium",
+    "stage": ["after12th"],
+    "tags": ["time", "management"]
+  },
+  {
+    "question": "Which competitive exam post-12th interests you?",
+    "type": "multiple_choice",
+    "category": "academic",
+    "subcategory": "competitive_exams",
+    "options": [
+      { "text": "GATE for M.Tech", "value": "gate", "weight": 90 },
+      { "text": "CAT for MBA", "value": "cat", "weight": 85 },
+      { "text": "UPSC for Civil Services", "value": "upsc", "weight": 80 },
+      { "text": "SSC for Government Jobs", "value": "ssc", "weight": 75 }
+    ],
+    "difficulty": "medium",
+    "stage": ["after12th"],
+    "tags": ["exams", "competitive"]
+  },
+  {
+    "question": "Do you like working with numbers and data?",
+    "type": "boolean",
+    "category": "interest",
+    "subcategory": "data_interest",
+    "difficulty": "easy",
+    "stage": ["after12th"],
+    "tags": ["data", "numbers"]
+  },
+  {
+    "question": "Rate your interest in creative fields like design or media.",
+    "type": "rating",
+    "category": "creative",
+    "subcategory": "creative_fields",
+    "difficulty": "easy",
+    "stage": ["after12th"],
+    "tags": ["creative", "design"]
+  }
+]

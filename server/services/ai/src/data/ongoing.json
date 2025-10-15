@@ -1,0 +1,78 @@
+[
+  {
+    "stage": "ongoing",
+    "currentCourse": "B.Tech Computer Science",
+    "year": 2,
+    "title": "Specialization in AI & Machine Learning",
+    "description": "Enhance your CS degree with AI skills for high-paying tech roles. Ideal for 2nd/3rd year students.",
+    "duration": "2 years (remaining college + certifications)",
+    "eligibility": { "currentCGPA": 7.0, "prerequisites": ["Data Structures", "Math"] },
+    "recommendedCertifications": [
+      { "name": "Google Professional ML Engineer", "platform": "Coursera", "cost": 10000, "duration": "3 months" },
+      { "name": "AWS Certified ML", "platform": "AWS", "cost": 15000, "duration": "2 months" },
+      { "name": "Deep Learning Specialization", "platform": "Coursera (Andrew Ng)", "cost": 5000, "duration": "4 months" }
+    ],
+    "internshipOpportunitiesInMH": [
+      { "company": "TCS Mumbai", "stipend": 20000, "duration": "6 months", "skills": "Python ML" },
+      { "company": "Persistent Pune", "stipend": 25000, "duration": "3 months", "skills": "TensorFlow" },
+      { "company": "Mu Sigma Pune", "stipend": 30000, "duration": "6 months", "skills": "Data Science" },
+      { "company": "Fractal Analytics Mumbai", "stipend": 35000, "duration": "3 months", "skills": "NLP" }
+    ],
+    "careerPaths": [
+      { "role": "ML Engineer", "salaryEntry": 10, "companies": ["Google Mumbai"] },
+      { "role": "AI Specialist", "salaryEntry": 12, "companies": ["Microsoft Pune"] }
+    ],
+    "skillsToDevelop": ["TensorFlow", "PyTorch", "Neural Networks"],
+    "mhFocus": "Pune/Mumbai AI hubs have 10k+ internships yearly"
+  },
+  {
+    "stage": "ongoing",
+    "currentCourse": "B.Com",
+    "year": 3,
+    "title": "CA Foundation Preparation",
+    "description": "Parallel to your degree, prepare for CA to boost finance career prospects.",
+    "duration": "1 year (articleship + exam)",
+    "eligibility": { "currentCGPA": 6.0, "prerequisites": ["Accountancy"] },
+    "recommendedCertifications": [
+      { "name": "CA Foundation", "platform": "ICAI", "cost": 20000, "duration": "4 months" },
+      { "name": "Tally ERP", "platform": "Tally Academy", "cost": 5000, "duration": "1 month" },
+      { "name": "GST Certification", "platform": "NASSCOM", "cost": 3000, "duration": "2 weeks" }
+    ],
+    "internshipOpportunitiesInMH": [
+      { "company": "Deloitte Mumbai", "stipend": 15000, "duration": "6 months", "skills": "Auditing" },
+      { "company": "KPMG Pune", "stipend": 20000, "duration": "3 months", "skills": "Taxation" },
+      { "company": "BDO India Navi Mumbai", "stipend": 12000, "duration": "6 months", "skills": "Financial Reporting" }
+    ],
+    "careerPaths": [
+      { "role": "CA Articleship", "salaryEntry": 3, "companies": ["Big 4 Mumbai"] },
+      { "role": "Tax Consultant", "salaryEntry": 5, "companies": ["EY Pune"] }
+    ],
+    "skillsToDevelop": ["IFRS", "Auditing Standards", "Tax Compliance"],
+    "mhFocus": "Mumbai has 5000+ CA firms for articleship"
+  },
+  {
+    "stage": "ongoing",
+    "currentCourse": "B.Sc. Biotech",
+    "year": 1,
+    "title": "Research Assistant Path",
+    "description": "Build research skills for biotech/pharma careers. Good for early college years.",
+    "duration": "3 years (college + lab experience)",
+    "eligibility": { "currentCGPA": 6.5, "prerequisites": ["Biology"] },
+    "recommendedCertifications": [
+      { "name": "Bioinformatics", "platform": "edX", "cost": 8000, "duration": "3 months" },
+      { "name": "Lab Techniques", "platform": "CSIR", "cost": 10000, "duration": "2 months" },
+      { "name": "GMP Certification", "platform": "Pharma Council", "cost": 12000, "duration": "1 month" }
+    ],
+    "internshipOpportunitiesInMH": [
+      { "company": "Biocon Pune", "stipend": 10000, "duration": "3 months", "skills": "Molecular Biology" },
+      { "company": "Syngene Mumbai", "stipend": 15000, "duration": "6 months", "skills": "Biotech Research" },
+      { "company": "NCL Pune", "stipend": 12000, "duration": "3 months", "skills": "Lab Techniques" }
+    ],
+    "careerPaths": [
+      { "role": "Research Associate", "salaryEntry": 4, "companies": ["Sun Pharma"] },
+      { "role": "Biotech Analyst", "salaryEntry": 6, "companies": ["Zydus"] }
+    ],
+    "skillsToDevelop": ["PCR", "Cell Culture", "Data Analysis"],
+    "mhFocus": "Pune biotech corridor has 2000+ research positions"
+  }
+]

@@ -1,0 +1,288 @@
+[
+  {
+    "question": "Which subject area do you feel most confident in?",
+    "type": "multiple_choice",
+    "category": "interest",
+    "subcategory": "academic_preference",
+    "options": [
+      { "text": "Mathematics & Logical Problems", "value": "math_logic", "weight": 90 },
+      { "text": "Science & How Things Work", "value": "science_concepts", "weight": 85 },
+      { "text": "History, Civics & Geography", "value": "social_studies", "weight": 75 },
+      { "text": "Languages & Literature", "value": "languages", "weight": 70 }
+    ],
+    "difficulty": "easy",
+    "stage": ["after10th"],
+    "tags": ["subjects", "interest", "stream"]
+  },
+  {
+    "question": "How do you prefer to learn new things?",
+    "type": "multiple_choice",
+    "category": "personality",
+    "subcategory": "learning_style",
+    "options": [
+      { "text": "Hands-on experiments", "value": "kinesthetic", "weight": 85 },
+      { "text": "Reading theories", "value": "theoretical", "weight": 75 },
+      { "text": "Watching videos/demonstrations", "value": "visual", "weight": 80 },
+      { "text": "Group discussions", "value": "social", "weight": 70 }
+    ],
+    "difficulty": "easy",
+    "stage": ["after10th"],
+    "tags": ["learning", "style", "personality"]
+  },
+  {
+    "question": "What type of activities excite you the most?",
+    "type": "multiple_choice",
+    "category": "interest",
+    "subcategory": "activity_preference",
+    "options": [
+      { "text": "Solving puzzles and brain teasers", "value": "problem_solving", "weight": 90 },
+      { "text": "Creating art or designing things", "value": "creative_arts", "weight": 85 },
+      { "text": "Playing sports and physical activities", "value": "sports", "weight": 75 },
+      { "text": "Reading books and writing stories", "value": "literary", "weight": 80 },
+      { "text": "Building or fixing things", "value": "technical_hands_on", "weight": 88 }
+    ],
+    "difficulty": "easy",
+    "stage": ["after10th"],
+    "tags": ["activities", "hobbies", "interest"]
+  },
+  {
+    "question": "If you could choose, what would you love to do after school?",
+    "type": "multiple_choice",
+    "category": "interest",
+    "subcategory": "career_aspiration",
+    "options": [
+      { "text": "Become an Engineer or Scientist", "value": "engineering_science", "weight": 90 },
+      { "text": "Start my own business", "value": "entrepreneurship", "weight": 85 },
+      { "text": "Become a Doctor or Healthcare Professional", "value": "medical", "weight": 88 },
+      { "text": "Work in Arts, Design or Media", "value": "creative_field", "weight": 82 },
+      { "text": "Become a Lawyer or Civil Servant", "value": "law_government", "weight": 80 }
+    ],
+    "difficulty": "medium",
+    "stage": ["after10th"],
+    "tags": ["career", "aspiration", "future"]
+  },
+  {
+    "question": "Rate your interest in Mathematics (1-5)",
+    "type": "rating",
+    "category": "academic",
+    "subcategory": "subject_interest",
+    "options": [
+      { "text": "1 - Not interested", "value": 1, "weight": 20 },
+      { "text": "2 - Slightly interested", "value": 2, "weight": 40 },
+      { "text": "3 - Moderately interested", "value": 3, "weight": 60 },
+      { "text": "4 - Very interested", "value": 4, "weight": 80 },
+      { "text": "5 - Extremely interested", "value": 5, "weight": 100 }
+    ],
+    "difficulty": "easy",
+    "stage": ["after10th"],
+    "tags": ["mathematics", "interest", "rating"]
+  },
+  {
+    "question": "How comfortable are you with using computers and technology?",
+    "type": "rating",
+    "category": "technical",
+    "subcategory": "tech_comfort",
+    "options": [
+      { "text": "1 - Not comfortable", "value": 1, "weight": 20 },
+      { "text": "2 - Basic skills", "value": 2, "weight": 40 },
+      { "text": "3 - Moderate skills", "value": 3, "weight": 60 },
+      { "text": "4 - Good skills", "value": 4, "weight": 80 },
+      { "text": "5 - Expert level", "value": 5, "weight": 100 }
+    ],
+    "difficulty": "easy",
+    "stage": ["after10th"],
+    "tags": ["technology", "computers", "technical"]
+  },
+  {
+    "question": "When working on a project, do you prefer working alone or in a team?",
+    "type": "multiple_choice",
+    "category": "personality",
+    "subcategory": "work_style",
+    "options": [
+      { "text": "Always prefer working alone", "value": "solo", "weight": 60 },
+      { "text": "Mostly alone, occasionally with others", "value": "mostly_solo", "weight": 70 },
+      { "text": "Mix of both equally", "value": "balanced", "weight": 80 },
+      { "text": "Mostly in team, occasionally alone", "value": "mostly_team", "weight": 85 },
+      { "text": "Always prefer working in team", "value": "team", "weight": 90 }
+    ],
+    "difficulty": "easy",
+    "stage": ["after10th"],
+    "tags": ["teamwork", "personality", "collaboration"]
+  },
+  {
+    "question": "Which of these skills do you think you're naturally good at?",
+    "type": "multiple_choice",
+    "category": "analytical",
+    "subcategory": "natural_skills",
+    "options": [
+      { "text": "Solving complex problems logically", "value": "logical_thinking", "weight": 95 },
+      { "text": "Coming up with creative ideas", "value": "creativity", "weight": 85 },
+      { "text": "Understanding how machines work", "value": "mechanical_understanding", "weight": 90 },
+      { "text": "Communicating and persuading others", "value": "communication", "weight": 80 },
+      { "text": "Organizing and planning activities", "value": "organization", "weight": 75 }
+    ],
+    "difficulty": "medium",
+    "stage": ["after10th"],
+    "tags": ["skills", "aptitude", "natural_ability"]
+  },
+  {
+    "question": "Do you enjoy conducting experiments or practical work?",
+    "type": "boolean",
+    "category": "interest",
+    "subcategory": "practical_interest",
+    "difficulty": "easy",
+    "stage": ["after10th"],
+    "tags": ["practical", "experiments", "hands_on"]
+  },
+  {
+    "question": "Are you interested in understanding how businesses and money work?",
+    "type": "boolean",
+    "category": "interest",
+    "subcategory": "business_interest",
+    "difficulty": "easy",
+    "stage": ["after10th"],
+    "tags": ["business", "commerce", "finance"]
+  },
+  {
+    "question": "How do you feel about reading and memorizing historical facts?",
+    "type": "rating",
+    "category": "interest",
+    "subcategory": "humanities_interest",
+    "options": [
+      { "text": "1 - Dislike it", "value": 1, "weight": 20 },
+      { "text": "2 - Not my preference", "value": 2, "weight": 40 },
+      { "text": "3 - It's okay", "value": 3, "weight": 60 },
+      { "text": "4 - I enjoy it", "value": 4, "weight": 80 },
+      { "text": "5 - I love it", "value": 5, "weight": 100 }
+    ],
+    "difficulty": "easy",
+    "stage": ["after10th"],
+    "tags": ["history", "humanities", "arts"]
+  },
+  {
+    "question": "If there's a problem, what's your first reaction?",
+    "type": "multiple_choice",
+    "category": "analytical",
+    "subcategory": "problem_approach",
+    "options": [
+      { "text": "Break it down into smaller parts and solve step by step", "value": "systematic", "weight": 95 },
+      { "text": "Try different creative solutions until something works", "value": "creative_trial", "weight": 85 },
+      { "text": "Look for similar problems and their solutions", "value": "pattern_matching", "weight": 80 },
+      { "text": "Ask others for help and collaborate", "value": "collaborative", "weight": 75 }
+    ],
+    "difficulty": "medium",
+    "stage": ["after10th"],
+    "tags": ["problem_solving", "approach", "thinking"]
+  },
+  {
+    "question": "Rate your confidence in public speaking (1-5)",
+    "type": "rating",
+    "category": "communication",
+    "subcategory": "speaking_confidence",
+    "options": [
+      { "text": "1 - Very nervous", "value": 1, "weight": 20 },
+      { "text": "2 - Somewhat nervous", "value": 2, "weight": 40 },
+      { "text": "3 - Moderately confident", "value": 3, "weight": 60 },
+      { "text": "4 - Confident", "value": 4, "weight": 80 },
+      { "text": "5 - Very confident", "value": 5, "weight": 100 }
+    ],
+    "difficulty": "easy",
+    "stage": ["after10th"],
+    "tags": ["communication", "speaking", "confidence"]
+  },
+  {
+    "question": "Would you enjoy leading a group project or club?",
+    "type": "boolean",
+    "category": "leadership",
+    "subcategory": "leadership_interest",
+    "difficulty": "easy",
+    "stage": ["after10th"],
+    "tags": ["leadership", "management", "team"]
+  },
+  {
+    "question": "What's more important to you in a career?",
+    "type": "multiple_choice",
+    "category": "personality",
+    "subcategory": "career_values",
+    "options": [
+      { "text": "High salary and financial stability", "value": "financial", "weight": 80 },
+      { "text": "Job satisfaction and passion", "value": "passion", "weight": 85 },
+      { "text": "Helping others and making a difference", "value": "social_impact", "weight": 90 },
+      { "text": "Work-life balance and flexibility", "value": "balance", "weight": 75 },
+      { "text": "Recognition and prestige", "value": "prestige", "weight": 70 }
+    ],
+    "difficulty": "medium",
+    "stage": ["after10th"],
+    "tags": ["values", "career", "priorities"]
+  },
+  {
+    "question": "How good are you at remembering details and facts?",
+    "type": "rating",
+    "category": "iq",
+    "subcategory": "memory",
+    "options": [
+      { "text": "1 - Poor memory", "value": 1, "weight": 20 },
+      { "text": "2 - Below average", "value": 2, "weight": 40 },
+      { "text": "3 - Average", "value": 3, "weight": 60 },
+      { "text": "4 - Good memory", "value": 4, "weight": 80 },
+      { "text": "5 - Excellent memory", "value": 5, "weight": 100 }
+    ],
+    "difficulty": "easy",
+    "stage": ["after10th"],
+    "tags": ["memory", "cognitive", "iq"]
+  },
+  {
+    "question": "Do you prefer structured schedules or flexible routines?",
+    "type": "multiple_choice",
+    "category": "personality",
+    "subcategory": "work_preference",
+    "options": [
+      { "text": "Highly structured with clear deadlines", "value": "structured", "weight": 85 },
+      { "text": "Somewhat structured but with flexibility", "value": "semi_structured", "weight": 80 },
+      { "text": "Flexible with minimal structure", "value": "flexible", "weight": 75 }
+    ],
+    "difficulty": "easy",
+    "stage": ["after10th"],
+    "tags": ["personality", "work_style", "organization"]
+  },
+  {
+    "question": "Rate your drawing or artistic abilities (1-5)",
+    "type": "rating",
+    "category": "creative",
+    "subcategory": "artistic_ability",
+    "options": [
+      { "text": "1 - Not artistic", "value": 1, "weight": 20 },
+      { "text": "2 - Basic skills", "value": 2, "weight": 40 },
+      { "text": "3 - Moderate skills", "value": 3, "weight": 60 },
+      { "text": "4 - Good skills", "value": 4, "weight": 80 },
+      { "text": "5 - Excellent skills", "value": 5, "weight": 100 }
+    ],
+    "difficulty": "easy",
+    "stage": ["after10th"],
+    "tags": ["art", "creativity", "skills"]
+  },
+  {
+    "question": "Are you interested in learning about biological processes and living organisms?",
+    "type": "boolean",
+    "category": "interest",
+    "subcategory": "biology_interest",
+    "difficulty": "easy",
+    "stage": ["after10th"],
+    "tags": ["biology", "science", "medical"]
+  },
+  {
+    "question": "How do you handle stressful situations?",
+    "type": "multiple_choice",
+    "category": "personality",
+    "subcategory": "stress_management",
+    "options": [
+      { "text": "Stay calm and think logically", "value": "logical_calm", "weight": 90 },
+      { "text": "Take a break and come back later", "value": "break_return", "weight": 75 },
+      { "text": "Seek help from others", "value": "collaborative_help", "weight": 80 },
+      { "text": "Push through with determination", "value": "determined", "weight": 85 }
+    ],
+    "difficulty": "medium",
+    "stage": ["after10th"],
+    "tags": ["stress", "personality", "coping"]
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "question": "Which subject area do you feel most confident in?",
+    "type": "multiple_choice",
+    "category": "interest",
+    "subcategory": "academic_preference",
+    "options": [
+      { "text": "Mathematics & Logical Problems", "value": "math_logic", "weight": 90 },
+      { "text": "Science & How Things Work", "value": "science_concepts", "weight": 85 },
+      { "text": "History, Civics & Geography", "value": "social_studies", "weight": 75 },
+      { "text": "Languages & Literature", "value": "languages", "weight": 70 }
+    ],
+    "difficulty": "easy",
+    "stage": ["after10th"],
+    "tags": ["subjects", "interest", "stream"]
+  },
+  {
+    "question": "How do you prefer to learn new things?",
+    "type": "multiple_choice",
+    "category": "personality",
+    "subcategory": "learning_style",
+    "options": [
+      { "text": "Hands-on experiments", "value": "kinesthetic", "weight": 85 },
+      { "text": "Reading theories", "value": "theoretical", "weight": 75 },
+      { "text": "Watching videos", "value": "visual", "weight": 80 },
+      { "text": "Group discussions", "value": "social", "weight": 78 }
+    ],
+    "difficulty": "easy",
+    "stage": ["after10th"],
+    "tags": ["learning", "style"]
+  },
+  {
+    "question": "Rate comfort with basic algebra (e.g., solve 2x + 3 = 11).",
+    "type": "rating",
+    "category": "academic",
+    "subcategory": "mathematics",
+    "difficulty": "easy",
+    "stage": ["after10th"],
+    "tags": ["math", "algebra"]
+  },
+  {
+    "question": "Do you enjoy understanding how machines/electronics work?",
+    "type": "boolean",
+    "category": "interest",
+    "subcategory": "engineering_inclination",
+    "difficulty": "easy",
+    "stage": ["after10th"],
+    "tags": ["engineering", "interest"]
+  },
+  {
+    "question": "Which activity sounds most exciting?",
+    "type": "multiple_choice",
+    "category": "interest",
+    "subcategory": "activity_preference",
+    "options": [
+      { "text": "Building robots or apps", "value": "tech_build", "weight": 90 },
+      { "text": "Solving science puzzles", "value": "science_puzzles", "weight": 85 },
+      { "text": "Participating in debates", "value": "debate", "weight": 80 },
+      { "text": "Designing posters/art", "value": "design_art", "weight": 78 }
+    ],
+    "difficulty": "easy",
+    "stage": ["after10th"],
+    "tags": ["activities", "interest"]
+  },
+  {
+    "question": "Pick a preferred stream to explore (no commitment):",
+    "type": "multiple_choice",
+    "category": "interest",
+    "subcategory": "stream_probe",
+    "options": [
+      { "text": "Science (PCM/PCB)", "value": "science", "weight": 90 },
+      { "text": "Commerce", "value": "commerce", "weight": 80 },
+      { "text": "Arts/Humanities", "value": "arts", "weight": 75 },
+      { "text": "Not sure yet", "value": "undecided", "weight": 60 }
+    ],
+    "difficulty": "easy",
+    "stage": ["after10th"],
+    "tags": ["stream", "preference"]
+  },
+  {
+    "question": "Solve the pattern: 2, 6, 12, 20, 30, ?",
+    "type": "multiple_choice",
+    "category": "iq",
+    "subcategory": "pattern_recognition",
+    "options": [
+      { "text": "40", "value": 40, "weight": 50 },
+      { "text": "42", "value": 42, "weight": 100 },
+      { "text": "44", "value": 44, "weight": 30 },
+      { "text": "46", "value": 46, "weight": 20 }
+    ],
+    "correctAnswer": 42,
+    "explanation": "Pattern n(n+1), term6=6×7=42",
+    "difficulty": "medium",
+    "stage": ["after10th"],
+    "tags": ["pattern", "iq", "math"]
+  },
+  {
+    "question": "How comfortable are you with basic computer usage (MS Office, web)?",
+    "type": "rating",
+    "category": "technical",
+    "subcategory": "digital_literacy",
+    "difficulty": "easy",
+    "stage": ["after10th"],
+    "tags": ["computers", "skills"]
+  },
+  {
+    "question": "Are you interested in vocational streams like ITI?",
+    "type": "boolean",
+    "category": "interest",
+    "subcategory": "vocational_interest",
+    "difficulty": "easy",
+    "stage": ["after10th"],
+    "tags": ["vocational", "iti", "skills"]
+  },
+  {
+    "question": "Which environmental topic interests you?",
+    "type": "multiple_choice",
+    "category": "interest",
+    "subcategory": "environmental_awareness",
+    "options": [
+      { "text": "Climate Change", "value": "climate", "weight": 85 },
+      { "text": "Wildlife Conservation", "value": "wildlife", "weight": 80 },
+      { "text": "Renewable Energy", "value": "renewable", "weight": 90 },
+      { "text": "Waste Management", "value": "waste", "weight": 75 }
+    ],
+    "difficulty": "easy",
+    "stage": ["after10th"],
+    "tags": ["environment", "interest"]
+  },
+  {
+    "question": "Rate your interest in sports and physical education.",
+    "type": "rating",
+    "category": "personality",
+    "subcategory": "physical_education",
+    "difficulty": "easy",
+    "stage": ["after10th"],
+    "tags": ["sports", "physical"]
+  },
+  {
+    "question": "Do you like reading books on Indian history?",
+    "type": "boolean",
+    "category": "interest",
+    "subcategory": "history_interest",
+    "difficulty": "easy",
+    "stage": ["after10th"],
+    "tags": ["history", "reading"]
+  },
+  {
+    "question": "Which skill would you like to learn for future jobs?",
+    "type": "multiple_choice",
+    "category": "interest",
+    "subcategory": "future_skills",
+    "options": [
+      { "text": "Coding Basics", "value": "coding", "weight": 95 },
+      { "text": "Digital Marketing", "value": "marketing", "weight": 85 },
+      { "text": "Graphic Design", "value": "design", "weight": 80 },
+      { "text": "Foreign Languages", "value": "languages", "weight": 75 }
+    ],
+    "difficulty": "medium",
+    "stage": ["after10th"],
+    "tags": ["skills", "jobs"]
+  },
+  {
+    "question": "Solve this basic science question: What is the boiling point of water?",
+    "type": "multiple_choice",
+    "category": "iq",
+    "subcategory": "science_knowledge",
+    "options": [
+      { "text": "100°C", "value": 100, "weight": 100 },
+      { "text": "0°C", "value": 0, "weight": 50 },
+      { "text": "50°C", "value": 50, "weight": 30 },
+      { "text": "200°C", "value": 200, "weight": 20 }
+    ],
+    "correctAnswer": 100,
+    "explanation": "Standard boiling point at sea level",
+    "difficulty": "easy",
+    "stage": ["after10th"],
+    "tags": ["science", "iq"]
+  },
+  {
+    "question": "Rate your comfort with group projects.",
+    "type": "rating",
+    "category": "personality",
+    "subcategory": "teamwork",
+    "difficulty": "medium",
+    "stage": ["after10th"],
+    "tags": ["teamwork", "projects"]
+  },
+  {
+    "question": "Which vocational skill interests you most?",
+    "type": "multiple_choice",
+    "category": "interest",
+    "subcategory": "vocational_preference",
+    "options": [
+      { "text": "ITI Electrician", "value": "iti_electrician", "weight": 80 },
+      { "text": "Fitter Trade", "value": "fitter", "weight": 75 },
+      { "text": "Computer Operator", "value": "computer_op", "weight": 85 },
+      { "text": "Fashion Technology", "value": "fashion_tech", "weight": 70 }
+    ],
+    "difficulty": "easy",
+    "stage": ["after10th"],
+    "tags": ["vocational", "skills"]
+  },
+  {
+    "question": "Do you enjoy solving puzzles or riddles?",
+    "type": "boolean",
+    "category": "iq",
+    "subcategory": "puzzle_interest",
+    "difficulty": "easy",
+    "stage": ["after10th"],
+    "tags": ["puzzles", "iq"]
+  },
+  {
+    "question": "Rate your interest in business and economics.",
+    "type": "rating",
+    "category": "interest",
+    "subcategory": "commerce_interest",
+    "difficulty": "easy",
+    "stage": ["after10th"],
+    "tags": ["commerce", "economics"]
+  },
+  {
+    "question": "Which type of project excites you?",
+    "type": "multiple_choice",
+    "category": "personality",
+    "subcategory": "project_preference",
+    "options": [
+      { "text": "Science Fair Project", "value": "science_project", "weight": 90 },
+      { "text": "Art Exhibition", "value": "art_exhibit", "weight": 80 },
+      { "text": "Business Plan", "value": "business_plan", "weight": 85 },
+      { "text": "Coding Challenge", "value": "coding_challenge", "weight": 95 }
+    ],
+    "difficulty": "medium",
+    "stage": ["after10th"],
+    "tags": ["projects", "interest"]
+  },
+  {
+    "question": "Solve: If a bat and ball cost ₹110, and bat costs ₹100 more than ball, how much is the ball?",
+    "type": "multiple_choice",
+    "category": "iq",
+    "subcategory": "logic_puzzle",
+    "options": [
+      { "text": "₹5", "value": 5, "weight": 100 },
+      { "text": "₹10", "value": 10, "weight": 50 },
+      { "text": "₹15", "value": 15, "weight": 30 },
+      { "text": "₹20", "value": 20, "weight": 20 }
+    ],
+    "correctAnswer": 5,
+    "explanation": "Bat = ₹105, Ball = ₹5",
+    "difficulty": "medium",
+    "stage": ["after10th"],
+    "tags": ["logic", "iq"]
+  },
+  {
+    "question": "Are you interested in learning about Indian polity and governance?",
+    "type": "boolean",
+    "category": "interest",
+    "subcategory": "polity_interest",
+    "difficulty": "easy",
+    "stage": ["after10th"],
+    "tags": ["polity", "governance"]
+  },
+  {
+    "question": "Rate your drawing or artistic skills.",
+    "type": "rating",
+    "category": "creative",
+    "subcategory": "art_skills",
+    "difficulty": "easy",
+    "stage": ["after10th"],
+    "tags": ["art", "creative"]
+  },
+  {
+    "question": "Which stream do your family/friends suggest?",
+    "type": "text",
+    "category": "personality",
+    "subcategory": "external_influence",
+    "difficulty": "hard",
+    "stage": ["after10th"],
+    "tags": ["influence", "stream"]
+  },
+  {
+    "question": "Do you like experimenting with chemistry kits?",
+    "type": "boolean",
+    "category": "interest",
+    "subcategory": "chemistry_interest",
+    "difficulty": "easy",
+    "stage": ["after10th"],
+    "tags": ["chemistry", "experiments"]
+  }
+]

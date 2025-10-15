@@ -1,0 +1,343 @@
+[
+  {
+    "stage": "after12th",
+    "stream": "Science (PCM)",
+    "title": "B.Tech/B.E. in Computer Science & Engineering",
+    "description": "Top choice for tech enthusiasts. High demand in IT sector with excellent placement opportunities.",
+    "duration": "4 years",
+    "eligibility": {
+      "minimumPercentage": 60,
+      "entranceExams": ["JEE Main", "MHT-CET", "BITSAT"],
+      "requiredSubjects": ["Physics", "Math", "Chemistry"]
+    },
+    "feesRange": { "annual": { "min": 50000, "max": 500000 } },
+    "topCollegesInMH": [
+      {
+        "name": "IIT Bombay",
+        "city": "Mumbai",
+        "cutoffMHTCET": 99.9,
+        "averagePackage": 25
+      },
+      {
+        "name": "VJTI Mumbai",
+        "city": "Mumbai",
+        "cutoffMHTCET": 99.5,
+        "averagePackage": 12
+      },
+      {
+        "name": "COEP Pune",
+        "city": "Pune",
+        "cutoffMHTCET": 99.2,
+        "averagePackage": 15
+      },
+      {
+        "name": "SPIT Mumbai",
+        "city": "Mumbai",
+        "cutoffMHTCET": 98.8,
+        "averagePackage": 14
+      },
+      {
+        "name": "Atharva College of Engineering",
+        "city": "Mumbai",
+        "cutoffMHTCET": 96,
+        "averagePackage": 5.5
+      },
+      {
+        "name": "KJSCE Vidyavihar",
+        "city": "Mumbai",
+        "cutoffMHTCET": 97.5,
+        "averagePackage": 8
+      },
+      {
+        "name": "SIES Nerul",
+        "city": "Navi Mumbai",
+        "cutoffMHTCET": 97,
+        "averagePackage": 7
+      },
+      {
+        "name": "PICT Pune",
+        "city": "Pune",
+        "cutoffMHTCET": 98,
+        "averagePackage": 10
+      },
+      {
+        "name": "VIT Pune",
+        "city": "Pune",
+        "cutoffMHTCET": 96.5,
+        "averagePackage": 8.5
+      },
+      {
+        "name": "DY Patil Akurdi",
+        "city": "Pune",
+        "cutoffMHTCET": 95,
+        "averagePackage": 5.5
+      }
+    ],
+    "careerProspects": [
+      "Software Engineer",
+      "Data Scientist",
+      "Cybersecurity Analyst"
+    ],
+    "averageSalary": { "entry": 6, "mid": 15, "senior": 30 },
+    "skillsRequired": [
+      "Programming (Java/Python)",
+      "Data Structures",
+      "Cloud Computing"
+    ],
+    "successRate": 92
+  },
+  {
+    "stage": "after12th",
+    "stream": "Science (PCM)",
+    "title": "B.Tech/B.E. in Mechanical Engineering",
+    "description": "Core engineering field with opportunities in manufacturing, automotive, and energy sectors.",
+    "duration": "4 years",
+    "eligibility": {
+      "minimumPercentage": 55,
+      "entranceExams": ["JEE Main", "MHT-CET"],
+      "requiredSubjects": ["Physics", "Math"]
+    },
+    "feesRange": { "annual": { "min": 40000, "max": 300000 } },
+    "topCollegesInMH": [
+      {
+        "name": "COEP Pune",
+        "city": "Pune",
+        "cutoffMHTCET": 98.5,
+        "averagePackage": 15
+      },
+      {
+        "name": "VJTI Mumbai",
+        "city": "Mumbai",
+        "cutoffMHTCET": 98,
+        "averagePackage": 12
+      },
+      {
+        "name": "Walchand College Sangli",
+        "city": "Sangli",
+        "cutoffMHTCET": 97,
+        "averagePackage": 10
+      },
+      {
+        "name": "MIT-WPU Pune",
+        "city": "Pune",
+        "cutoffMHTCET": 95,
+        "averagePackage": 6
+      },
+      {
+        "name": "Atharva University",
+        "city": "Mumbai",
+        "cutoffMHTCET": 92,
+        "averagePackage": 6.5
+      },
+      {
+        "name": "Army Institute of Technology Pune",
+        "city": "Pune",
+        "cutoffMHTCET": 96,
+        "averagePackage": 10
+      },
+      {
+        "name": "G.H. Raisoni Nagpur",
+        "city": "Nagpur",
+        "cutoffMHTCET": 94,
+        "averagePackage": 7
+      },
+      {
+        "name": "Yeshwantrao Chavan Pune",
+        "city": "Pune",
+        "cutoffMHTCET": 93,
+        "averagePackage": 5
+      }
+    ],
+    "careerProspects": [
+      "Mechanical Engineer",
+      "Automotive Designer",
+      "Project Manager"
+    ],
+    "averageSalary": { "entry": 5, "mid": 12, "senior": 25 },
+    "skillsRequired": ["CAD/CAM", "Thermodynamics", "Manufacturing Processes"],
+    "successRate": 88
+  },
+  {
+    "stage": "after12th",
+    "stream": "Science (PCB)",
+    "title": "MBBS - Doctor",
+    "description": "Prestigious medical career with high social impact. Requires dedication and NEET preparation.",
+    "duration": "5.5 years + Internship",
+    "eligibility": {
+      "minimumPercentage": 50,
+      "entranceExams": ["NEET"],
+      "requiredSubjects": ["Biology", "Physics", "Chemistry"]
+    },
+    "feesRange": { "annual": { "min": 5000, "max": 2000000 } },
+    "topCollegesInMH": [
+      {
+        "name": "Grant Medical College Mumbai",
+        "city": "Mumbai",
+        "cutoffNEET": 620,
+        "averagePackage": 10
+      },
+      {
+        "name": "B.J. Medical College Pune",
+        "city": "Pune",
+        "cutoffNEET": 600,
+        "averagePackage": 10
+      },
+      {
+        "name": "GMC Nagpur",
+        "city": "Nagpur",
+        "cutoffNEET": 580,
+        "averagePackage": 10
+      },
+      {
+        "name": "Indira Gandhi Aurangabad",
+        "city": "Aurangabad",
+        "cutoffNEET": 550,
+        "averagePackage": 10
+      },
+      {
+        "name": "Bharati Vidyapeeth Pune",
+        "city": "Pune",
+        "cutoffNEET": 500,
+        "averagePackage": 10
+      },
+      {
+        "name": "Tata Memorial Mumbai",
+        "city": "Mumbai",
+        "cutoffNEET": 590,
+        "averagePackage": 10
+      },
+      {
+        "name": "DY Patil Navi Mumbai",
+        "city": "Navi Mumbai",
+        "cutoffNEET": 520,
+        "averagePackage": 10
+      },
+      {
+        "name": "MGM Aurangabad",
+        "city": "Aurangabad",
+        "cutoffNEET": 510,
+        "averagePackage": 10
+      }
+    ],
+    "careerProspects": ["General Physician", "Surgeon", "Specialist Doctor"],
+    "averageSalary": { "entry": 8, "mid": 20, "senior": 50 },
+    "skillsRequired": ["Patient Care", "Diagnostics", "Surgery"],
+    "successRate": 70
+  },
+  {
+    "stage": "after12th",
+    "stream": "Commerce",
+    "title": "B.Com Honours - Accounting & Finance",
+    "description": "Foundation for CA, CS, or MBA. Strong job market in banking and finance.",
+    "duration": "3 years",
+    "eligibility": {
+      "minimumPercentage": 55,
+      "entranceExams": ["CUET", "SET"],
+      "requiredSubjects": ["Accountancy", "Economics"]
+    },
+    "feesRange": { "annual": { "min": 20000, "max": 150000 } },
+    "topCollegesInMH": [
+      {
+        "name": "HR College Mumbai",
+        "city": "Mumbai",
+        "cutoff": 92,
+        "averagePackage": 6.5
+      },
+      {
+        "name": "Podar Commerce Mumbai",
+        "city": "Mumbai",
+        "cutoff": 87,
+        "averagePackage": 5.2
+      },
+      {
+        "name": "BMCC Pune",
+        "city": "Pune",
+        "cutoff": 85,
+        "averagePackage": 4
+      },
+      {
+        "name": "SNDT Commerce",
+        "city": "Mumbai",
+        "cutoff": 80,
+        "averagePackage": 4.5
+      },
+      {
+        "name": "Indira College Pune",
+        "city": "Pune",
+        "cutoff": 78,
+        "averagePackage": 4.5
+      },
+      {
+        "name": "Brihan Maharashtra Aurangabad",
+        "city": "Aurangabad",
+        "cutoff": 75,
+        "averagePackage": 3.5
+      },
+      {
+        "name": "Nagpur University Commerce",
+        "city": "Nagpur",
+        "cutoff": 72,
+        "averagePackage": 3.8
+      }
+    ],
+    "careerProspects": ["Chartered Accountant", "Financial Analyst", "Banker"],
+    "averageSalary": { "entry": 4, "mid": 10, "senior": 20 },
+    "skillsRequired": ["Tally", "GST", "Financial Modeling"],
+    "successRate": 85
+  },
+  {
+    "stage": "after12th",
+    "stream": "Arts",
+    "title": "BA Psychology",
+    "description": "Growing field with opportunities in counseling, HR, and research.",
+    "duration": "3 years",
+    "eligibility": {
+      "minimumPercentage": 50,
+      "entranceExams": ["CUET"],
+      "requiredSubjects": ["English", "Psychology"]
+    },
+    "feesRange": { "annual": { "min": 15000, "max": 100000 } },
+    "topCollegesInMH": [
+      {
+        "name": "St. Xavier's Mumbai",
+        "city": "Mumbai",
+        "cutoff": 90,
+        "averagePackage": 5
+      },
+      {
+        "name": "Fergusson College Pune",
+        "city": "Pune",
+        "cutoff": 85,
+        "averagePackage": 4
+      },
+      {
+        "name": "Wilson College Mumbai",
+        "city": "Mumbai",
+        "cutoff": 80,
+        "averagePackage": 3.8
+      },
+      {
+        "name": "SNDT Mumbai",
+        "city": "Mumbai",
+        "cutoff": 78,
+        "averagePackage": 4
+      },
+      {
+        "name": "S.P. College Pune",
+        "city": "Pune",
+        "cutoff": 75,
+        "averagePackage": 3.5
+      },
+      {
+        "name": "Shivaji University Kolhapur",
+        "city": "Kolhapur",
+        "cutoff": 70,
+        "averagePackage": 3
+      }
+    ],
+    "careerProspects": ["Clinical Psychologist", "HR Specialist", "Counselor"],
+    "averageSalary": { "entry": 3.5, "mid": 8, "senior": 15 },
+    "skillsRequired": ["Counseling", "Research Methods", "Statistics"],
+    "successRate": 75
+  }
+]

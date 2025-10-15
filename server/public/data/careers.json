@@ -1,0 +1,536 @@
+[
+  {
+    "title": "Software Engineer",
+    "category": "Engineering",
+    "description": "Design, develop, and maintain software applications and systems. A highly sought-after role in Indias booming IT sector.",
+    "requiredSkills": [
+      { "skill": "Data Structures & Algorithms", "proficiency": "Advanced", "importance": 5 },
+      { "skill": "Programming (Python/Java/C++)", "proficiency": "Advanced", "importance": 5 },
+      { "skill": "System Design", "proficiency": "Intermediate", "importance": 4 },
+      { "skill": "Databases (SQL/NoSQL)", "proficiency": "Intermediate", "importance": 3 },
+      { "skill": "Version Control (Git)", "proficiency": "Intermediate", "importance": 3 }
+    ],
+    "educationPath": [
+      { "level": "Bachelor", "fields": ["Computer Science", "Information Technology"], "duration": "4 years", "mandatory": true }
+    ],
+    "salaryRange": {
+      "entry": { "min": 600000, "max": 1500000 },
+      "mid": { "min": 1500000, "max": 3500000 },
+      "senior": { "min": 3500000, "max": 8000000 }
+    },
+    "jobRoles": ["SDE-1/2/3", "Full Stack Developer", "Backend Developer", "ML Engineer"],
+    "industries": ["IT Services", "Product Companies", "E-commerce", "FinTech", "Startups"],
+    "growth": { "demand": "High", "futureScope": "Excellent growth with AI and cloud adoption.", "automationRisk": "Low" },
+    "aptitudeMapping": { "analytical": 95, "creative": 60, "technical": 95, "communication": 70, "leadership": 65 }
+  },
+  {
+    "title": "Data Scientist",
+    "category": "Science",
+    "description": "Analyze complex data to extract insights and build predictive models for business decision-making.",
+    "requiredSkills": [
+      { "skill": "Python/R", "proficiency": "Advanced", "importance": 5 },
+      { "skill": "Machine Learning", "proficiency": "Advanced", "importance": 5 },
+      { "skill": "Statistics & Probability", "proficiency": "Advanced", "importance": 4 },
+      { "skill": "SQL", "proficiency": "Advanced", "importance": 4 }
+    ],
+    "educationPath": [
+      { "level": "Bachelor", "fields": ["Computer Science", "Statistics", "Mathematics"], "duration": "4 years", "mandatory": true },
+      { "level": "Master", "fields": ["Data Science", "AI/ML"], "duration": "2 years", "mandatory": false }
+    ],
+    "salaryRange": {
+      "entry": { "min": 800000, "max": 2000000 },
+      "mid": { "min": 2000000, "max": 4500000 },
+      "senior": { "min": 4500000, "max": 10000000 }
+    },
+    "jobRoles": ["Data Scientist", "ML Engineer", "Data Analyst", "AI Researcher"],
+    "industries": ["Technology", "Finance", "Healthcare", "E-commerce", "Consulting"],
+    "growth": { "demand": "High", "futureScope": "Extremely high demand across all sectors.", "automationRisk": "Low" },
+    "aptitudeMapping": { "analytical": 95, "creative": 75, "technical": 90, "communication": 80, "leadership": 70 }
+  },
+  {
+    "title": "Chartered Accountant",
+    "category": "Business",
+    "description": "Manages finances, auditing, and taxation for businesses and individuals. A prestigious and stable career in India.",
+    "requiredSkills": [
+      { "skill": "Accounting Standards", "proficiency": "Advanced", "importance": 5 },
+      { "skill": "Taxation Laws (Direct/Indirect)", "proficiency": "Advanced", "importance": 5 },
+      { "skill": "Auditing", "proficiency": "Advanced", "importance": 4 },
+      { "skill": "Financial Management", "proficiency": "Intermediate", "importance": 4 }
+    ],
+    "educationPath": [
+      { "level": "10+2", "fields": ["Commerce"], "duration": "2 years", "mandatory": true },
+      { "level": "Certificate", "fields": ["CA (Foundation, Inter, Final)"], "duration": "4-5 years", "mandatory": true }
+    ],
+    "salaryRange": {
+      "entry": { "min": 700000, "max": 1200000 },
+      "mid": { "min": 1200000, "max": 2500000 },
+      "senior": { "min": 2500000, "max": 6000000 }
+    },
+    "jobRoles": ["Auditor", "Finance Manager", "Tax Consultant", "CFO"],
+    "industries": ["Consulting (Big 4)", "Banking", "Manufacturing", "Corporate Finance"],
+    "growth": { "demand": "High", "futureScope": "Consistently high demand due to complex financial regulations.", "automationRisk": "Medium" },
+    "aptitudeMapping": { "analytical": 90, "creative": 50, "technical": 80, "communication": 75, "leadership": 80 }
+  },
+  {
+    "title": "Doctor (MBBS)",
+    "category": "Medical",
+    "description": "Provide medical care, diagnose illnesses, and treat patients in hospitals or clinics.",
+    "requiredSkills": [
+      { "skill": "Medical Knowledge", "proficiency": "Advanced", "importance": 5 },
+      { "skill": "Patient Care", "proficiency": "Advanced", "importance": 5 },
+      { "skill": "Diagnostic Skills", "proficiency": "Intermediate", "importance": 4 }
+    ],
+    "educationPath": [
+      { "level": "Bachelor", "fields": ["Medicine"], "duration": "5.5 years", "mandatory": true }
+    ],
+    "salaryRange": {
+      "entry": { "min": 600000, "max": 1200000 },
+      "mid": { "min": 1500000, "max": 3000000 },
+      "senior": { "min": 3000000, "max": 7000000 }
+    },
+    "jobRoles": ["General Physician", "Specialist", "Surgeon"],
+    "industries": ["Healthcare", "Hospitals", "Clinics"],
+    "growth": { "demand": "High", "futureScope": "Growing with healthcare advancements.", "automationRisk": "Low" },
+    "aptitudeMapping": { "analytical": 85, "creative": 60, "technical": 80, "communication": 90, "leadership": 75 }
+  },
+  {
+    "title": "Civil Engineer",
+    "category": "Engineering",
+    "description": "Design and oversee construction of infrastructure like roads, bridges, and buildings.",
+    "requiredSkills": [
+      { "skill": "Structural Analysis", "proficiency": "Advanced", "importance": 5 },
+      { "skill": "Project Management", "proficiency": "Intermediate", "importance": 4 }
+    ],
+    "educationPath": [
+      { "level": "Bachelor", "fields": ["Civil Engineering"], "duration": "4 years", "mandatory": true }
+    ],
+    "salaryRange": {
+      "entry": { "min": 400000, "max": 800000 },
+      "mid": { "min": 800000, "max": 2000000 },
+      "senior": { "min": 2000000, "max": 5000000 }
+    },
+    "jobRoles": ["Site Engineer", "Project Manager", "Structural Engineer"],
+    "industries": ["Construction", "Infrastructure", "Government"],
+    "growth": { "demand": "Medium", "futureScope": "Steady with urban development.", "automationRisk": "Medium" },
+    "aptitudeMapping": { "analytical": 90, "creative": 70, "technical": 85, "communication": 65, "leadership": 70 }
+  },
+  {
+    "title": "Marketing Manager",
+    "category": "Business",
+    "description": "Develop strategies to promote products and services, analyzing market trends.",
+    "requiredSkills": [
+      { "skill": "Digital Marketing", "proficiency": "Advanced", "importance": 5 },
+      { "skill": "Market Research", "proficiency": "Intermediate", "importance": 4 }
+    ],
+    "educationPath": [
+      { "level": "Bachelor", "fields": ["Marketing", "Business Administration"], "duration": "3-4 years", "mandatory": true }
+    ],
+    "salaryRange": {
+      "entry": { "min": 500000, "max": 1000000 },
+      "mid": { "min": 1000000, "max": 2500000 },
+      "senior": { "min": 2500000, "max": 6000000 }
+    },
+    "jobRoles": ["Brand Manager", "Digital Marketer", "Market Analyst"],
+    "industries": ["FMCG", "E-commerce", "Advertising"],
+    "growth": { "demand": "High", "futureScope": "Rising with digital transformation.", "automationRisk": "Medium" },
+    "aptitudeMapping": { "analytical": 75, "creative": 90, "technical": 60, "communication": 95, "leadership": 80 }
+  },
+  {
+    "title": "Graphic Designer",
+    "category": "Design",
+    "description": "Create visual content for branding, advertising, and digital media.",
+    "requiredSkills": [
+      { "skill": "Adobe Creative Suite", "proficiency": "Advanced", "importance": 5 },
+      { "skill": "UI/UX Design", "proficiency": "Intermediate", "importance": 4 }
+    ],
+    "educationPath": [
+      { "level": "Bachelor", "fields": ["Graphic Design"], "duration": "4 years", "mandatory": true }
+    ],
+    "salaryRange": {
+      "entry": { "min": 300000, "max": 600000 },
+      "mid": { "min": 600000, "max": 1500000 },
+      "senior": { "min": 1500000, "max": 4000000 }
+    },
+    "jobRoles": ["Visual Designer", "UI Designer", "Art Director"],
+    "industries": ["Advertising", "Media", "Tech"],
+    "growth": { "demand": "Medium", "futureScope": "Growing with digital content needs.", "automationRisk": "Medium" },
+    "aptitudeMapping": { "analytical": 60, "creative": 95, "technical": 70, "communication": 80, "leadership": 65 }
+  },
+  {
+    "title": "Lawyer",
+    "category": "Law",
+    "description": "Provide legal advice, represent clients in court, and draft legal documents.",
+    "requiredSkills": [
+      { "skill": "Legal Research", "proficiency": "Advanced", "importance": 5 },
+      { "skill": "Argumentation", "proficiency": "Advanced", "importance": 5 }
+    ],
+    "educationPath": [
+      { "level": "Bachelor", "fields": ["LLB"], "duration": "3-5 years", "mandatory": true }
+    ],
+    "salaryRange": {
+      "entry": { "min": 400000, "max": 800000 },
+      "mid": { "min": 800000, "max": 2000000 },
+      "senior": { "min": 2000000, "max": 5000000 }
+    },
+    "jobRoles": ["Corporate Lawyer", "Litigator", "Legal Advisor"],
+    "industries": ["Law Firms", "Corporate", "Government"],
+    "growth": { "demand": "Medium", "futureScope": "Stable with increasing regulations.", "automationRisk": "Low" },
+    "aptitudeMapping": { "analytical": 90, "creative": 70, "technical": 60, "communication": 95, "leadership": 85 }
+  },
+  {
+    "title": "Cybersecurity Analyst",
+    "category": "Engineering",
+    "description": "Protect systems and networks from cyber threats and data breaches.",
+    "requiredSkills": [
+      { "skill": "Network Security", "proficiency": "Advanced", "importance": 5 },
+      { "skill": "Ethical Hacking", "proficiency": "Intermediate", "importance": 4 }
+    ],
+    "educationPath": [
+      { "level": "Bachelor", "fields": ["Computer Science", "Cybersecurity"], "duration": "4 years", "mandatory": true }
+    ],
+    "salaryRange": {
+      "entry": { "min": 700000, "max": 1500000 },
+      "mid": { "min": 1500000, "max": 3000000 },
+      "senior": { "min": 3000000, "max": 7000000 }
+    },
+    "jobRoles": ["Security Engineer", "Penetration Tester", "Security Consultant"],
+    "industries": ["IT", "Finance", "Government"],
+    "growth": { "demand": "High", "futureScope": "Booming with rising cyber threats.", "automationRisk": "Low" },
+    "aptitudeMapping": { "analytical": 95, "creative": 65, "technical": 95, "communication": 70, "leadership": 70 }
+  },
+  {
+    "title": "Human Resources Manager",
+    "category": "Business",
+    "description": "Manage recruitment, employee relations, and organizational development.",
+    "requiredSkills": [
+      { "skill": "Recruitment", "proficiency": "Advanced", "importance": 5 },
+      { "skill": "Conflict Resolution", "proficiency": "Intermediate", "importance": 4 }
+    ],
+    "educationPath": [
+      { "level": "Bachelor", "fields": ["HR Management"], "duration": "3 years", "mandatory": true }
+    ],
+    "salaryRange": {
+      "entry": { "min": 500000, "max": 1000000 },
+      "mid": { "min": 1000000, "max": 2500000 },
+      "senior": { "min": 2500000, "max": 5000000 }
+    },
+    "jobRoles": ["HR Generalist", "Talent Acquisition Specialist", "HR Director"],
+    "industries": ["Corporate", "IT", "Manufacturing"],
+    "growth": { "demand": "Medium", "futureScope": "Essential for talent management.", "automationRisk": "Medium" },
+    "aptitudeMapping": { "analytical": 70, "creative": 60, "technical": 50, "communication": 95, "leadership": 90 }
+  },
+  {
+    "title": "Renewable Energy Engineer",
+    "category": "Engineering",
+    "description": "Design and implement sustainable energy solutions like solar and wind power systems.",
+    "requiredSkills": [
+      { "skill": "Solar/Wind Technology", "proficiency": "Advanced", "importance": 5 },
+      { "skill": "Energy Modeling", "proficiency": "Intermediate", "importance": 4 },
+      { "skill": "Project Planning", "proficiency": "Intermediate", "importance": 4 }
+    ],
+    "educationPath": [
+      { "level": "Bachelor", "fields": ["Renewable Energy Engineering", "Electrical Engineering"], "duration": "4 years", "mandatory": true }
+    ],
+    "salaryRange": {
+      "entry": { "min": 500000, "max": 1000000 },
+      "mid": { "min": 1000000, "max": 2500000 },
+      "senior": { "min": 2500000, "max": 6000000 }
+    },
+    "jobRoles": ["Solar Engineer", "Wind Farm Designer", "Energy Consultant"],
+    "industries": ["Renewable Energy", "Government", "Utilities"],
+    "growth": { "demand": "High", "futureScope": "Rapid growth with India's green energy push.", "automationRisk": "Low" },
+    "aptitudeMapping": { "analytical": 85, "creative": 75, "technical": 90, "communication": 70, "leadership": 75 }
+  },
+  {
+    "title": "Digital Marketing Specialist",
+    "category": "Business",
+    "description": "Create online campaigns to promote brands using SEO, social media, and content strategies.",
+    "requiredSkills": [
+      { "skill": "SEO/SEM", "proficiency": "Advanced", "importance": 5 },
+      { "skill": "Social Media Management", "proficiency": "Advanced", "importance": 5 },
+      { "skill": "Content Creation", "proficiency": "Intermediate", "importance": 4 }
+    ],
+    "educationPath": [
+      { "level": "Bachelor", "fields": ["Digital Marketing", "Mass Communication"], "duration": "3 years", "mandatory": true }
+    ],
+    "salaryRange": {
+      "entry": { "min": 400000, "max": 800000 },
+      "mid": { "min": 800000, "max": 2000000 },
+      "senior": { "min": 2000000, "max": 5000000 }
+    },
+    "jobRoles": ["SEO Expert", "Content Marketer", "Social Media Manager"],
+    "industries": ["E-commerce", "Advertising", "Startups"],
+    "growth": { "demand": "High", "futureScope": "Exploding with digital economy growth.", "automationRisk": "Medium" },
+    "aptitudeMapping": { "analytical": 80, "creative": 90, "technical": 70, "communication": 85, "leadership": 70 }
+  },
+  {
+    "title": "Public Health Specialist",
+    "category": "Medical",
+    "description": "Work on disease prevention, health policy, and community health programs.",
+    "requiredSkills": [
+      { "skill": "Epidemiology", "proficiency": "Advanced", "importance": 5 },
+      { "skill": "Health Policy Analysis", "proficiency": "Intermediate", "importance": 4 },
+      { "skill": "Data Analysis", "proficiency": "Intermediate", "importance": 4 }
+    ],
+    "educationPath": [
+      { "level": "Bachelor", "fields": ["Public Health", "Nursing"], "duration": "4 years", "mandatory": true },
+      { "level": "Master", "fields": ["MPH"], "duration": "2 years", "mandatory": false }
+    ],
+    "salaryRange": {
+      "entry": { "min": 500000, "max": 1000000 },
+      "mid": { "min": 1000000, "max": 2500000 },
+      "senior": { "min": 2500000, "max": 5000000 }
+    },
+    "jobRoles": ["Health Officer", "Epidemiologist", "Policy Advisor"],
+    "industries": ["Government", "NGOs", "Healthcare"],
+    "growth": { "demand": "High", "futureScope": "Increasing with focus on preventive healthcare.", "automationRisk": "Low" },
+    "aptitudeMapping": { "analytical": 85, "creative": 65, "technical": 75, "communication": 90, "leadership": 80 }
+  },
+  {
+    "title": "IAS Officer",
+    "category": "Other",
+    "description": "Administrative role in government, implementing policies and managing public services.",
+    "requiredSkills": [
+      { "skill": "Public Administration", "proficiency": "Advanced", "importance": 5 },
+      { "skill": "Decision Making", "proficiency": "Advanced", "importance": 5 },
+      { "skill": "Leadership", "proficiency": "Advanced", "importance": 4 }
+    ],
+    "educationPath": [
+      { "level": "Bachelor", "fields": ["Any"], "duration": "3-4 years", "mandatory": true },
+      { "level": "Certificate", "fields": ["UPSC Civil Services Exam"], "duration": "1-2 years prep", "mandatory": true }
+    ],
+    "salaryRange": {
+      "entry": { "min": 560000, "max": 1000000 },
+      "mid": { "min": 1000000, "max": 2000000 },
+      "senior": { "min": 2000000, "max": 2500000 }
+    },
+    "jobRoles": ["District Collector", "Secretary", "Policy Maker"],
+    "industries": ["Government", "Public Administration"],
+    "growth": { "demand": "Medium", "futureScope": "Stable with government reforms.", "automationRisk": "Low" },
+    "aptitudeMapping": { "analytical": 90, "creative": 60, "technical": 65, "communication": 95, "leadership": 95 }
+  },
+  {
+    "title": "Biotechnologist",
+    "category": "Science",
+    "description": "Research and develop products using biological processes in pharma and agriculture.",
+    "requiredSkills": [
+      { "skill": "Molecular Biology", "proficiency": "Advanced", "importance": 5 },
+      { "skill": "Lab Techniques", "proficiency": "Intermediate", "importance": 4 },
+      { "skill": "Data Interpretation", "proficiency": "Intermediate", "importance": 4 }
+    ],
+    "educationPath": [
+      { "level": "Bachelor", "fields": ["Biotechnology"], "duration": "4 years", "mandatory": true },
+      { "level": "Master", "fields": ["M.Sc Biotechnology"], "duration": "2 years", "mandatory": false }
+    ],
+    "salaryRange": {
+      "entry": { "min": 400000, "max": 800000 },
+      "mid": { "min": 800000, "max": 2000000 },
+      "senior": { "min": 2000000, "max": 5000000 }
+    },
+    "jobRoles": ["Research Scientist", "Lab Technician", "Product Developer"],
+    "industries": ["Pharma", "Agriculture", "Research Labs"],
+    "growth": { "demand": "High", "futureScope": "Growing with biotech innovations.", "automationRisk": "Medium" },
+    "aptitudeMapping": { "analytical": 90, "creative": 70, "technical": 85, "communication": 75, "leadership": 65 }
+  },
+  {
+    "title": "Content Creator",
+    "category": "Arts",
+    "description": "Produce digital content for platforms like YouTube, Instagram, and blogs.",
+    "requiredSkills": [
+      { "skill": "Video Editing", "proficiency": "Advanced", "importance": 5 },
+      { "skill": "Storytelling", "proficiency": "Advanced", "importance": 5 },
+      { "skill": "SEO Knowledge", "proficiency": "Intermediate", "importance": 4 }
+    ],
+    "educationPath": [
+      { "level": "Bachelor", "fields": ["Mass Communication", "Journalism"], "duration": "3 years", "mandatory": false }
+    ],
+    "salaryRange": {
+      "entry": { "min": 300000, "max": 600000 },
+      "mid": { "min": 600000, "max": 1500000 },
+      "senior": { "min": 1500000, "max": 4000000 }
+    },
+    "jobRoles": ["YouTuber", "Blogger", "Social Media Influencer"],
+    "industries": ["Media", "Digital Marketing", "Entertainment"],
+    "growth": { "demand": "High", "futureScope": "Booming with social media growth.", "automationRisk": "Medium" },
+    "aptitudeMapping": { "analytical": 65, "creative": 95, "technical": 70, "communication": 90, "leadership": 70 }
+  },
+  {
+    "title": "Agricultural Scientist",
+    "category": "Science",
+    "description": "Research crop improvement, soil management, and sustainable farming practices.",
+    "requiredSkills": [
+      { "skill": "Crop Science", "proficiency": "Advanced", "importance": 5 },
+      { "skill": "Soil Analysis", "proficiency": "Intermediate", "importance": 4 },
+      { "skill": "Research Methods", "proficiency": "Intermediate", "importance": 4 }
+    ],
+    "educationPath": [
+      { "level": "Bachelor", "fields": ["Agriculture"], "duration": "4 years", "mandatory": true },
+      { "level": "Master", "fields": ["M.Sc Agriculture"], "duration": "2 years", "mandatory": false }
+    ],
+    "salaryRange": {
+      "entry": { "min": 400000, "max": 800000 },
+      "mid": { "min": 800000, "max": 1500000 },
+      "senior": { "min": 1500000, "max": 3000000 }
+    },
+    "jobRoles": ["Agronomist", "Research Officer", "Farm Consultant"],
+    "industries": ["Agriculture", "Government", "Research Institutes"],
+    "growth": { "demand": "Medium", "futureScope": "Essential for food security in India.", "automationRisk": "Low" },
+    "aptitudeMapping": { "analytical": 85, "creative": 70, "technical": 80, "communication": 75, "leadership": 70 }
+  },
+  {
+    "title": "Pilot",
+    "category": "Other",
+    "description": "Operate aircraft for commercial or cargo flights, ensuring safe travel.",
+    "requiredSkills": [
+      { "skill": "Aviation Knowledge", "proficiency": "Advanced", "importance": 5 },
+      { "skill": "Navigation", "proficiency": "Advanced", "importance": 5 },
+      { "skill": "Crisis Management", "proficiency": "Intermediate", "importance": 4 }
+    ],
+    "educationPath": [
+      { "level": "Certificate", "fields": ["Commercial Pilot License (CPL)"], "duration": "1-2 years", "mandatory": true }
+    ],
+    "salaryRange": {
+      "entry": { "min": 800000, "max": 1500000 },
+      "mid": { "min": 1500000, "max": 3000000 },
+      "senior": { "min": 3000000, "max": 7000000 }
+    },
+    "jobRoles": ["Commercial Pilot", "Captain", "Flight Instructor"],
+    "industries": ["Aviation", "Airlines", "Cargo"],
+    "growth": { "demand": "Medium", "futureScope": "Growing with aviation expansion.", "automationRisk": "Medium" },
+    "aptitudeMapping": { "analytical": 80, "creative": 50, "technical": 90, "communication": 85, "leadership": 90 }
+  },
+  {
+    "title": "Teacher",
+    "category": "Other",
+    "description": "Educate students in schools or colleges, shaping future generations.",
+    "requiredSkills": [
+      { "skill": "Subject Expertise", "proficiency": "Advanced", "importance": 5 },
+      { "skill": "Classroom Management", "proficiency": "Intermediate", "importance": 4 },
+      { "skill": "Communication", "proficiency": "Advanced", "importance": 5 }
+    ],
+    "educationPath": [
+      { "level": "Bachelor", "fields": ["Education (B.Ed)"], "duration": "2 years post-grad", "mandatory": true }
+    ],
+    "salaryRange": {
+      "entry": { "min": 300000, "max": 600000 },
+      "mid": { "min": 600000, "max": 1200000 },
+      "senior": { "min": 1200000, "max": 2500000 }
+    },
+    "jobRoles": ["School Teacher", "Lecturer", "Principal"],
+    "industries": ["Education", "Schools", "Colleges"],
+    "growth": { "demand": "High", "futureScope": "Always needed in India's education system.", "automationRisk": "Low" },
+    "aptitudeMapping": { "analytical": 70, "creative": 80, "technical": 60, "communication": 95, "leadership": 85 }
+  },
+  {
+    "title": "Electrical Engineer",
+    "category": "Engineering",
+    "description": "Design and maintain electrical systems and equipment.",
+    "requiredSkills": [
+      { "skill": "Circuit Design", "proficiency": "Advanced", "importance": 5 },
+      { "skill": "Power Systems", "proficiency": "Intermediate", "importance": 4 },
+      { "skill": "Safety Standards", "proficiency": "Advanced", "importance": 4 }
+    ],
+    "educationPath": [
+      { "level": "Bachelor", "fields": ["Electrical Engineering"], "duration": "4 years", "mandatory": true }
+    ],
+    "salaryRange": {
+      "entry": { "min": 500000, "max": 1000000 },
+      "mid": { "min": 1000000, "max": 2500000 },
+      "senior": { "min": 2500000, "max": 6000000 }
+    },
+    "jobRoles": ["Power Engineer", "Control Systems Engineer", "Project Engineer"],
+    "industries": ["Power", "Manufacturing", "Telecom"],
+    "growth": { "demand": "Medium", "futureScope": "Stable with energy sector growth.", "automationRisk": "Medium" },
+    "aptitudeMapping": { "analytical": 85, "creative": 65, "technical": 90, "communication": 70, "leadership": 75 }
+  },
+  {
+    "title": "Journalist",
+    "category": "Arts",
+    "description": "Report news and stories through media channels.",
+    "requiredSkills": [
+      { "skill": "Writing", "proficiency": "Advanced", "importance": 5 },
+      { "skill": "Research", "proficiency": "Advanced", "importance": 5 },
+      { "skill": "Interviewing", "proficiency": "Intermediate", "importance": 4 }
+    ],
+    "educationPath": [
+      { "level": "Bachelor", "fields": ["Journalism"], "duration": "3 years", "mandatory": true }
+    ],
+    "salaryRange": {
+      "entry": { "min": 300000, "max": 600000 },
+      "mid": { "min": 600000, "max": 1500000 },
+      "senior": { "min": 1500000, "max": 4000000 }
+    },
+    "jobRoles": ["Reporter", "Editor", "Anchor"],
+    "industries": ["Media", "Broadcasting", "Publishing"],
+    "growth": { "demand": "Medium", "futureScope": "Evolving with digital media.", "automationRisk": "Medium" },
+    "aptitudeMapping": { "analytical": 80, "creative": 85, "technical": 60, "communication": 95, "leadership": 70 }
+  },
+  {
+    "title": "Pharmacist",
+    "category": "Medical",
+    "description": "Dispense medications and provide healthcare advice.",
+    "requiredSkills": [
+      { "skill": "Drug Knowledge", "proficiency": "Advanced", "importance": 5 },
+      { "skill": "Patient Counseling", "proficiency": "Intermediate", "importance": 4 },
+      { "skill": "Inventory Management", "proficiency": "Intermediate", "importance": 3 }
+    ],
+    "educationPath": [
+      { "level": "Bachelor", "fields": ["Pharmacy"], "duration": "4 years", "mandatory": true }
+    ],
+    "salaryRange": {
+      "entry": { "min": 400000, "max": 800000 },
+      "mid": { "min": 800000, "max": 1500000 },
+      "senior": { "min": 1500000, "max": 3000000 }
+    },
+    "jobRoles": ["Retail Pharmacist", "Hospital Pharmacist", "Research Pharmacist"],
+    "industries": ["Pharma", "Hospitals", "Retail"],
+    "growth": { "demand": "High", "futureScope": "Growing with healthcare needs.", "automationRisk": "Low" },
+    "aptitudeMapping": { "analytical": 80, "creative": 50, "technical": 85, "communication": 90, "leadership": 65 }
+  },
+  {
+    "title": "Financial Analyst",
+    "category": "Business",
+    "description": "Analyze financial data to guide business decisions.",
+    "requiredSkills": [
+      { "skill": "Financial Modeling", "proficiency": "Advanced", "importance": 5 },
+      { "skill": "Excel & Analytics Tools", "proficiency": "Advanced", "importance": 4 },
+      { "skill": "Market Analysis", "proficiency": "Intermediate", "importance": 4 }
+    ],
+    "educationPath": [
+      { "level": "Bachelor", "fields": ["Finance", "Economics"], "duration": "3 years", "mandatory": true },
+      { "level": "Certificate", "fields": ["CFA"], "duration": "1-2 years", "mandatory": false }
+    ],
+    "salaryRange": {
+      "entry": { "min": 600000, "max": 1200000 },
+      "mid": { "min": 1200000, "max": 3000000 },
+      "senior": { "min": 3000000, "max": 7000000 }
+    },
+    "jobRoles": ["Investment Analyst", "Risk Analyst", "Budget Analyst"],
+    "industries": ["Banking", "Consulting", "Corporate Finance"],
+    "growth": { "demand": "High", "futureScope": "Strong with economic growth.", "automationRisk": "Medium" },
+    "aptitudeMapping": { "analytical": 95, "creative": 55, "technical": 80, "communication": 75, "leadership": 70 }
+  },
+  {
+    "title": "Environmental Scientist",
+    "category": "Science",
+    "description": "Study environmental issues and develop sustainability solutions.",
+    "requiredSkills": [
+      { "skill": "Environmental Monitoring", "proficiency": "Advanced", "importance": 5 },
+      { "skill": "Data Analysis", "proficiency": "Intermediate", "importance": 4 },
+      { "skill": "Policy Knowledge", "proficiency": "Intermediate", "importance": 4 }
+    ],
+    "educationPath": [
+      { "level": "Bachelor", "fields": ["Environmental Science"], "duration": "3 years", "mandatory": true },
+      { "level": "Master", "fields": ["M.Sc Environmental Science"], "duration": "2 years", "mandatory": false }
+    ],
+    "salaryRange": {
+      "entry": { "min": 400000, "max": 800000 },
+      "mid": { "min": 800000, "max": 2000000 },
+      "senior": { "min": 2000000, "max": 5000000 }
+    },
+    "jobRoles": ["Ecologist", "Sustainability Consultant", "Researcher"],
+    "industries": ["Government", "NGOs", "Research"],
+    "growth": { "demand": "Medium", "futureScope": "Increasing with climate focus.", "automationRisk": "Low" },
+    "aptitudeMapping": { "analytical": 90, "creative": 70, "technical": 80, "communication": 80, "leadership": 75 }
+  }
+]

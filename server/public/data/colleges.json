@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Indian Institute of Technology Bombay",
+    "shortName": "IIT Bombay",
+    "location": { "state": "Maharashtra", "city": "Mumbai" },
+    "type": "Central",
+    "courses": [
+      { "name": "Computer Science and Engineering", "duration": "4 years", "fees": { "annual": 220000 }, "eligibility": { "stream": ["Science"], "entranceExam": "JEE Advanced" }, "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 67 }] }
+    ],
+    "ratings": { "overall": 4.9, "placement": 5.0 },
+    "placementStats": { "averagePackage": 2500000, "topRecruiters": ["Google", "Microsoft", "Apple", "Jane Street"] },
+    "isActive": true
+  },
+  {
+    "name": "Indian Institute of Technology Delhi",
+    "shortName": "IIT Delhi",
+    "location": { "state": "Delhi", "city": "New Delhi" },
+    "type": "Central",
+    "courses": [
+      { "name": "Computer Science and Engineering", "duration": "4 years", "fees": { "annual": 220000 }, "eligibility": { "stream": ["Science"], "entranceExam": "JEE Advanced" }, "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 115 }] }
+    ],
+    "ratings": { "overall": 4.8, "placement": 4.9 },
+    "placementStats": { "averagePackage": 2400000, "topRecruiters": ["Microsoft", "Amazon", "Goldman Sachs"] },
+    "isActive": true
+  },
+  {
+    "name": "All India Institute of Medical Sciences, Delhi",
+    "shortName": "AIIMS Delhi",
+    "location": { "state": "Delhi", "city": "New Delhi" },
+    "type": "Central",
+    "courses": [
+      { "name": "MBBS", "duration": "5.5 years", "fees": { "annual": 6500 }, "eligibility": { "stream": ["Science"], "entranceExam": "NEET" }, "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 710 }] }
+    ],
+    "ratings": { "overall": 4.9, "placement": 4.9 },
+    "placementStats": { "averagePackage": 1800000, "topRecruiters": ["Top Government & Private Hospitals"] },
+    "isActive": true
+  },
+  {
+    "name": "Shri Ram College of Commerce",
+    "shortName": "SRCC",
+    "location": { "state": "Delhi", "city": "New Delhi" },
+    "type": "Government",
+    "courses": [
+      { "name": "Bachelor of Commerce (Hons)", "duration": "3 years", "fees": { "annual": 30000 }, "eligibility": { "stream": ["Commerce"], "entranceExam": "CUET" }, "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 99 }] }
+    ],
+    "ratings": { "overall": 4.7, "placement": 4.8 },
+    "placementStats": { "averagePackage": 1000000, "topRecruiters": ["McKinsey", "BCG", "Big 4 Accounting Firms"] },
+    "isActive": true
+  },
+  {
+    "name": "Indian Institute of Technology Madras",
+    "shortName": "IIT Madras",
+    "location": { "state": "Tamil Nadu", "city": "Chennai" },
+    "type": "Central",
+    "courses": [
+      { "name": "Computer Science and Engineering", "duration": "4 years", "fees": { "annual": 220000 }, "eligibility": { "stream": ["Science"], "entranceExam": "JEE Advanced" }, "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 144 }] }
+    ],
+    "ratings": { "overall": 4.8, "placement": 4.9 },
+    "placementStats": { "averagePackage": 2300000, "topRecruiters": ["Google", "Intel", "Accenture"] },
+    "isActive": true
+  },
+  {
+    "name": "Indian Institute of Management Ahmedabad",
+    "shortName": "IIM Ahmedabad",
+    "location": { "state": "Gujarat", "city": "Ahmedabad" },
+    "type": "Government",
+    "courses": [
+      { "name": "MBA", "duration": "2 years", "fees": { "annual": 1200000 }, "eligibility": { "stream": ["Any"], "entranceExam": "CAT" }, "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 99 }] }
+    ],
+    "ratings": { "overall": 4.9, "placement": 5.0 },
+    "placementStats": { "averagePackage": 3500000, "topRecruiters": ["McKinsey", "Boston Consulting Group", "Amazon"] },
+    "isActive": true
+  },
+  {
+    "name": "National Law School of India University",
+    "shortName": "NLSIU Bangalore",
+    "location": { "state": "Karnataka", "city": "Bangalore" },
+    "type": "Deemed",
+    "courses": [
+      { "name": "BA LLB (Hons)", "duration": "5 years", "fees": { "annual": 300000 }, "eligibility": { "stream": ["Any"], "entranceExam": "CLAT" }, "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 114 }] }
+    ],
+    "ratings": { "overall": 4.8, "placement": 4.7 },
+    "placementStats": { "averagePackage": 1600000, "topRecruiters": ["AZB & Partners", "Cyril Amarchand Mangaldas"] },
+    "isActive": true
+  },
+  {
+    "name": "Birla Institute of Technology and Science",
+    "shortName": "BITS Pilani",
+    "location": { "state": "Rajasthan", "city": "Pilani" },
+    "type": "Deemed",
+    "courses": [
+      { "name": "Computer Science", "duration": "4 years", "fees": { "annual": 500000 }, "eligibility": { "stream": ["Science"], "entranceExam": "BITSAT" }, "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 372 }] }
+    ],
+    "ratings": { "overall": 4.7, "placement": 4.8 },
+    "placementStats": { "averagePackage": 2200000, "topRecruiters": ["Microsoft", "Google", "Uber"] },
+    "isActive": true
+  },
+  {
+    "name": "Christian Medical College",
+    "shortName": "CMC Vellore",
+    "location": { "state": "Tamil Nadu", "city": "Vellore" },
+    "type": "Private",
+    "courses": [
+      { "name": "MBBS", "duration": "5.5 years", "fees": { "annual": 48000 }, "eligibility": { "stream": ["Science"], "entranceExam": "NEET" }, "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 600 }] }
+    ],
+    "ratings": { "overall": 4.8, "placement": 4.9 },
+    "placementStats": { "averagePackage": 1500000, "topRecruiters": ["Apollo Hospitals", "Fortis"] },
+    "isActive": true
+  },
+  {
+    "name": "Indian Institute of Science",
+    "shortName": "IISc Bangalore",
+    "location": { "state": "Karnataka", "city": "Bangalore" },
+    "type": "Deemed",
+    "courses": [
+      { "name": "Bachelor of Science (Research)", "duration": "4 years", "fees": { "annual": 20000 }, "eligibility": { "stream": ["Science"], "entranceExam": "JEE Advanced/KVPY" }, "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 220 }] }
+    ],
+    "ratings": { "overall": 4.9, "placement": 4.7 },
+    "placementStats": { "averagePackage": 2000000, "topRecruiters": ["Intel", "ISRO", "DRDO"] },
+    "isActive": true
+  },
+  {
+    "name": "National Institute of Design",
+    "shortName": "NID Ahmedabad",
+    "location": { "state": "Gujarat", "city": "Ahmedabad" },
+    "type": "Government",
+    "courses": [
+      { "name": "Bachelor of Design", "duration": "4 years", "fees": { "annual": 300000 }, "eligibility": { "stream": ["Any"], "entranceExam": "NID DAT" }, "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 50 }] }
+    ],
+    "ratings": { "overall": 4.7, "placement": 4.6 },
+    "placementStats": { "averagePackage": 1200000, "topRecruiters": ["Adobe", "Titan", "Godrej"] },
+    "isActive": true
+  },
+  {
+    "name": "Jawaharlal Nehru University",
+    "shortName": "JNU Delhi",
+    "location": { "state": "Delhi", "city": "New Delhi" },
+    "type": "Central",
+    "courses": [
+      { "name": "BA (Hons) in Foreign Languages", "duration": "3 years", "fees": { "annual": 1000 }, "eligibility": { "stream": ["Any"], "entranceExam": "CUET" }, "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 95 }] }
+    ],
+    "ratings": { "overall": 4.6, "placement": 4.5 },
+    "placementStats": { "averagePackage": 800000, "topRecruiters": ["Google", "Oracle", "NGOs"] },
+    "isActive": true
+  },
+  {
+    "name": "National Institute of Technology Surathkal",
+    "shortName": "NIT Surathkal",
+    "location": { "state": "Karnataka", "city": "Mangalore" },
+    "type": "Central",
+    "courses": [
+      { "name": "Mechanical Engineering", "duration": "4 years", "fees": { "annual": 125000 }, "eligibility": { "stream": ["Science"], "entranceExam": "JEE Main" }, "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 5000 }] }
+    ],
+    "ratings": { "overall": 4.5, "placement": 4.6 },
+    "placementStats": { "averagePackage": 1400000, "topRecruiters": ["Tata Motors", "L&T", "Bosch"] },
+    "isActive": true
+  },
+  {
+    "name": "Manipal Academy of Higher Education",
+    "shortName": "Manipal University",
+    "location": { "state": "Karnataka", "city": "Manipal" },
+    "type": "Deemed",
+    "courses": [
+      { "name": "B.Tech in Information Technology", "duration": "4 years", "fees": { "annual": 300000 }, "eligibility": { "stream": ["Science"], "entranceExam": "MET" }, "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 15000 }] }
+    ],
+    "ratings": { "overall": 4.4, "placement": 4.5 },
+    "placementStats": { "averagePackage": 1200000, "topRecruiters": ["Accenture", "Deloitte", "Capgemini"] },
+    "isActive": true
+  },
+  {
+    "name": "Armed Forces Medical College",
+    "shortName": "AFMC Pune",
+    "location": { "state": "Maharashtra", "city": "Pune" },
+    "type": "Government",
+    "courses": [
+      { "name": "MBBS", "duration": "5.5 years", "fees": { "annual": 25000 }, "eligibility": { "stream": ["Science"], "entranceExam": "NEET" }, "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 650 }] }
+    ],
+    "ratings": { "overall": 4.7, "placement": 4.8 },
+    "placementStats": { "averagePackage": 1600000, "topRecruiters": ["Indian Armed Forces", "Government Hospitals"] },
+    "isActive": true
+  },
+  {
+    "name": "Indian Institute of Technology Kanpur",
+    "shortName": "IIT Kanpur",
+    "location": { "state": "Uttar Pradesh", "city": "Kanpur" },
+    "type": "Central",
+    "courses": [
+      { "name": "Aerospace Engineering", "duration": "4 years", "fees": { "annual": 220000 }, "eligibility": { "stream": ["Science"], "entranceExam": "JEE Advanced" }, "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 300 }] }
+    ],
+    "ratings": { "overall": 4.8, "placement": 4.9 },
+    "placementStats": { "averagePackage": 2200000, "topRecruiters": ["Boeing", "ISRO", "NASA Affiliates"] },
+    "isActive": true
+  },
+  {
+    "name": "Symbiosis International University",
+    "shortName": "Symbiosis Pune",
+    "location": { "state": "Maharashtra", "city": "Pune" },
+    "type": "Deemed",
+    "courses": [
+      { "name": "BBA", "duration": "3 years", "fees": { "annual": 350000 }, "eligibility": { "stream": ["Any"], "entranceExam": "SET" }, "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 80 }] }
+    ],
+    "ratings": { "overall": 4.5, "placement": 4.4 },
+    "placementStats": { "averagePackage": 900000, "topRecruiters": ["KPMG", "EY", "PwC"] },
+    "isActive": true
+  },
+  {
+    "name": "National Institute of Fashion Technology",
+    "shortName": "NIFT Delhi",
+    "location": { "state": "Delhi", "city": "New Delhi" },
+    "type": "Government",
+    "courses": [
+      { "name": "Bachelor of Fashion Technology", "duration": "4 years", "fees": { "annual": 250000 }, "eligibility": { "stream": ["Any"], "entranceExam": "NIFT Exam" }, "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 500 }] }
+    ],
+    "ratings": { "overall": 4.6, "placement": 4.5 },
+    "placementStats": { "averagePackage": 800000, "topRecruiters": ["Reliance Brands", "Aditya Birla Fashion", "Tommy Hilfiger"] },
+    "isActive": true
+  },
+  {
+    "name": "Indian Institute of Technology Kharagpur",
+    "shortName": "IIT Kharagpur",
+    "location": { "state": "West Bengal", "city": "Kharagpur" },
+    "type": "Central",
+    "courses": [
+      { "name": "Mining Engineering", "duration": "4 years", "fees": { "annual": 220000 }, "eligibility": { "stream": ["Science"], "entranceExam": "JEE Advanced" }, "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 4000 }] }
+    ],
+    "ratings": { "overall": 4.7, "placement": 4.8 },
+    "placementStats": { "averagePackage": 1800000, "topRecruiters": ["Coal India", "Vedanta", "Tata Steel"] },
+    "isActive": true
+  },
+  {
+    "name": "Amity University",
+    "shortName": "Amity Noida",
+    "location": { "state": "Uttar Pradesh", "city": "Noida" },
+    "type": "Private",
+    "courses": [
+      { "name": "B.Sc in Biotechnology", "duration": "3 years", "fees": { "annual": 150000 }, "eligibility": { "stream": ["Science"], "entranceExam": "Amity JEE" }, "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 60 }] }
+    ],
+    "ratings": { "overall": 4.3, "placement": 4.2 },
+    "placementStats": { "averagePackage": 600000, "topRecruiters": ["Biocon", "Novartis", "Syngene"] },
+    "isActive": true
+  },
+  {
+    "name": "Vellore Institute of Technology",
+    "shortName": "VIT Vellore",
+    "location": { "state": "Tamil Nadu", "city": "Vellore" },
+    "type": "Deemed",
+    "courses": [
+      { "name": "B.Tech in Biotechnology", "duration": "4 years", "fees": { "annual": 195000 }, "eligibility": { "stream": ["Science"], "entranceExam": "VITEEE" }, "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 20000 }] }
+    ],
+    "ratings": { "overall": 4.5, "placement": 4.6 },
+    "placementStats": { "averagePackage": 900000, "topRecruiters": ["Cognizant", "Wipro", "Infosys"] },
+    "isActive": true
+  },
+  {
+    "name": "Indian Institute of Technology Roorkee",
+    "shortName": "IIT Roorkee",
+    "location": { "state": "Uttarakhand", "city": "Roorkee" },
+    "type": "Central",
+    "courses": [
+      { "name": "Civil Engineering", "duration": "4 years", "fees": { "annual": 220000 }, "eligibility": { "stream": ["Science"], "entranceExam": "JEE Advanced" }, "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 400 }] }
+    ],
+    "ratings": { "overall": 4.7, "placement": 4.8 },
+    "placementStats": { "averagePackage": 2000000, "topRecruiters": ["Larsen & Toubro", "Tata Consultancy Services"] },
+    "isActive": true
+  },
+  {
+    "name": "Lady Shri Ram College for Women",
+    "shortName": "LSR Delhi",
+    "location": { "state": "Delhi", "city": "New Delhi" },
+    "type": "Government",
+    "courses": [
+      { "name": "BA (Hons) Economics", "duration": "3 years", "fees": { "annual": 20000 }, "eligibility": { "stream": ["Any"], "entranceExam": "CUET" }, "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 98 }] }
+    ],
+    "ratings": { "overall": 4.6, "placement": 4.5 },
+    "placementStats": { "averagePackage": 900000, "topRecruiters": ["Deloitte", "EY", "KPMG"] },
+    "isActive": true
+  },
+  {
+    "name": "Indian Institute of Technology Guwahati",
+    "shortName": "IIT Guwahati",
+    "location": { "state": "Assam", "city": "Guwahati" },
+    "type": "Central",
+    "courses": [
+      { "name": "Electronics and Communication Engineering", "duration": "4 years", "fees": { "annual": 220000 }, "eligibility": { "stream": ["Science"], "entranceExam": "JEE Advanced" }, "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 600 }] }
+    ],
+    "ratings": { "overall": 4.6, "placement": 4.7 },
+    "placementStats": { "averagePackage": 2100000, "topRecruiters": ["Samsung", "Qualcomm", "Texas Instruments"] },
+    "isActive": true
+  },
+  {
+    "name": "St. Stephen's College",
+    "shortName": "St. Stephen's Delhi",
+    "location": { "state": "Delhi", "city": "New Delhi" },
+    "type": "Government",
+    "courses": [
+      { "name": "B.Sc (Hons) Physics", "duration": "3 years", "fees": { "annual": 25000 }, "eligibility": { "stream": ["Science"], "entranceExam": "CUET" }, "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 97 }] }
+    ],
+    "ratings": { "overall": 4.7, "placement": 4.6 },
+    "placementStats": { "averagePackage": 1000000, "topRecruiters": ["Google", "Bain & Company"] },
+    "isActive": true
+  },
+  {
+    "name": "National Institute of Technology Trichy",
+    "shortName": "NIT Trichy",
+    "location": { "state": "Tamil Nadu", "city": "Tiruchirappalli" },
+    "type": "Central",
+    "courses": [
+      { "name": "Chemical Engineering", "duration": "4 years", "fees": { "annual": 125000 }, "eligibility": { "stream": ["Science"], "entranceExam": "JEE Main" }, "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 3000 }] }
+    ],
+    "ratings": { "overall": 4.5, "placement": 4.7 },
+    "placementStats": { "averagePackage": 1500000, "topRecruiters": ["Reliance", "ONGC"] },
+    "isActive": true
+  },
+  {
+    "name": "Ashoka University",
+    "shortName": "Ashoka Sonepat",
+    "location": { "state": "Haryana", "city": "Sonepat" },
+    "type": "Private",
+    "courses": [
+      { "name": "BA Liberal Arts", "duration": "3 years", "fees": { "annual": 800000 }, "eligibility": { "stream": ["Any"], "entranceExam": "Ashoka Aptitude Test" }, "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 85 }] }
+    ],
+    "ratings": { "overall": 4.4, "placement": 4.3 },
+    "placementStats": { "averagePackage": 900000, "topRecruiters": ["McKinsey", "Boston Consulting Group"] },
+    "isActive": true
+  },
+  {
+    "name": "Indian Statistical Institute",
+    "shortName": "ISI Kolkata",
+    "location": { "state": "West Bengal", "city": "Kolkata" },
+    "type": "Government",
+    "courses": [
+      { "name": "B.Stat (Hons)", "duration": "3 years", "fees": { "annual": 0 }, "eligibility": { "stream": ["Science"], "entranceExam": "ISI Admission Test" }, "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 80 }] }
+    ],
+    "ratings": { "overall": 4.8, "placement": 4.9 },
+    "placementStats": { "averagePackage": 2000000, "topRecruiters": ["Goldman Sachs", "World Bank"] },
+    "isActive": true
+  },
+  {
+    "name": "OP Jindal Global University",
+    "shortName": "JGU Sonepat",
+    "location": { "state": "Haryana", "city": "Sonepat" },
+    "type": "Private",
+    "courses": [
+      { "name": "BA LLB (Hons)", "duration": "5 years", "fees": { "annual": 600000 }, "eligibility": { "stream": ["Any"], "entranceExam": "JSAT/LSAT" }, "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 70 }] }
+    ],
+    "ratings": { "overall": 4.5, "placement": 4.4 },
+    "placementStats": { "averagePackage": 1200000, "topRecruiters": ["Khaitan & Co", "Trilegal"] },
+    "isActive": true
+  },
+  {
+    "name": "Indian Institute of Technology Hyderabad",
+    "shortName": "IIT Hyderabad",
+    "location": { "state": "Telangana", "city": "Hyderabad" },
+    "type": "Central",
+    "courses": [
+      { "name": "Artificial Intelligence", "duration": "4 years", "fees": { "annual": 220000 }, "eligibility": { "stream": ["Science"], "entranceExam": "JEE Advanced" }, "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 500 }] }
+    ],
+    "ratings": { "overall": 4.6, "placement": 4.7 },
+    "placementStats": { "averagePackage": 2200000, "topRecruiters": ["Microsoft", "Google"] },
+    "isActive": true
+  }
+]

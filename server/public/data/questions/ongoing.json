@@ -1,0 +1,226 @@
+[
+  {
+    "question": "Which technical skill are you most interested in developing?",
+    "type": "multiple_choice",
+    "category": "interest",
+    "subcategory": "skill_preference",
+    "options": [
+      { "text": "AI and Machine Learning", "value": "ai_ml", "weight": 95 },
+      { "text": "Full-Stack Web Development", "value": "web_dev", "weight": 90 },
+      { "text": "Mobile App Development (Android/iOS)", "value": "mobile_dev", "weight": 88 },
+      { "text": "Cloud Computing & DevOps", "value": "cloud_devops", "weight": 85 },
+      { "text": "Cybersecurity", "value": "cybersecurity", "weight": 82 },
+      { "text": "Data Structures & Algorithms (Competitive Programming)", "value": "dsa_cp", "weight": 92 }
+    ],
+    "difficulty": "medium",
+    "stage": ["ongoing"],
+    "tags": ["skills", "career", "tech"]
+  },
+  {
+    "question": "What is your primary goal after graduation?",
+    "type": "multiple_choice",
+    "category": "interest",
+    "subcategory": "career_aspiration",
+    "options": [
+      { "text": "Secure a high-paying job at a top product company (MAANG)", "value": "top_company", "weight": 95 },
+      { "text": "Pursue higher studies (Masters/PhD) in India or abroad", "value": "higher_studies", "weight": 80 },
+      { "text": "Start my own tech startup", "value": "startup", "weight": 85 },
+      { "text": "Get a stable government job", "value": "govt_job", "weight": 70 },
+      { "text": "Join a research-oriented role", "value": "research", "weight": 78 }
+    ],
+    "difficulty": "easy",
+    "stage": ["ongoing"],
+    "tags": ["career", "goals", "placements"]
+  },
+  {
+    "question": "How would you rate your problem-solving skills (like those needed for DSA questions)?",
+    "type": "rating",
+    "category": "analytical",
+    "subcategory": "problem_solving",
+    "difficulty": "medium",
+    "stage": ["ongoing"],
+    "tags": ["dsa", "analytical", "skills"]
+  },
+  {
+    "question": "Have you completed any internships or significant projects?",
+    "type": "multiple_choice",
+    "category": "technical",
+    "subcategory": "experience",
+    "options": [
+      { "text": "Yes, one or more internships", "value": "internship_yes", "weight": 90 },
+      { "text": "Yes, I have built several personal projects", "value": "projects_yes", "weight": 85 },
+      { "text": "Both internships and projects", "value": "both", "weight": 95 },
+      { "text": "Not yet", "value": "none", "weight": 60 }
+    ],
+    "difficulty": "easy",
+    "stage": ["ongoing"],
+    "tags": ["experience", "internship", "projects"]
+  },
+  {
+    "question": "Rate your proficiency in programming languages.",
+    "type": "rating",
+    "category": "technical",
+    "subcategory": "programming",
+    "difficulty": "medium",
+    "stage": ["ongoing"],
+    "tags": ["programming", "skills"]
+  },
+  {
+    "question": "Do you participate in hackathons?",
+    "type": "boolean",
+    "category": "leadership",
+    "subcategory": "competitions",
+    "difficulty": "easy",
+    "stage": ["ongoing"],
+    "tags": ["hackathons", "leadership"]
+  },
+  {
+    "question": "What certification are you pursuing?",
+    "type": "text",
+    "category": "interest",
+    "subcategory": "certifications",
+    "difficulty": "hard",
+    "stage": ["ongoing"],
+    "tags": ["certifications", "interest"]
+  },
+  {
+    "question": "How important is work-life balance to you?",
+    "type": "rating",
+    "category": "personality",
+    "subcategory": "balance",
+    "difficulty": "medium",
+    "stage": ["ongoing"],
+    "tags": ["worklife", "personality"]
+  },
+  {
+    "question": "Which industry interests you most?",
+    "type": "multiple_choice",
+    "category": "interest",
+    "subcategory": "industry",
+    "options": [
+      { "text": "Tech", "value": "tech", "weight": 90 },
+      { "text": "Finance", "value": "finance", "weight": 85 },
+      { "text": "Healthcare", "value": "healthcare", "weight": 80 }
+    ],
+    "difficulty": "easy",
+    "stage": ["ongoing"],
+    "tags": ["industry", "interest"]
+  },
+  {
+    "question": "Rate your leadership experience in group projects.",
+    "type": "rating",
+    "category": "leadership",
+    "subcategory": "group_work",
+    "difficulty": "medium",
+    "stage": ["ongoing"],
+    "tags": ["leadership", "projects"]
+  },
+  {
+    "question": "Have you taken any online courses on platforms like Coursera?",
+    "type": "boolean",
+    "category": "technical",
+    "subcategory": "online_learning",
+    "difficulty": "easy",
+    "stage": ["ongoing"],
+    "tags": ["online", "courses"]
+  },
+  {
+    "question": "Which emerging technology excites you?",
+    "type": "multiple_choice",
+    "category": "interest",
+    "subcategory": "emerging_tech",
+    "options": [
+      { "text": "Blockchain", "value": "blockchain", "weight": 90 },
+      { "text": "Internet of Things (IoT)", "value": "iot", "weight": 85 },
+      { "text": "Augmented Reality (AR)", "value": "ar", "weight": 88 },
+      { "text": "Quantum Computing", "value": "quantum", "weight": 92 }
+    ],
+    "difficulty": "medium",
+    "stage": ["ongoing"],
+    "tags": ["tech", "emerging"]
+  },
+  {
+    "question": "Rate your knowledge of AI ethics.",
+    "type": "rating",
+    "category": "analytical",
+    "subcategory": "ai_ethics",
+    "difficulty": "hard",
+    "stage": ["ongoing"],
+    "tags": ["ai", "ethics"]
+  },
+  {
+    "question": "Do you volunteer for social causes?",
+    "type": "boolean",
+    "category": "leadership",
+    "subcategory": "social_volunteering",
+    "difficulty": "easy",
+    "stage": ["ongoing"],
+    "tags": ["volunteering", "social"]
+  },
+  {
+    "question": "What is your favorite subject in your current course?",
+    "type": "text",
+    "category": "interest",
+    "subcategory": "current_subject",
+    "difficulty": "easy",
+    "stage": ["ongoing"],
+    "tags": ["subject", "current"]
+  },
+  {
+    "question": "Rate your interest in sustainable development goals.",
+    "type": "rating",
+    "category": "interest",
+    "subcategory": "sustainable_goals",
+    "difficulty": "medium",
+    "stage": ["ongoing"],
+    "tags": ["sustainable", "goals"]
+  },
+  {
+    "question": "Which certification platform do you prefer?",
+    "type": "multiple_choice",
+    "category": "interest",
+    "subcategory": "cert_platform",
+    "options": [
+      { "text": "NPTEL", "value": "nptel", "weight": 85 },
+      { "text": "edX", "value": "edx", "weight": 80 },
+      { "text": "Udemy", "value": "udemy", "weight": 75 },
+      { "text": "Google Certifications", "value": "google", "weight": 90 }
+    ],
+    "difficulty": "easy",
+    "stage": ["ongoing"],
+    "tags": ["certifications", "platforms"]
+  },
+  {
+    "question": "How often do you code outside of classes?",
+    "type": "multiple_choice",
+    "category": "technical",
+    "subcategory": "coding_habit",
+    "options": [
+      { "text": "Daily", "value": "daily", "weight": 95 },
+      { "text": "Weekly", "value": "weekly", "weight": 85 },
+      { "text": "Monthly", "value": "monthly", "weight": 70 },
+      { "text": "Rarely", "value": "rarely", "weight": 50 }
+    ],
+    "difficulty": "easy",
+    "stage": ["ongoing"],
+    "tags": ["coding", "habit"]
+  },
+  {
+    "question": "Rate your teamwork skills in projects.",
+    "type": "rating",
+    "category": "personality",
+    "subcategory": "teamwork_skills",
+    "difficulty": "medium",
+    "stage": ["ongoing"],
+    "tags": ["teamwork", "projects"]
+  },
+  {
+    "question": "Do you plan to pursue an MBA after undergrad?",
+    "type": "boolean",
+    "category": "interest",
+    "subcategory": "mba_interest",
+    "difficulty": "medium",
+    "stage": ["ongoing"],
+    "tags": ["mba", "postgrad"]
+  }
+]

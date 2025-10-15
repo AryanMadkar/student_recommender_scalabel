@@ -1,0 +1,262 @@
+[
+  {
+    "stage": "after10th",
+    "recommendationType": "stream",
+    "title": "Science (PCM) - Engineering & Technology Path",
+    "description": "Ideal for students interested in engineering, computer science, and technical fields. Requires strong math and physics.",
+    "matchCriteria": {
+      "min10thPercentage": 70,
+      "interests": ["Technology", "Math", "Engineering"],
+      "aptitude": ["analytical", "technical"]
+    },
+    "duration": "2 years (11th-12th)",
+    "eligibility": {
+      "subjects": ["Physics", "Chemistry", "Math"],
+      "boards": ["Maharashtra State Board", "CBSE", "ICSE"]
+    },
+    "careerProspects": ["B.Tech Computer Science", "B.E. Mechanical", "BCA"],
+    "entranceExams": ["JEE Main", "MHT-CET", "BITSAT"],
+    "juniorCollegesInMH": [
+      {
+        "name": "Atharva College of Engineering Junior Section",
+        "city": "Mumbai",
+        "feesAnnual": 80000,
+        "rating": 4.1
+      },
+      {
+        "name": "VJTI Junior College",
+        "city": "Mumbai",
+        "feesAnnual": 50000,
+        "rating": 4.5
+      },
+      {
+        "name": "COEP Junior Wing",
+        "city": "Pune",
+        "feesAnnual": 45000,
+        "rating": 4.4
+      },
+      {
+        "name": "S.P. College Junior",
+        "city": "Pune",
+        "feesAnnual": 40000,
+        "rating": 4.2
+      },
+      {
+        "name": "Fergusson College Junior",
+        "city": "Pune",
+        "feesAnnual": 35000,
+        "rating": 4.3
+      }
+    ],
+    "skillsToDevelop": ["Mathematics", "Problem Solving", "Coding Basics"],
+    "averageCost": 100000,
+    "successRate": 85
+  },
+  {
+    "stage": "after10th",
+    "recommendationType": "stream",
+    "title": "Science (PCB) - Medical & Biology Path",
+    "description": "For students interested in medicine, biotechnology, and life sciences. Focus on biology and chemistry.",
+    "matchCriteria": {
+      "min10thPercentage": 75,
+      "interests": ["Biology", "Medicine", "Research"],
+      "aptitude": ["analytical", "creative"]
+    },
+    "duration": "2 years (11th-12th)",
+    "eligibility": {
+      "subjects": ["Physics", "Chemistry", "Biology"],
+      "boards": ["Maharashtra State Board", "CBSE"]
+    },
+    "careerProspects": ["MBBS", "BDS", "B.Sc. Biotech", "B.Pharm"],
+    "entranceExams": ["NEET", "AIIMS", "MHT-CET Bio"],
+    "juniorCollegesInMH": [
+      {
+        "name": "Grant Medical College Junior",
+        "city": "Mumbai",
+        "feesAnnual": 60000,
+        "rating": 4.2
+      },
+      {
+        "name": "B.J. Medical College Junior",
+        "city": "Pune",
+        "feesAnnual": 55000,
+        "rating": 4.3
+      },
+      {
+        "name": "GMC Nagpur Junior",
+        "city": "Nagpur",
+        "feesAnnual": 50000,
+        "rating": 4.0
+      },
+      {
+        "name": "Bharati Vidyapeeth Junior",
+        "city": "Pune",
+        "feesAnnual": 70000,
+        "rating": 4.1
+      },
+      {
+        "name": "SNDT Junior Science",
+        "city": "Mumbai",
+        "feesAnnual": 40000,
+        "rating": 4.0
+      }
+    ],
+    "skillsToDevelop": ["Biology", "Lab Skills", "Scientific Method"],
+    "averageCost": 90000,
+    "successRate": 80
+  },
+  {
+    "stage": "after10th",
+    "recommendationType": "stream",
+    "title": "Commerce - Business & Finance Path",
+    "description": "For students interested in business, accounting, and economics. No science/math heavy focus.",
+    "matchCriteria": {
+      "min10thPercentage": 65,
+      "interests": ["Business", "Finance", "Marketing"],
+      "aptitude": ["communication", "leadership"]
+    },
+    "duration": "2 years (11th-12th)",
+    "eligibility": {
+      "subjects": ["Accountancy", "Economics", "Business Studies"],
+      "boards": ["Maharashtra State Board", "CBSE"]
+    },
+    "careerProspects": ["B.Com", "BBA", "CA Foundation", "CS"],
+    "entranceExams": ["IPMAT", "SET", "CUET Commerce"],
+    "juniorCollegesInMH": [
+      {
+        "name": "HR College Junior",
+        "city": "Mumbai",
+        "feesAnnual": 75000,
+        "rating": 4.6
+      },
+      {
+        "name": "Podar College Junior",
+        "city": "Mumbai",
+        "feesAnnual": 65000,
+        "rating": 4.4
+      },
+      {
+        "name": "BMCC Junior",
+        "city": "Pune",
+        "feesAnnual": 55000,
+        "rating": 4.3
+      },
+      {
+        "name": "SNDT Commerce Junior",
+        "city": "Mumbai",
+        "feesAnnual": 50000,
+        "rating": 4.2
+      },
+      {
+        "name": "Indira College Junior",
+        "city": "Pune",
+        "feesAnnual": 60000,
+        "rating": 4.1
+      }
+    ],
+    "skillsToDevelop": ["Accounting", "Economics", "Communication"],
+    "averageCost": 80000,
+    "successRate": 90
+  },
+  {
+    "stage": "after10th",
+    "recommendationType": "stream",
+    "title": "Arts - Humanities & Social Sciences Path",
+    "description": "For students interested in literature, history, psychology, and creative fields.",
+    "matchCriteria": {
+      "min10thPercentage": 60,
+      "interests": ["Arts", "Writing", "Social Work"],
+      "aptitude": ["creative", "communication"]
+    },
+    "duration": "2 years (11th-12th)",
+    "eligibility": {
+      "subjects": ["English", "History", "Political Science"],
+      "boards": ["Maharashtra State Board", "ICSE"]
+    },
+    "careerProspects": ["BA English", "BA Psychology", "B.El.Ed", "Journalism"],
+    "entranceExams": ["CUET Arts", "SET Humanities"],
+    "juniorCollegesInMH": [
+      {
+        "name": "St. Xavier's Junior Arts",
+        "city": "Mumbai",
+        "feesAnnual": 80000,
+        "rating": 4.7
+      },
+      {
+        "name": "Wilson College Junior",
+        "city": "Mumbai",
+        "feesAnnual": 45000,
+        "rating": 4.2
+      },
+      {
+        "name": "Fergusson Arts Junior",
+        "city": "Pune",
+        "feesAnnual": 40000,
+        "rating": 4.3
+      },
+      {
+        "name": "SNDT Arts Junior",
+        "city": "Mumbai",
+        "feesAnnual": 35000,
+        "rating": 4.1
+      },
+      {
+        "name": "S.P. College Junior Arts",
+        "city": "Pune",
+        "feesAnnual": 30000,
+        "rating": 4.0
+      }
+    ],
+    "skillsToDevelop": ["Writing", "Critical Thinking", "Public Speaking"],
+    "averageCost": 60000,
+    "successRate": 75
+  },
+  {
+    "stage": "after10th",
+    "recommendationType": "alternative",
+    "title": "Vocational Courses - ITI/Diploma",
+    "description": "For students preferring practical skills over traditional streams. Good for immediate job placement.",
+    "matchCriteria": {
+      "min10thPercentage": 50,
+      "interests": ["Technical Trades", "Skills"],
+      "aptitude": ["technical"]
+    },
+    "duration": "1-3 years",
+    "eligibility": { "subjects": ["Any"], "boards": ["All"] },
+    "careerProspects": [
+      "Diploma in Mechanical",
+      "ITI Electrician",
+      "Fashion Design"
+    ],
+    "entranceExams": ["None/Polytechnic Entrance"],
+    "juniorCollegesInMH": [
+      {
+        "name": "Government Polytechnic Mumbai",
+        "city": "Mumbai",
+        "feesAnnual": 20000,
+        "rating": 4.0
+      },
+      {
+        "name": "Government ITI Pune",
+        "city": "Pune",
+        "feesAnnual": 15000,
+        "rating": 3.8
+      },
+      {
+        "name": "Atharva Polytechnic",
+        "city": "Mumbai",
+        "feesAnnual": 50000,
+        "rating": 4.1
+      },
+      {
+        "name": "VJTI Diploma Wing",
+        "city": "Mumbai",
+        "feesAnnual": 30000,
+        "rating": 4.5
+      }
+    ],
+    "skillsToDevelop": ["Practical Skills", "Hands-on Training"],
+    "averageCost": 40000,
+    "successRate": 95
+  }
+]

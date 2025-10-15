@@ -1,0 +1,309 @@
+[
+  {
+    "name": "B.Tech Computer Science and Engineering",
+    "shortName": "B.Tech CSE",
+    "type": "Bachelor",
+    "category": "Engineering",
+    "specializations": ["AI & ML", "Cyber Security", "Data Science"],
+    "duration": "4 years",
+    "eligibility": {
+      "academicRequirement": "12th Science (PCM)",
+      "minimumMarks": 60,
+      "requiredSubjects": ["Physics", "Math", "Chemistry"],
+      "entranceExams": ["JEE Main", "MHT-CET", "BITSAT"]
+    },
+    "curriculum": [
+      {
+        "semester": 1,
+        "subjects": ["Programming Fundamentals", "Math I", "Physics"],
+        "practicals": ["C Lab"],
+        "projects": ["Basic App"]
+      },
+      {
+        "semester": 6,
+        "subjects": ["AI Algorithms", "Cloud Computing"],
+        "practicals": ["ML Lab"],
+        "projects": ["ML Model"]
+      }
+    ],
+    "careerProspects": [
+      {
+        "jobRole": "Software Engineer",
+        "averageSalary": 8,
+        "industries": ["IT", "Finance"]
+      },
+      {
+        "jobRole": "Data Scientist",
+        "averageSalary": 12,
+        "industries": ["Analytics", "E-commerce"]
+      }
+    ],
+    "skills": {
+      "technical": ["Python", "Java", "AWS"],
+      "soft": ["Problem Solving", "Teamwork"],
+      "tools": ["VS Code", "Git"]
+    },
+    "colleges": [
+      {
+        "name": "Atharva College of Engineering",
+        "city": "Mumbai",
+        "rating": 4.1
+      },
+      { "name": "IIT Bombay", "city": "Mumbai", "rating": 4.9 },
+      { "name": "VJTI Mumbai", "city": "Mumbai", "rating": 4.6 },
+      { "name": "COEP Pune", "city": "Pune", "rating": 4.6 },
+      { "name": "SPIT Mumbai", "city": "Mumbai", "rating": 4.5 },
+      { "name": "KJSCE Mumbai", "city": "Mumbai", "rating": 4.2 },
+      { "name": "SIES Nerul", "city": "Navi Mumbai", "rating": 4.2 },
+      { "name": "PICT Pune", "city": "Pune", "rating": 4.3 },
+      { "name": "VIT Pune", "city": "Pune", "rating": 4.3 },
+      { "name": "DY Patil Pune", "city": "Pune", "rating": 4.1 }
+    ],
+    "statistics": {
+      "averagePlacement": 85,
+      "averagePackage": 10,
+      "topRecruiters": ["TCS", "Infosys", "Google"]
+    },
+    "feesAnnual": 150000
+  },
+  {
+    "name": "MBBS",
+    "shortName": "MBBS",
+    "type": "Bachelor",
+    "category": "Medical",
+    "specializations": ["General Medicine", "Surgery"],
+    "duration": "5.5 years",
+    "eligibility": {
+      "academicRequirement": "12th Science (PCB)",
+      "minimumMarks": 50,
+      "requiredSubjects": ["Biology", "Physics", "Chemistry"],
+      "entranceExams": ["NEET"]
+    },
+    "curriculum": [
+      {
+        "semester": 1,
+        "subjects": ["Anatomy", "Physiology"],
+        "practicals": ["Dissection"],
+        "projects": ["Case Study"]
+      },
+      {
+        "semester": 9,
+        "subjects": ["Clinical Medicine"],
+        "practicals": ["Hospital Rotation"],
+        "projects": ["Thesis"]
+      }
+    ],
+    "careerProspects": [
+      {
+        "jobRole": "General Physician",
+        "averageSalary": 10,
+        "industries": ["Hospitals"]
+      },
+      {
+        "jobRole": "Surgeon",
+        "averageSalary": 25,
+        "industries": ["Specialty Clinics"]
+      }
+    ],
+    "skills": {
+      "technical": ["Diagnostics", "Surgery"],
+      "soft": ["Empathy", "Decision Making"],
+      "tools": ["Stethoscope", "MRI Software"]
+    },
+    "colleges": [
+      { "name": "Grant Medical College", "city": "Mumbai", "rating": 4.3 },
+      { "name": "B.J. Medical College", "city": "Pune", "rating": 4.2 },
+      { "name": "GMC Nagpur", "city": "Nagpur", "rating": 4.2 },
+      {
+        "name": "Indira Gandhi Aurangabad",
+        "city": "Aurangabad",
+        "rating": 4.0
+      },
+      { "name": "Bharati Vidyapeeth Pune", "city": "Pune", "rating": 4.0 },
+      { "name": "DY Patil Navi Mumbai", "city": "Navi Mumbai", "rating": 4.1 },
+      { "name": "MGM Aurangabad", "city": "Aurangabad", "rating": 4.0 }
+    ],
+    "statistics": {
+      "averagePlacement": 100,
+      "averagePackage": 12,
+      "topRecruiters": ["Apollo", "Fortis"]
+    },
+    "feesAnnual": 120000
+  },
+  {
+    "name": "B.Com (Honours)",
+    "shortName": "B.Com Hons",
+    "type": "Bachelor",
+    "category": "Commerce",
+    "specializations": ["Accounting", "Finance", "Marketing"],
+    "duration": "3 years",
+    "eligibility": {
+      "academicRequirement": "12th Commerce",
+      "minimumMarks": 55,
+      "requiredSubjects": ["Accountancy", "Economics"],
+      "entranceExams": ["CUET", "SET"]
+    },
+    "curriculum": [
+      {
+        "semester": 1,
+        "subjects": ["Financial Accounting", "Business Law"],
+        "practicals": ["Tally Lab"],
+        "projects": ["Case Analysis"]
+      },
+      {
+        "semester": 5,
+        "subjects": ["Auditing", "Taxation"],
+        "practicals": ["GST Simulation"],
+        "projects": ["Financial Report"]
+      }
+    ],
+    "careerProspects": [
+      {
+        "jobRole": "Accountant",
+        "averageSalary": 4,
+        "industries": ["CA Firms"]
+      },
+      {
+        "jobRole": "Financial Analyst",
+        "averageSalary": 6,
+        "industries": ["Banks"]
+      }
+    ],
+    "skills": {
+      "technical": ["Tally", "Excel"],
+      "soft": ["Analytical Thinking", "Ethics"],
+      "tools": ["SAP", "QuickBooks"]
+    },
+    "colleges": [
+      { "name": "HR College", "city": "Mumbai", "rating": 4.6 },
+      { "name": "Podar College", "city": "Mumbai", "rating": 4.4 },
+      { "name": "BMCC Pune", "city": "Pune", "rating": 4.3 },
+      { "name": "SNDT Commerce", "city": "Mumbai", "rating": 4.2 },
+      { "name": "Indira College", "city": "Pune", "rating": 4.0 },
+      {
+        "name": "Brihan Maharashtra Aurangabad",
+        "city": "Aurangabad",
+        "rating": 3.9
+      }
+    ],
+    "statistics": {
+      "averagePlacement": 70,
+      "averagePackage": 5,
+      "topRecruiters": ["Deloitte", "EY"]
+    },
+    "feesAnnual": 50000
+  },
+  {
+    "name": "BA Psychology",
+    "shortName": "BA Psych",
+    "type": "Bachelor",
+    "category": "Arts",
+    "specializations": ["Clinical", "Industrial"],
+    "duration": "3 years",
+    "eligibility": {
+      "academicRequirement": "12th Arts/Science",
+      "minimumMarks": 50,
+      "requiredSubjects": ["English"],
+      "entranceExams": ["CUET"]
+    },
+    "curriculum": [
+      {
+        "semester": 1,
+        "subjects": ["Intro to Psychology", "Statistics"],
+        "practicals": ["Experiments"],
+        "projects": ["Survey"]
+      },
+      {
+        "semester": 5,
+        "subjects": ["Clinical Psychology"],
+        "practicals": ["Counseling Simulation"],
+        "projects": ["Research Paper"]
+      }
+    ],
+    "careerProspects": [
+      { "jobRole": "Counselor", "averageSalary": 4, "industries": ["Schools"] },
+      {
+        "jobRole": "HR Psychologist",
+        "averageSalary": 6,
+        "industries": ["Corporates"]
+      }
+    ],
+    "skills": {
+      "technical": ["Research Methods"],
+      "soft": ["Empathy", "Listening"],
+      "tools": ["SPSS", "Qualtrics"]
+    },
+    "colleges": [
+      { "name": "St. Xavier's", "city": "Mumbai", "rating": 4.7 },
+      { "name": "Fergusson College", "city": "Pune", "rating": 4.4 },
+      { "name": "Wilson College", "city": "Mumbai", "rating": 4.2 },
+      { "name": "SNDT", "city": "Mumbai", "rating": 4.1 },
+      { "name": "S.P. College", "city": "Pune", "rating": 4.0 },
+      { "name": "Shivaji University", "city": "Kolhapur", "rating": 3.9 }
+    ],
+    "statistics": {
+      "averagePlacement": 65,
+      "averagePackage": 4,
+      "topRecruiters": ["Mindler", "YourDOST"]
+    },
+    "feesAnnual": 30000
+  },
+  {
+    "name": "BBA Digital Business",
+    "shortName": "BBA Digital",
+    "type": "Bachelor",
+    "category": "Management",
+    "specializations": ["E-commerce", "Digital Marketing"],
+    "duration": "3 years",
+    "eligibility": {
+      "academicRequirement": "12th Any Stream",
+      "minimumMarks": 50,
+      "requiredSubjects": ["English"],
+      "entranceExams": ["SET", "CUET"]
+    },
+    "curriculum": [
+      {
+        "semester": 1,
+        "subjects": ["Digital Marketing", "Business Analytics"],
+        "practicals": ["Google Ads Lab"],
+        "projects": ["Campaign Plan"]
+      },
+      {
+        "semester": 5,
+        "subjects": ["E-commerce Management"],
+        "practicals": ["Shopify Store"],
+        "projects": ["Business Model"]
+      }
+    ],
+    "careerProspects": [
+      {
+        "jobRole": "Digital Marketer",
+        "averageSalary": 5,
+        "industries": ["Agencies"]
+      },
+      {
+        "jobRole": "E-commerce Manager",
+        "averageSalary": 7,
+        "industries": ["Flipkart"]
+      }
+    ],
+    "skills": {
+      "technical": ["SEO", "Google Analytics"],
+      "soft": ["Creativity", "Strategy"],
+      "tools": ["Facebook Ads", "HubSpot"]
+    },
+    "colleges": [
+      { "name": "Atharva University", "city": "Mumbai", "rating": 4.2 },
+      { "name": "Symbiosis SCMHRD", "city": "Pune", "rating": 4.5 },
+      { "name": "NMIMS Mumbai", "city": "Mumbai", "rating": 4.4 },
+      { "name": "FLAME University", "city": "Pune", "rating": 4.3 },
+      { "name": "Jain University", "city": "Pune Campus", "rating": 4.1 }
+    ],
+    "statistics": {
+      "averagePlacement": 80,
+      "averagePackage": 6,
+      "topRecruiters": ["Amazon", "Flipkart"]
+    },
+    "feesAnnual": 180000
+  }
+]

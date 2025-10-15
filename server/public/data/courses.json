@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Computer Science and Engineering",
+    "shortName": "CSE",
+    "type": "Bachelor",
+    "category": "Engineering",
+    "duration": "4 years",
+    "eligibility": { "academicRequirement": "12th with PCM", "minimumMarks": 75, "entranceExams": ["JEE Main", "JEE Advanced", "BITSAT"] },
+    "careerProspects": [
+      { "jobRole": "Software Engineer", "averageSalary": 1200000 },
+      { "jobRole": "Data Scientist", "averageSalary": 1500000 }
+    ],
+    "skills": { "technical": ["Data Structures", "Algorithms", "System Design", "Web Development"], "soft": ["Problem Solving", "Teamwork", "Communication"] }
+  },
+  {
+    "name": "Bachelor of Medicine, Bachelor of Surgery",
+    "shortName": "MBBS",
+    "type": "Bachelor",
+    "category": "Medical",
+    "duration": "5.5 years",
+    "eligibility": { "academicRequirement": "12th with PCB", "minimumMarks": 50, "entranceExams": ["NEET"] },
+    "careerProspects": [
+      { "jobRole": "General Physician", "averageSalary": 1200000 },
+      { "jobRole": "Specialist Doctor", "averageSalary": 2500000 }
+    ],
+    "skills": { "technical": ["Medical Diagnosis", "Patient Care", "Surgical Skills"], "soft": ["Empathy", "Communication", "Decision Making"] }
+  },
+  {
+    "name": "Bachelor of Commerce",
+    "shortName": "B.Com",
+    "type": "Bachelor",
+    "category": "Commerce",
+    "duration": "3 years",
+    "eligibility": { "academicRequirement": "12th with Commerce", "minimumMarks": 50, "entranceExams": ["CUET", "University Specific Exams"] },
+    "careerProspects": [
+      { "jobRole": "Chartered Accountant", "averageSalary": 900000 },
+      { "jobRole": "Financial Analyst", "averageSalary": 700000 }
+    ],
+    "skills": { "technical": ["Accounting", "Taxation", "Financial Analysis"], "soft": ["Analytical Thinking", "Attention to Detail"] }
+  },
+  {
+    "name": "Bachelor of Arts",
+    "shortName": "B.A.",
+    "type": "Bachelor",
+    "category": "Arts",
+    "duration": "3 years",
+    "eligibility": { "academicRequirement": "12th in any stream", "minimumMarks": 45, "entranceExams": ["CUET", "University Specific Exams"] },
+    "careerProspects": [
+      { "jobRole": "Civil Servant (IAS/IPS)", "averageSalary": 1000000 },
+      { "jobRole": "Journalist", "averageSalary": 500000 }
+    ],
+    "skills": { "technical": ["Research", "Writing", "Critical Analysis"], "soft": ["Communication", "General Awareness"] }
+  },
+  {
+    "name": "Bachelor of Business Administration",
+    "shortName": "BBA",
+    "type": "Bachelor",
+    "category": "Management",
+    "duration": "3 years",
+    "eligibility": { "academicRequirement": "12th in any stream", "minimumMarks": 50, "entranceExams": ["IPMAT", "CUET"] },
+    "careerProspects": [
+      { "jobRole": "Marketing Manager", "averageSalary": 800000 },
+      { "jobRole": "HR Manager", "averageSalary": 700000 }
+    ],
+    "skills": { "technical": ["Business Strategy", "Finance Basics"], "soft": ["Leadership", "Team Management"] }
+  },
+  {
+    "name": "Bachelor of Law",
+    "shortName": "LLB",
+    "type": "Bachelor",
+    "category": "Law",
+    "duration": "3 years",
+    "eligibility": { "academicRequirement": "Graduation in any field", "minimumMarks": 45, "entranceExams": ["CLAT", "AILET"] },
+    "careerProspects": [
+      { "jobRole": "Lawyer", "averageSalary": 600000 },
+      { "jobRole": "Legal Advisor", "averageSalary": 800000 }
+    ],
+    "skills": { "technical": ["Legal Research", "Contract Drafting"], "soft": ["Argumentation", "Ethics"] }
+  },
+  {
+    "name": "Bachelor of Design",
+    "shortName": "B.Des",
+    "type": "Bachelor",
+    "category": "Arts",
+    "duration": "4 years",
+    "eligibility": { "academicRequirement": "12th in any stream", "minimumMarks": 50, "entranceExams": ["NID DAT", "UCEED"] },
+    "careerProspects": [
+      { "jobRole": "Graphic Designer", "averageSalary": 500000 },
+      { "jobRole": "UI/UX Designer", "averageSalary": 700000 }
+    ],
+    "skills": { "technical": ["Adobe Suite", "Prototyping"], "soft": ["Creativity", "User Empathy"] }
+  },
+  {
+    "name": "Bachelor of Science in Nursing",
+    "shortName": "B.Sc Nursing",
+    "type": "Bachelor",
+    "category": "Medical",
+    "duration": "4 years",
+    "eligibility": { "academicRequirement": "12th with PCB", "minimumMarks": 45, "entranceExams": ["AIIMS Nursing", "State Exams"] },
+    "careerProspects": [
+      { "jobRole": "Registered Nurse", "averageSalary": 400000 },
+      { "jobRole": "Nurse Practitioner", "averageSalary": 600000 }
+    ],
+    "skills": { "technical": ["Patient Care", "Medical Procedures"], "soft": ["Compassion", "Attention to Detail"] }
+  },
+  {
+    "name": "Bachelor of Technology in Civil Engineering",
+    "shortName": "B.Tech Civil",
+    "type": "Bachelor",
+    "category": "Engineering",
+    "duration": "4 years",
+    "eligibility": { "academicRequirement": "12th with PCM", "minimumMarks": 60, "entranceExams": ["JEE Main"] },
+    "careerProspects": [
+      { "jobRole": "Civil Engineer", "averageSalary": 500000 },
+      { "jobRole": "Project Manager", "averageSalary": 800000 }
+    ],
+    "skills": { "technical": ["Structural Design", "Surveying"], "soft": ["Project Planning", "Team Coordination"] }
+  },
+  {
+    "name": "Bachelor of Pharmacy",
+    "shortName": "B.Pharm",
+    "type": "Bachelor",
+    "category": "Science",
+    "duration": "4 years",
+    "eligibility": { "academicRequirement": "12th with PCB/PCM", "minimumMarks": 50, "entranceExams": ["GPAT", "State Exams"] },
+    "careerProspects": [
+      { "jobRole": "Pharmacist", "averageSalary": 400000 },
+      { "jobRole": "Research Scientist", "averageSalary": 600000 }
+    ],
+    "skills": { "technical": ["Drug Formulation", "Pharmacology"], "soft": ["Accuracy", "Patient Counseling"] }
+  },
+  {
+    "name": "Bachelor of Science in Data Science",
+    "shortName": "B.Sc Data Science",
+    "type": "Bachelor",
+    "category": "Science",
+    "duration": "3 years",
+    "eligibility": { "academicRequirement": "12th with PCM", "minimumMarks": 60, "entranceExams": ["CUET", "University Exams"] },
+    "careerProspects": [
+      { "jobRole": "Data Analyst", "averageSalary": 800000 },
+      { "jobRole": "Machine Learning Engineer", "averageSalary": 1200000 }
+    ],
+    "skills": { "technical": ["Python", "Statistics", "Machine Learning"], "soft": ["Analytical Thinking", "Problem Solving"] }
+  },
+  {
+    "name": "Diploma in Hotel Management",
+    "shortName": "DHM",
+    "type": "Diploma",
+    "category": "Management",
+    "duration": "3 years",
+    "eligibility": { "academicRequirement": "12th in any stream", "minimumMarks": 50, "entranceExams": ["NCHM JEE"] },
+    "careerProspects": [
+      { "jobRole": "Hotel Manager", "averageSalary": 500000 },
+      { "jobRole": "Event Coordinator", "averageSalary": 400000 }
+    ],
+    "skills": { "technical": ["Hospitality Operations", "Customer Service"], "soft": ["Communication", "Teamwork"] }
+  },
+  {
+    "name": "Bachelor of Science in Environmental Science",
+    "shortName": "B.Sc Env Science",
+    "type": "Bachelor",
+    "category": "Science",
+    "duration": "3 years",
+    "eligibility": { "academicRequirement": "12th with PCB/PCM", "minimumMarks": 50, "entranceExams": ["CUET"] },
+    "careerProspects": [
+      { "jobRole": "Environmental Consultant", "averageSalary": 600000 },
+      { "jobRole": "Sustainability Officer", "averageSalary": 700000 }
+    ],
+    "skills": { "technical": ["Ecology", "Pollution Control"], "soft": ["Research", "Advocacy"] }
+  },
+  {
+    "name": "Bachelor of Technology in Biotechnology",
+    "shortName": "B.Tech Biotech",
+    "type": "Bachelor",
+    "category": "Engineering",
+    "duration": "4 years",
+    "eligibility": { "academicRequirement": "12th with PCB/PCM", "minimumMarks": 60, "entranceExams": ["JEE Main"] },
+    "careerProspects": [
+      { "jobRole": "Biotech Researcher", "averageSalary": 700000 },
+      { "jobRole": "Quality Control Analyst", "averageSalary": 500000 }
+    ],
+    "skills": { "technical": ["Genetic Engineering", "Bioinformatics"], "soft": ["Innovation", "Ethical Thinking"] }
+  },
+  {
+    "name": "Bachelor of Architecture",
+    "shortName": "B.Arch",
+    "type": "Bachelor",
+    "category": "Arts",
+    "duration": "5 years",
+    "eligibility": { "academicRequirement": "12th with PCM", "minimumMarks": 50, "entranceExams": ["NATA", "JEE Main"] },
+    "careerProspects": [
+      { "jobRole": "Architect", "averageSalary": 600000 },
+      { "jobRole": "Urban Planner", "averageSalary": 800000 }
+    ],
+    "skills": { "technical": ["Design Software", "Structural Planning"], "soft": ["Creativity", "Visualization"] }
+  },
+  {
+    "name": "Diploma in Digital Marketing",
+    "shortName": "DDM",
+    "type": "Diploma",
+    "category": "Management",
+    "duration": "1 year",
+    "eligibility": { "academicRequirement": "12th in any stream", "minimumMarks": 45, "entranceExams": ["None"] },
+    "careerProspects": [
+      { "jobRole": "Digital Marketer", "averageSalary": 400000 },
+      { "jobRole": "SEO Specialist", "averageSalary": 500000 }
+    ],
+    "skills": { "technical": ["SEO", "Social Media"], "soft": ["Creativity", "Analytical Skills"] }
+  },
+  {
+    "name": "Master of Business Administration",
+    "shortName": "MBA",
+    "type": "Master",
+    "category": "Management",
+    "duration": "2 years",
+    "eligibility": { "academicRequirement": "Bachelor's Degree", "minimumMarks": 50, "entranceExams": ["CAT", "GMAT"] },
+    "careerProspects": [
+      { "jobRole": "Business Consultant", "averageSalary": 1500000 },
+      { "jobRole": "Entrepreneur", "averageSalary": 2000000 }
+    ],
+    "skills": { "technical": ["Strategic Planning", "Financial Analysis"], "soft": ["Leadership", "Negotiation"] }
+  },
+  {
+    "name": "Bachelor of Science in Agriculture",
+    "shortName": "B.Sc Agriculture",
+    "type": "Bachelor",
+    "category": "Science",
+    "duration": "4 years",
+    "eligibility": { "academicRequirement": "12th with PCB/PCM", "minimumMarks": 50, "entranceExams": ["ICAR AIEEA"] },
+    "careerProspects": [
+      { "jobRole": "Agronomist", "averageSalary": 500000 },
+      { "jobRole": "Agricultural Officer", "averageSalary": 600000 }
+    ],
+    "skills": { "technical": ["Crop Management", "Soil Science"], "soft": ["Problem Solving", "Field Work"] }
+  },
+  {
+    "name": "Diploma in Computer Application",
+    "shortName": "DCA",
+    "type": "Diploma",
+    "category": "Science",
+    "duration": "1 year",
+    "eligibility": { "academicRequirement": "10th Pass", "minimumMarks": 40, "entranceExams": ["None"] },
+    "careerProspects": [
+      { "jobRole": "Computer Operator", "averageSalary": 300000 },
+      { "jobRole": "Data Entry Operator", "averageSalary": 250000 }
+    ],
+    "skills": { "technical": ["MS Office", "Basic Programming"], "soft": ["Typing Speed", "Accuracy"] }
+  },
+  {
+    "name": "Master of Science in Physics",
+    "shortName": "M.Sc Physics",
+    "type": "Master",
+    "category": "Science",
+    "duration": "2 years",
+    "eligibility": { "academicRequirement": "B.Sc in Physics", "minimumMarks": 55, "entranceExams": ["JAM"] },
+    "careerProspects": [
+      { "jobRole": "Research Scientist", "averageSalary": 800000 },
+      { "jobRole": "Lecturer", "averageSalary": 600000 }
+    ],
+    "skills": { "technical": ["Quantum Mechanics", "Research Methods"], "soft": ["Analytical Thinking", "Teaching"] }
+  }
+]

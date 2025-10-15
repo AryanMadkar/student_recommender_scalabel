@@ -1,0 +1,1370 @@
+[
+  {
+    "name": "Atharva College of Engineering",
+    "shortName": "ACE",
+    "location": {
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "address": "Sector 17, Malad West, Mumbai"
+    },
+    "type": "Private",
+    "courses": [
+      {
+        "name": "B.E. Computer Engineering",
+        "duration": "4 years",
+        "fees": { "annual": 150000 },
+        "eligibility": {
+          "stream": ["Science (PCM)"],
+          "minimumPercentage": 50,
+          "entranceExam": "MHT-CET/JEE Main"
+        },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 85 }]
+      },
+      {
+        "name": "B.E. Electronics and Telecommunication",
+        "duration": "4 years",
+        "fees": { "annual": 150000 },
+        "eligibility": {
+          "stream": ["Science (PCM)"],
+          "minimumPercentage": 50,
+          "entranceExam": "MHT-CET/JEE Main"
+        },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 82 }]
+      }
+    ],
+    "ratings": {
+      "overall": 4.1,
+      "placement": 4.0,
+      "infrastructure": 4.2,
+      "faculty": 4.3
+    },
+    "placementStats": {
+      "averagePackage": 5.5,
+      "highestPackage": 12.0,
+      "placementPercentage": 85,
+      "topRecruiters": ["TCS", "Infosys", "Capgemini", "Accenture"]
+    },
+    "juniorCollegeStreams": ["Science (PCM)", "Commerce"],
+    "website": "https://atharvacoe.ac.in",
+    "isActive": true
+  },
+  {
+    "name": "Atharva University",
+    "shortName": "AU",
+    "location": {
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "address": "Malad West, Mumbai"
+    },
+    "type": "Private",
+    "courses": [
+      {
+        "name": "B.Tech Computer Science and AI",
+        "duration": "4 years",
+        "fees": { "annual": 200000 },
+        "eligibility": {
+          "stream": ["Science (PCM)"],
+          "minimumPercentage": 60,
+          "entranceExam": "JEE Mai10UET"
+        },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 80 }]
+      },
+      {
+        "name": "BBA Digital Business",
+        "duration": "3 years",
+        "fees": { "annual": 180000 },
+        "eligibility": {
+          "stream": ["Commerce"],
+          "minimumPercentage": 55,
+          "entranceExam": "CUET/SET"
+        },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 75 }]
+      }
+    ],
+    "ratings": {
+      "overall": 4.2,
+      "placement": 4.3,
+      "infrastructure": 4.5,
+      "faculty": 4.4
+    },
+    "placementStats": {
+      "averagePackage": 6.5,
+      "highestPackage": 15.0,
+      "placementPercentage": 90,
+      "topRecruiters": ["Deloitte", "Amazon", "Google", "Wipro"]
+    },
+    "juniorCollegeStreams": ["Science (PCB)", "Arts"],
+    "website": "https://atharvauniversity.edu.in",
+    "isActive": true
+  },
+  {
+    "name": "Indian Institute of Technology Bombay",
+    "shortName": "IIT Bombay",
+    "location": { "state": "Maharashtra", "city": "Mumbai" },
+    "type": "Central",
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 years",
+        "fees": { "annual": 220000 },
+        "eligibility": {
+          "stream": ["Science (PCM)"],
+          "entranceExam": "JEE Advanced"
+        },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 67 }]
+      },
+      {
+        "name": "B.Tech Chemical Engineering",
+        "duration": "4 years",
+        "fees": { "annual": 220000 },
+        "eligibility": {
+          "stream": ["Science (PCM)"],
+          "entranceExam": "JEE Advanced"
+        },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 2500 }]
+      }
+    ],
+    "ratings": {
+      "overall": 4.9,
+      "placement": 5.0,
+      "infrastructure": 4.8,
+      "faculty": 4.9
+    },
+    "placementStats": {
+      "averagePackage": 25.0,
+      "highestPackage": 2.1,
+      "placementPercentage": 98,
+      "topRecruiters": ["Google", "Microsoft", "Goldman Sachs"]
+    },
+    "juniorCollegeStreams": [],
+    "website": "https://www.iitb.ac.in",
+    "isActive": true
+  },
+  {
+    "name": "Veermata Jijabai Technological Institute",
+    "shortName": "VJTI",
+    "location": { "state": "Maharashtra", "city": "Mumbai" },
+    "type": "Government",
+    "courses": [
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 years",
+        "fees": { "annual": 85000 },
+        "eligibility": {
+          "stream": ["Science (PCM)"],
+          "entranceExam": "MHT-CET"
+        },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 99.5 }]
+      }
+    ],
+    "ratings": {
+      "overall": 4.6,
+      "placement": 4.7,
+      "infrastructure": 4.5,
+      "faculty": 4.6
+    },
+    "placementStats": {
+      "averagePackage": 12.0,
+      "highestPackage": 50.0,
+      "placementPercentage": 95,
+      "topRecruiters": ["TCS", "L&T", "Siemens"]
+    },
+    "juniorCollegeStreams": [],
+    "website": "https://vjti.ac.in",
+    "isActive": true
+  },
+  {
+    "name": "Sardar Patel Institute of Technology",
+    "shortName": "SPIT",
+    "location": { "state": "Maharashtra", "city": "Mumbai" },
+    "type": "Private",
+    "courses": [
+      {
+        "name": "B.E. Information Technology",
+        "duration": "4 years",
+        "fees": { "annual": 200000 },
+        "eligibility": {
+          "stream": ["Science (PCM)"],
+          "entranceExam": "MHT-CET/JEE Main"
+        },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 98 }]
+      }
+    ],
+    "ratings": {
+      "overall": 4.5,
+      "placement": 4.6,
+      "infrastructure": 4.4,
+      "faculty": 4.5
+    },
+    "placementStats": {
+      "averagePackage": 14.0,
+      "highestPackage": 1.2,
+      "placementPercentage": 92,
+      "topRecruiters": ["Amazon", "Flipkart", "DE Shaw"]
+    },
+    "juniorCollegeStreams": [],
+    "website": "https://spit.ac.in",
+    "isActive": true
+  },
+  {
+    "name": "St. Xavier's College Mumbai",
+    "shortName": "St. Xavier's",
+    "location": { "state": "Maharashtra", "city": "Mumbai" },
+    "type": "Private",
+    "courses": [
+      {
+        "name": "B.Sc. Computer Science",
+        "duration": "3 years",
+        "fees": { "annual": 50000 },
+        "eligibility": {
+          "stream": ["Science"],
+          "entranceExam": "College Entrance"
+        },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 90 }]
+      }
+    ],
+    "ratings": {
+      "overall": 4.7,
+      "placement": 4.4,
+      "infrastructure": 4.6,
+      "faculty": 4.8
+    },
+    "placementStats": {
+      "averagePackage": 6.0,
+      "highestPackage": 20.0,
+      "placementPercentage": 80,
+      "topRecruiters": ["Deloitte", "KPMG"]
+    },
+    "juniorCollegeStreams": ["Science", "Commerce", "Arts"],
+    "website": "https://xaviers.edu",
+    "isActive": true
+  },
+  {
+    "name": "Fergusson College Pune",
+    "shortName": "Fergusson",
+    "location": { "state": "Maharashtra", "city": "Pune" },
+    "type": "Government",
+    "courses": [
+      {
+        "name": "B.Sc. Biotechnology",
+        "duration": "3 years",
+        "fees": { "annual": 30000 },
+        "eligibility": { "stream": ["Science (PCB)"], "entranceExam": "CUET" },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 88 }]
+      }
+    ],
+    "ratings": {
+      "overall": 4.4,
+      "placement": 4.2,
+      "infrastructure": 4.3,
+      "faculty": 4.5
+    },
+    "placementStats": {
+      "averagePackage": 4.5,
+      "highestPackage": 10.0,
+      "placementPercentage": 75,
+      "topRecruiters": ["Biocon", "Syngene"]
+    },
+    "juniorCollegeStreams": ["Science", "Arts"],
+    "website": "https://fergusson.edu",
+    "isActive": true
+  },
+  {
+    "name": "College of Engineering Pune",
+    "shortName": "COEP",
+    "location": { "state": "Maharashtra", "city": "Pune" },
+    "type": "Government",
+    "courses": [
+      {
+        "name": "B.Tech Mechanical Engineering",
+        "duration": "4 years",
+        "fees": { "annual": 90000 },
+        "eligibility": {
+          "stream": ["Science (PCM)"],
+          "entranceExam": "MHT-CET/JEE Main"
+        },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 99.2 }]
+      }
+    ],
+    "ratings": {
+      "overall": 4.6,
+      "placement": 4.8,
+      "infrastructure": 4.5,
+      "faculty": 4.7
+    },
+    "placementStats": {
+      "averagePackage": 15.0,
+      "highestPackage": 65.0,
+      "placementPercentage": 96,
+      "topRecruiters": ["Tata Motors", "Bajaj", "Thermax"]
+    },
+    "juniorCollegeStreams": [],
+    "website": "https://coep.org.in",
+    "isActive": true
+  },
+  {
+    "name": "Symbiosis Institute of Technology Pune",
+    "shortName": "SIT Pune",
+    "location": { "state": "Maharashtra", "city": "Pune" },
+    "type": "Private",
+    "courses": [
+      {
+        "name": "B.Tech Robotics",
+        "duration": "4 years",
+        "fees": { "annual": 250000 },
+        "eligibility": {
+          "stream": ["Science (PCM)"],
+          "entranceExam": "JEE Main/SET"
+        },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 85 }]
+      }
+    ],
+    "ratings": {
+      "overall": 4.3,
+      "placement": 4.4,
+      "infrastructure": 4.6,
+      "faculty": 4.3
+    },
+    "placementStats": {
+      "averagePackage": 7.5,
+      "highestPackage": 25.0,
+      "placementPercentage": 88,
+      "topRecruiters": ["Bosch", "Honeywell"]
+    },
+    "juniorCollegeStreams": [],
+    "website": "https://sitpune.edu.in",
+    "isActive": true
+  },
+  {
+    "name": "Government Medical College Nagpur",
+    "shortName": "GMC Nagpur",
+    "location": { "state": "Maharashtra", "city": "Nagpur" },
+    "type": "Government",
+    "courses": [
+      {
+        "name": "MBBS",
+        "duration": "5.5 years",
+        "fees": { "annual": 100000 },
+        "eligibility": { "stream": ["Science (PCB)"], "entranceExam": "NEET" },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 650 }]
+      }
+    ],
+    "ratings": {
+      "overall": 4.2,
+      "placement": 4.5,
+      "infrastructure": 4.0,
+      "faculty": 4.3
+    },
+    "placementStats": {
+      "averagePackage": 10,
+      "highestPackage": 10,
+      "placementPercentage": 100,
+      "topRecruiters": ["AIIMS", "PGI"]
+    },
+    "juniorCollegeStreams": ["Science (PCB)"],
+    "website": "https://gmcnagpur.in",
+    "isActive": true
+  },
+  {
+    "name": "Indian Institute of Technology Madras",
+    "shortName": "IIT Madras",
+    "location": { "state": "Tamil Nadu", "city": "Chennai" },
+    "type": "Central",
+    "courses": [
+      {
+        "name": "B.Tech Aerospace",
+        "duration": "4 years",
+        "fees": { "annual": 220000 },
+        "eligibility": {
+          "stream": ["Science (PCM)"],
+          "entranceExam": "JEE Advanced"
+        },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 1500 }]
+      }
+    ],
+    "ratings": {
+      "overall": 4.8,
+      "placement": 4.9,
+      "infrastructure": 4.7,
+      "faculty": 4.8
+    },
+    "placementStats": {
+      "averagePackage": 22.0,
+      "highestPackage": 1.8,
+      "placementPercentage": 97,
+      "topRecruiters": ["ISRO", "Boeing"]
+    },
+    "juniorCollegeStreams": [],
+    "website": "https://iitm.ac.in",
+    "isActive": true
+  },
+  {
+    "name": "All India Institute of Medical Sciences Delhi",
+    "shortName": "AIIMS Delhi",
+    "location": { "state": "Delhi", "city": "New Delhi" },
+    "type": "Central",
+    "courses": [
+      {
+        "name": "MBBS",
+        "duration": "5.5 years",
+        "fees": { "annual": 1000 },
+        "eligibility": { "stream": ["Science (PCB)"], "entranceExam": "NEET" },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 720 }]
+      }
+    ],
+    "ratings": {
+      "overall": 5.0,
+      "placement": 5.0,
+      "infrastructure": 4.9,
+      "faculty": 5.0
+    },
+    "placementStats": {
+      "averagePackage": 10,
+      "highestPackage": 10,
+      "placementPercentage": 100,
+      "topRecruiters": ["WHO", "UN"]
+    },
+    "juniorCollegeStreams": [],
+    "website": "https://aiims.edu",
+    "isActive": true
+  },
+  {
+    "name": "Jai Hind College Mumbai",
+    "shortName": "Jai Hind",
+    "location": { "state": "Maharashtra", "city": "Mumbai" },
+    "type": "Private",
+    "courses": [
+      {
+        "name": "B.Com Accounting",
+        "duration": "3 years",
+        "fees": { "annual": 40000 },
+        "eligibility": {
+          "stream": ["Commerce"],
+          "entranceExam": "College Entrance"
+        },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 85 }]
+      }
+    ],
+    "ratings": {
+      "overall": 4.5,
+      "placement": 4.3,
+      "infrastructure": 4.4,
+      "faculty": 4.6
+    },
+    "placementStats": {
+      "averagePackage": 5.0,
+      "highestPackage": 8.0,
+      "placementPercentage": 70,
+      "topRecruiters": ["ICICI", "HDFC"]
+    },
+    "juniorCollegeStreams": ["Commerce", "Arts"],
+    "website": "https://jaihindcollege.com",
+    "isActive": true
+  },
+  {
+    "name": "HR College of Commerce Mumbai",
+    "shortName": "HR College",
+    "location": { "state": "Maharashtra", "city": "Mumbai" },
+    "type": "Private",
+    "courses": [
+      {
+        "name": "BMS Finance",
+        "duration": "3 years",
+        "fees": { "annual": 60000 },
+        "eligibility": { "stream": ["Commerce"], "entranceExam": "SET" },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 92 }]
+      }
+    ],
+    "ratings": {
+      "overall": 4.6,
+      "placement": 4.7,
+      "infrastructure": 4.5,
+      "faculty": 4.6
+    },
+    "placementStats": {
+      "averagePackage": 6.5,
+      "highestPackage": 12.0,
+      "placementPercentage": 82,
+      "topRecruiters": ["JP Morgan", "KPMG"]
+    },
+    "juniorCollegeStreams": ["Commerce"],
+    "website": "https://hrcollege.edu",
+    "isActive": true
+  },
+  {
+    "name": "Brihan Maharashtra College of Commerce Pune",
+    "shortName": "BMCC",
+    "location": { "state": "Maharashtra", "city": "Pune" },
+    "type": "Private",
+    "courses": [
+      {
+        "name": "M.Com",
+        "duration": "2 years",
+        "fees": { "annual": 50000 },
+        "eligibility": { "stream": ["Commerce"], "entranceExam": "MAH CET" },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 70 }]
+      }
+    ],
+    "ratings": {
+      "overall": 4.3,
+      "placement": 4.2,
+      "infrastructure": 4.3,
+      "faculty": 4.4
+    },
+    "placementStats": {
+      "averagePackage": 4.0,
+      "highestPackage": 7.0,
+      "placementPercentage": 65,
+      "topRecruiters": ["EY", "PwC"]
+    },
+    "juniorCollegeStreams": ["Commerce"],
+    "website": "https://bmccpune.org",
+    "isActive": true
+  },
+  {
+    "name": "Nagpur University",
+    "shortName": "RTMNU",
+    "location": { "state": "Maharashtra", "city": "Nagpur" },
+    "type": "State",
+    "courses": [
+      {
+        "name": "BCA",
+        "duration": "3 years",
+        "fees": { "annual": 25000 },
+        "eligibility": {
+          "stream": ["Science/Commerce"],
+          "entranceExam": "University Test"
+        },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 75 }]
+      }
+    ],
+    "ratings": {
+      "overall": 4.0,
+      "placement": 3.8,
+      "infrastructure": 4.0,
+      "faculty": 4.1
+    },
+    "placementStats": {
+      "averagePackage": 3.5,
+      "highestPackage": 6.0,
+      "placementPercentage": 60,
+      "topRecruiters": ["Wipro", "HCL"]
+    },
+    "juniorCollegeStreams": ["Science", "Arts", "Commerce"],
+    "website": "https://nagpuruniversity.org",
+    "isActive": true
+  },
+  {
+    "name": "K J Somaiya College of Engineering",
+    "shortName": "KJSCE",
+    "location": { "state": "Maharashtra", "city": "Mumbai" },
+    "type": "Private",
+    "courses": [
+      {
+        "name": "B.Tech Telecommunication",
+        "duration": "4 years",
+        "fees": { "annual": 180000 },
+        "eligibility": {
+          "stream": ["Science (PCM)"],
+          "entranceExam": "MHT-CET"
+        },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 96 }]
+      }
+    ],
+    "ratings": {
+      "overall": 4.2,
+      "placement": 4.3,
+      "infrastructure": 4.4,
+      "faculty": 4.2
+    },
+    "placementStats": {
+      "averagePackage": 8.0,
+      "highestPackage": 25.0,
+      "placementPercentage": 85,
+      "topRecruiters": ["Cummins", "L&T"]
+    },
+    "juniorCollegeStreams": [],
+    "website": "https://somaiya.edu",
+    "isActive": true
+  },
+  {
+    "name": "MIT World Peace University Pune",
+    "shortName": "MIT-WPU",
+    "location": { "state": "Maharashtra", "city": "Pune" },
+    "type": "Private",
+    "courses": [
+      {
+        "name": "B.Tech Civil Engineering",
+        "duration": "4 years",
+        "fees": { "annual": 220000 },
+        "eligibility": {
+          "stream": ["Science (PCM)"],
+          "entranceExam": "JEE Main/MHT-CET"
+        },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 88 }]
+      }
+    ],
+    "ratings": {
+      "overall": 4.1,
+      "placement": 4.2,
+      "infrastructure": 4.5,
+      "faculty": 4.1
+    },
+    "placementStats": {
+      "averagePackage": 6.0,
+      "highestPackage": 20.0,
+      "placementPercentage": 80,
+      "topRecruiters": ["L&T", "Godrej"]
+    },
+    "juniorCollegeStreams": [],
+    "website": "https://mitwpu.edu.in",
+    "isActive": true
+  },
+  {
+    "name": "Army Institute of Technology Pune",
+    "shortName": "AIT Pune",
+    "location": { "state": "Maharashtra", "city": "Pune" },
+    "type": "Private",
+    "courses": [
+      {
+        "name": "B.E. Electronics",
+        "duration": "4 years",
+        "fees": { "annual": 150000 },
+        "eligibility": {
+          "stream": ["Science (PCM)"],
+          "entranceExam": "JEE Main"
+        },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 95 }]
+      }
+    ],
+    "ratings": {
+      "overall": 4.4,
+      "placement": 4.5,
+      "infrastructure": 4.3,
+      "faculty": 4.4
+    },
+    "placementStats": {
+      "averagePackage": 10.0,
+      "highestPackage": 30.0,
+      "placementPercentage": 90,
+      "topRecruiters": ["DRDO", "Army"]
+    },
+    "juniorCollegeStreams": [],
+    "website": "https://aitpune.com",
+    "isActive": true
+  },
+  {
+    "name": "Bharati Vidyapeeth Deemed University Pune",
+    "shortName": "BVDU",
+    "location": { "state": "Maharashtra", "city": "Pune" },
+    "type": "Deemed",
+    "courses": [
+      {
+        "name": "BDS",
+        "duration": "5 years",
+        "fees": { "annual": 300000 },
+        "eligibility": { "stream": ["Science (PCB)"], "entranceExam": "NEET" },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 550 }]
+      }
+    ],
+    "ratings": {
+      "overall": 4.0,
+      "placement": 4.1,
+      "infrastructure": 4.2,
+      "faculty": 4.0
+    },
+    "placementStats": {
+      "averagePackage": 10,
+      "highestPackage": 10,
+      "placementPercentage": 100,
+      "topRecruiters": ["Hospitals"]
+    },
+    "juniorCollegeStreams": ["Science (PCB)"],
+    "website": "https://bvuniversity.edu.in",
+    "isActive": true
+  },
+  {
+    "name": "Grant Medical College Mumbai",
+    "shortName": "GMC Mumbai",
+    "location": { "state": "Maharashtra", "city": "Mumbai" },
+    "type": "Government",
+    "courses": [
+      {
+        "name": "MBBS",
+        "duration": "5.5 years",
+        "fees": { "annual": 120000 },
+        "eligibility": { "stream": ["Science (PCB)"], "entranceExam": "NEET" },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 620 }]
+      }
+    ],
+    "ratings": {
+      "overall": 4.3,
+      "placement": 4.5,
+      "infrastructure": 4.1,
+      "faculty": 4.4
+    },
+    "placementStats": {
+      "averagePackage": 10,
+      "highestPackage": 10,
+      "placementPercentage": 100,
+      "topRecruiters": ["KEM Hospital"]
+    },
+    "juniorCollegeStreams": [],
+    "website": "https://gmcmumbai.in",
+    "isActive": true
+  },
+  {
+    "name": "SIES College of Engineering Navi Mumbai",
+    "shortName": "SIES Nerul",
+    "location": { "state": "Maharashtra", "city": "Navi Mumbai" },
+    "type": "Private",
+    "courses": [
+      {
+        "name": "B.E. IT",
+        "duration": "4 years",
+        "fees": { "annual": 160000 },
+        "eligibility": {
+          "stream": ["Science (PCM)"],
+          "entranceExam": "MHT-CET"
+        },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 97 }]
+      }
+    ],
+    "ratings": {
+      "overall": 4.2,
+      "placement": 4.3,
+      "infrastructure": 4.3,
+      "faculty": 4.2
+    },
+    "placementStats": {
+      "averagePackage": 7.0,
+      "highestPackage": 22.0,
+      "placementPercentage": 82,
+      "topRecruiters": ["Persistent", "Tech Mahindra"]
+    },
+    "juniorCollegeStreams": [],
+    "website": "https://siesengg.edu.in",
+    "isActive": true
+  },
+  {
+    "name": "D.Y. Patil College of Engineering Akurdi Pune",
+    "shortName": "DY Patil Akurdi",
+    "location": { "state": "Maharashtra", "city": "Pune" },
+    "type": "Private",
+    "courses": [
+      {
+        "name": "B.Tech Automobile Engineering",
+        "duration": "4 years",
+        "fees": { "annual": 140000 },
+        "eligibility": {
+          "stream": ["Science (PCM)"],
+          "entranceExam": "MHT-CET"
+        },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 90 }]
+      }
+    ],
+    "ratings": {
+      "overall": 4.1,
+      "placement": 4.2,
+      "infrastructure": 4.4,
+      "faculty": 4.1
+    },
+    "placementStats": {
+      "averagePackage": 5.5,
+      "highestPackage": 18.0,
+      "placementPercentage": 78,
+      "topRecruiters": ["Bajaj Auto", "Tata"]
+    },
+    "juniorCollegeStreams": [],
+    "website": "https://coek.ac.in",
+    "isActive": true
+  },
+  {
+    "name": "Vishwakarma Institute of Technology Pune",
+    "shortName": "VIT Pune",
+    "location": { "state": "Maharashtra", "city": "Pune" },
+    "type": "Private",
+    "courses": [
+      {
+        "name": "B.Tech Industrial Engineering",
+        "duration": "4 years",
+        "fees": { "annual": 170000 },
+        "eligibility": {
+          "stream": ["Science (PCM)"],
+          "entranceExam": "JEE Main/MHT-CET"
+        },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 92 }]
+      }
+    ],
+    "ratings": {
+      "overall": 4.3,
+      "placement": 4.4,
+      "infrastructure": 4.3,
+      "faculty": 4.3
+    },
+    "placementStats": {
+      "averagePackage": 8.5,
+      "highestPackage": 28.0,
+      "placementPercentage": 85,
+      "topRecruiters": ["Siemens", "Thermax"]
+    },
+    "juniorCollegeStreams": [],
+    "website": "https://vit.edu",
+    "isActive": true
+  },
+  {
+    "name": "R.A. Podar College of Commerce and Economics Mumbai",
+    "shortName": "Podar Commerce",
+    "location": { "state": "Maharashtra", "city": "Mumbai" },
+    "type": "Private",
+    "courses": [
+      {
+        "name": "B.Com Honours",
+        "duration": "3 years",
+        "fees": { "annual": 45000 },
+        "eligibility": { "stream": ["Commerce"], "entranceExam": "None" },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 87 }]
+      }
+    ],
+    "ratings": {
+      "overall": 4.4,
+      "placement": 4.5,
+      "infrastructure": 4.3,
+      "faculty": 4.4
+    },
+    "placementStats": {
+      "averagePackage": 5.2,
+      "highestPackage": 10.0,
+      "placementPercentage": 72,
+      "topRecruiters": ["Kotak", "ICICI"]
+    },
+    "juniorCollegeStreams": ["Commerce"],
+    "website": "https://podarcommerce.ac.in",
+    "isActive": true
+  },
+  {
+    "name": "SNDT Women's University Mumbai",
+    "shortName": "SNDT",
+    "location": { "state": "Maharashtra", "city": "Mumbai" },
+    "type": "State",
+    "courses": [
+      {
+        "name": "B.Sc. Home Science",
+        "duration": "3 years",
+        "fees": { "annual": 35000 },
+        "eligibility": {
+          "stream": ["Science"],
+          "entranceExam": "University Test"
+        },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 80 }]
+      }
+    ],
+    "ratings": {
+      "overall": 4.1,
+      "placement": 4.0,
+      "infrastructure": 4.2,
+      "faculty": 4.3
+    },
+    "placementStats": {
+      "averagePackage": 4.0,
+      "highestPackage": 8.0,
+      "placementPercentage": 68,
+      "topRecruiters": ["NGOs", "Food Industry"]
+    },
+    "juniorCollegeStreams": ["Arts", "Science"],
+    "website": "https://sndt.ac.in",
+    "isActive": true
+  },
+  {
+    "name": "Wilson College Mumbai",
+    "shortName": "Wilson",
+    "location": { "state": "Maharashtra", "city": "Mumbai" },
+    "type": "Private",
+    "courses": [
+      {
+        "name": "B.A. Economics",
+        "duration": "3 years",
+        "fees": { "annual": 30000 },
+        "eligibility": { "stream": ["Arts"], "entranceExam": "None" },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 78 }]
+      }
+    ],
+    "ratings": {
+      "overall": 4.2,
+      "placement": 3.9,
+      "infrastructure": 4.1,
+      "faculty": 4.3
+    },
+    "placementStats": {
+      "averagePackage": 3.8,
+      "highestPackage": 6.0,
+      "placementPercentage": 65,
+      "topRecruiters": ["Teaching", "Banking"]
+    },
+    "juniorCollegeStreams": ["Arts"],
+    "website": "https://wilsoncollege.edu",
+    "isActive": true
+  },
+  {
+    "name": "Indira College of Commerce and Science Pune",
+    "shortName": "ICCS Pune",
+    "location": { "state": "Maharashtra", "city": "Pune" },
+    "type": "Private",
+    "courses": [
+      {
+        "name": "B.Com International Finance",
+        "duration": "3 years",
+        "fees": { "annual": 80000 },
+        "eligibility": { "stream": ["Commerce"], "entranceExam": "None" },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 82 }]
+      }
+    ],
+    "ratings": {
+      "overall": 4.0,
+      "placement": 4.1,
+      "infrastructure": 4.2,
+      "faculty": 4.0
+    },
+    "placementStats": {
+      "averagePackage": 4.5,
+      "highestPackage": 9.0,
+      "placementPercentage": 70,
+      "topRecruiters": ["HSBC", "DBS"]
+    },
+    "juniorCollegeStreams": ["Commerce"],
+    "website": "https://iccs.ac.in",
+    "isActive": true
+  },
+  {
+    "name": "Shivaji University Kolhapur",
+    "shortName": "UNISHIVAJI",
+    "location": { "state": "Maharashtra", "city": "Kolhapur" },
+    "type": "State",
+    "courses": [
+      {
+        "name": "B.Sc. Physics",
+        "duration": "3 years",
+        "fees": { "annual": 20000 },
+        "eligibility": { "stream": ["Science"], "entranceExam": "None" },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 70 }]
+      }
+    ],
+    "ratings": {
+      "overall": 3.9,
+      "placement": 3.7,
+      "infrastructure": 4.0,
+      "faculty": 4.0
+    },
+    "placementStats": {
+      "averagePackage": 3.2,
+      "highestPackage": 5.0,
+      "placementPercentage": 55,
+      "topRecruiters": ["Local Industries"]
+    },
+    "juniorCollegeStreams": ["Science", "Arts"],
+    "website": "https://unishivaji.ac.in",
+    "isActive": true
+  },
+  {
+    "name": "North Maharashtra University Jalgaon",
+    "shortName": "NMU",
+    "location": { "state": "Maharashtra", "city": "Jalgaon" },
+    "type": "State",
+    "courses": [
+      {
+        "name": "B.Tech Chemical",
+        "duration": "4 years",
+        "fees": { "annual": 60000 },
+        "eligibility": {
+          "stream": ["Science (PCM)"],
+          "entranceExam": "MHT-CET"
+        },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 85 }]
+      }
+    ],
+    "ratings": {
+      "overall": 3.8,
+      "placement": 3.6,
+      "infrastructure": 3.9,
+      "faculty": 4.0
+    },
+    "placementStats": {
+      "averagePackage": 3.5,
+      "highestPackage": 6.0,
+      "placementPercentage": 50,
+      "topRecruiters": ["ONGC"]
+    },
+    "juniorCollegeStreams": [],
+    "website": "https://nmu.ac.in",
+    "isActive": true
+  },
+  {
+    "name": "Amravati University",
+    "shortName": "SGBAU",
+    "location": { "state": "Maharashtra", "city": "Amravati" },
+    "type": "State",
+    "courses": [
+      {
+        "name": "B.A. Literature",
+        "duration": "3 years",
+        "fees": { "annual": 15000 },
+        "eligibility": { "stream": ["Arts"], "entranceExam": "None" },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 65 }]
+      }
+    ],
+    "ratings": {
+      "overall": 3.7,
+      "placement": 3.5,
+      "infrastructure": 3.8,
+      "faculty": 3.9
+    },
+    "placementStats": {
+      "averagePackage": 2.8,
+      "highestPackage": 4.0,
+      "placementPercentage": 45,
+      "topRecruiters": ["Education Sector"]
+    },
+    "juniorCollegeStreams": ["Arts"],
+    "website": "https://sgbau.ac.in",
+    "isActive": true
+  },
+  {
+    "name": "Solapur University",
+    "shortName": "SU",
+    "location": { "state": "Maharashtra", "city": "Solapur" },
+    "type": "State",
+    "courses": [
+      {
+        "name": "B.Com",
+        "duration": "3 years",
+        "fees": { "annual": 18000 },
+        "eligibility": { "stream": ["Commerce"], "entranceExam": "None" },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 68 }]
+      }
+    ],
+    "ratings": {
+      "overall": 3.8,
+      "placement": 3.6,
+      "infrastructure": 3.7,
+      "faculty": 3.8
+    },
+    "placementStats": {
+      "averagePackage": 3.0,
+      "highestPackage": 5.0,
+      "placementPercentage": 50,
+      "topRecruiters": ["Local Banks"]
+    },
+    "juniorCollegeStreams": ["Commerce"],
+    "website": "https://susolapur.ac.in",
+    "isActive": true
+  },
+  {
+    "name": "MGM University Aurangabad",
+    "shortName": "MGMU",
+    "location": { "state": "Maharashtra", "city": "Aurangabad" },
+    "type": "Private",
+    "courses": [
+      {
+        "name": "B.Tech AI & ML",
+        "duration": "4 years",
+        "fees": { "annual": 120000 },
+        "eligibility": {
+          "stream": ["Science (PCM)"],
+          "entranceExam": "MHT-CET"
+        },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 82 }]
+      }
+    ],
+    "ratings": {
+      "overall": 4.0,
+      "placement": 4.1,
+      "infrastructure": 4.2,
+      "faculty": 4.0
+    },
+    "placementStats": {
+      "averagePackage": 5.0,
+      "highestPackage": 12.0,
+      "placementPercentage": 75,
+      "topRecruiters": ["TCS", "Wipro"]
+    },
+    "juniorCollegeStreams": [],
+    "website": "https://mgmu.ac.in",
+    "isActive": true
+  },
+  {
+    "name": "Dr. Babasaheb Ambedkar Marathwada University Aurangabad",
+    "shortName": "BAMU",
+    "location": { "state": "Maharashtra", "city": "Aurangabad" },
+    "type": "State",
+    "courses": [
+      {
+        "name": "B.Sc. Chemistry",
+        "duration": "3 years",
+        "fees": { "annual": 25000 },
+        "eligibility": { "stream": ["Science"], "entranceExam": "None" },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 72 }]
+      }
+    ],
+    "ratings": {
+      "overall": 3.9,
+      "placement": 3.8,
+      "infrastructure": 3.9,
+      "faculty": 4.0
+    },
+    "placementStats": {
+      "averagePackage": 3.2,
+      "highestPackage": 5.5,
+      "placementPercentage": 55,
+      "topRecruiters": ["Pharma Companies"]
+    },
+    "juniorCollegeStreams": ["Science"],
+    "website": "https://bamu.ac.in",
+    "isActive": true
+  },
+  {
+    "name": "Swami Ramanand Teerth Marathwada University Nanded",
+    "shortName": "SRTMU",
+    "location": { "state": "Maharashtra", "city": "Nanded" },
+    "type": "State",
+    "courses": [
+      {
+        "name": "B.A. History",
+        "duration": "3 years",
+        "fees": { "annual": 15000 },
+        "eligibility": { "stream": ["Arts"], "entranceExam": "None" },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 60 }]
+      }
+    ],
+    "ratings": {
+      "overall": 3.7,
+      "placement": 3.5,
+      "infrastructure": 3.6,
+      "faculty": 3.7
+    },
+    "placementStats": {
+      "averagePackage": 2.5,
+      "highestPackage": 4.0,
+      "placementPercentage": 40,
+      "topRecruiters": ["Government Jobs"]
+    },
+    "juniorCollegeStreams": ["Arts"],
+    "website": "https://srtmun.ac.in",
+    "isActive": true
+  },
+  {
+    "name": "Gokhale Institute of Politics and Economics Pune",
+    "shortName": "GIPE",
+    "location": { "state": "Maharashtra", "city": "Pune" },
+    "type": "Deemed",
+    "courses": [
+      {
+        "name": "MA Economics",
+        "duration": "2 years",
+        "fees": { "annual": 150000 },
+        "eligibility": { "stream": ["Any"], "entranceExam": "GIPE Entrance" },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 90 }]
+      }
+    ],
+    "ratings": {
+      "overall": 4.5,
+      "placement": 4.6,
+      "infrastructure": 4.4,
+      "faculty": 4.7
+    },
+    "placementStats": {
+      "averagePackage": 12.0,
+      "highestPackage": 25.0,
+      "placementPercentage": 85,
+      "topRecruiters": ["RBI", "World Bank"]
+    },
+    "juniorCollegeStreams": [],
+    "website": "https://gipe.ac.in",
+    "isActive": true
+  },
+  {
+    "name": "FLAME University Pune",
+    "shortName": "FLAME",
+    "location": { "state": "Maharashtra", "city": "Pune" },
+    "type": "Private",
+    "courses": [
+      {
+        "name": "B.A. Liberal Arts",
+        "duration": "3 years",
+        "fees": { "annual": 350000 },
+        "eligibility": {
+          "stream": ["Any"],
+          "entranceExam": "FLAME Entrance/SAT"
+        },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 85 }]
+      }
+    ],
+    "ratings": {
+      "overall": 4.3,
+      "placement": 4.4,
+      "infrastructure": 4.7,
+      "faculty": 4.5
+    },
+    "placementStats": {
+      "averagePackage": 8.0,
+      "highestPackage": 18.0,
+      "placementPercentage": 80,
+      "topRecruiters": ["McKinsey", "Bain"]
+    },
+    "juniorCollegeStreams": [],
+    "website": "https://flame.edu.in",
+    "isActive": true
+  },
+  {
+    "name": "Symbiosis Law School Pune",
+    "shortName": "SLS Pune",
+    "location": { "state": "Maharashtra", "city": "Pune" },
+    "type": "Private",
+    "courses": [
+      {
+        "name": "BA LLB",
+        "duration": "5 years",
+        "fees": { "annual": 300000 },
+        "eligibility": { "stream": ["Any"], "entranceExam": "SLAT" },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 95 }]
+      }
+    ],
+    "ratings": {
+      "overall": 4.6,
+      "placement": 4.7,
+      "infrastructure": 4.5,
+      "faculty": 4.6
+    },
+    "placementStats": {
+      "averagePackage": 10.0,
+      "highestPackage": 30.0,
+      "placementPercentage": 90,
+      "topRecruiters": ["AZB & Partners", "Khaitan"]
+    },
+    "juniorCollegeStreams": [],
+    "website": "https://symlaw.ac.in",
+    "isActive": true
+  },
+  {
+    "name": "Government Law College Mumbai",
+    "shortName": "GLC Mumbai",
+    "location": { "state": "Maharashtra", "city": "Mumbai" },
+    "type": "Government",
+    "courses": [
+      {
+        "name": "LLB",
+        "duration": "3 years",
+        "fees": { "annual": 5000 },
+        "eligibility": {
+          "stream": ["Any Graduate"],
+          "entranceExam": "MH CET Law"
+        },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 140 }]
+      }
+    ],
+    "ratings": {
+      "overall": 4.4,
+      "placement": 4.3,
+      "infrastructure": 4.0,
+      "faculty": 4.5
+    },
+    "placementStats": {
+      "averagePackage": 7.0,
+      "highestPackage": 15.0,
+      "placementPercentage": 75,
+      "topRecruiters": ["Cyril Amarchand", "Trilegal"]
+    },
+    "juniorCollegeStreams": [],
+    "website": "https://glcmumbai.com",
+    "isActive": true
+  },
+  {
+    "name": "Indian Institute of Management Bangalore",
+    "shortName": "IIM Bangalore",
+    "location": { "state": "Karnataka", "city": "Bangalore" },
+    "type": "Central",
+    "courses": [
+      {
+        "name": "MBA",
+        "duration": "2 years",
+        "fees": { "annual": 1200000 },
+        "eligibility": { "stream": ["Any Graduate"], "entranceExam": "CAT" },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 99 }]
+      }
+    ],
+    "ratings": {
+      "overall": 4.9,
+      "placement": 5.0,
+      "infrastructure": 4.8,
+      "faculty": 4.9
+    },
+    "placementStats": {
+      "averagePackage": 35.0,
+      "highestPackage": 1.15,
+      "placementPercentage": 100,
+      "topRecruiters": ["McKinsey", "BCG", "Goldman Sachs"]
+    },
+    "juniorCollegeStreams": [],
+    "website": "https://iimb.ac.in",
+    "isActive": true
+  },
+  {
+    "name": "National Law School of India University Bangalore",
+    "shortName": "NLSIU",
+    "location": { "state": "Karnataka", "city": "Bangalore" },
+    "type": "National",
+    "courses": [
+      {
+        "name": "BA LLB",
+        "duration": "5 years",
+        "fees": { "annual": 250000 },
+        "eligibility": { "stream": ["Any"], "entranceExam": "CLAT" },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 1 }]
+      }
+    ],
+    "ratings": {
+      "overall": 4.8,
+      "placement": 4.9,
+      "infrastructure": 4.7,
+      "faculty": 4.8
+    },
+    "placementStats": {
+      "averagePackage": 18.0,
+      "highestPackage": 50.0,
+      "placementPercentage": 98,
+      "topRecruiters": ["Cyril Amarchand", "Shardul Amarchand"]
+    },
+    "juniorCollegeStreams": [],
+    "website": "https://nls.ac.in",
+    "isActive": true
+  },
+  {
+    "name": "Manipal Institute of Technology",
+    "shortName": "MIT Manipal",
+    "location": { "state": "Karnataka", "city": "Manipal" },
+    "type": "Private",
+    "courses": [
+      {
+        "name": "B.Tech Mechatronics",
+        "duration": "4 years",
+        "fees": { "annual": 350000 },
+        "eligibility": { "stream": ["Science (PCM)"], "entranceExam": "MET" },
+        "cutoffs": [{ "year": 2024, "category": "General", "cutoff": 85 }]
+      }
+    ],
+    "ratings": {
+      "overall": 4.4,
+      "placement": 4.5,
+      "infrastructure": 4.6,
+      "faculty": 4.4
+    },
+    "placementStats": {
+      "averagePackage": 12.0,
+      "highestPackage": 40.0,
+      "placementPercentage": 90,
+      "topRecruiters": ["Intel", "Cisco"]
+    },
+    "juniorCollegeStreams": [],
+    "website": "https://manipal.edu/mit",
+    "isActive": true
+  }
+]

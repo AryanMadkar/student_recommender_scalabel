@@ -1,0 +1,384 @@
+[
+  {
+    "question": "Which technical skill are you most interested in developing?",
+    "type": "multiple_choice",
+    "category": "interest",
+    "subcategory": "skill_preference",
+    "options": [
+      { "text": "AI and Machine Learning", "value": "ai_ml", "weight": 95 },
+      {
+        "text": "Full-Stack Web Development",
+        "value": "web_dev",
+        "weight": 90
+      },
+      {
+        "text": "Mobile App Development (Android/iOS)",
+        "value": "mobile_dev",
+        "weight": 88
+      },
+      {
+        "text": "Cloud Computing & DevOps",
+        "value": "cloud_devops",
+        "weight": 85
+      },
+      { "text": "Cybersecurity", "value": "cybersecurity", "weight": 82 },
+      {
+        "text": "Data Structures & Algorithms (Competitive Programming)",
+        "value": "dsa_cp",
+        "weight": 92
+      }
+    ],
+    "difficulty": "medium",
+    "stage": ["ongoing"],
+    "tags": ["skills", "career", "tech"]
+  },
+  {
+    "question": "What is your primary goal after graduation?",
+    "type": "multiple_choice",
+    "category": "interest",
+    "subcategory": "career_goal",
+    "options": [
+      {
+        "text": "Get placed in a top tech company (FAANG, etc.)",
+        "value": "top_company",
+        "weight": 90
+      },
+      {
+        "text": "Start my own startup/business",
+        "value": "startup",
+        "weight": 85
+      },
+      {
+        "text": "Pursue higher education (Masters/PhD)",
+        "value": "higher_studies",
+        "weight": 88
+      },
+      {
+        "text": "Work in a specific domain I'm passionate about",
+        "value": "domain_specific",
+        "weight": 87
+      },
+      {
+        "text": "Prepare for competitive exams (UPSC, etc.)",
+        "value": "competitive_exams",
+        "weight": 80
+      }
+    ],
+    "difficulty": "easy",
+    "stage": ["ongoing"],
+    "tags": ["career", "goal", "future"]
+  },
+  {
+    "question": "Rate your current coding/programming proficiency (1-5)",
+    "type": "rating",
+    "category": "technical",
+    "subcategory": "coding_proficiency",
+    "options": [
+      { "text": "1 - Beginner", "value": 1, "weight": 20 },
+      { "text": "2 - Basic understanding", "value": 2, "weight": 40 },
+      { "text": "3 - Intermediate", "value": 3, "weight": 60 },
+      { "text": "4 - Advanced", "value": 4, "weight": 80 },
+      { "text": "5 - Expert", "value": 5, "weight": 100 }
+    ],
+    "difficulty": "easy",
+    "stage": ["ongoing"],
+    "tags": ["coding", "programming", "technical"]
+  },
+  {
+    "question": "Have you done any internships or professional projects?",
+    "type": "boolean",
+    "category": "academic",
+    "subcategory": "experience",
+    "difficulty": "easy",
+    "stage": ["ongoing"],
+    "tags": ["internship", "experience", "projects"]
+  },
+  {
+    "question": "How interested are you in research and academic publications?",
+    "type": "rating",
+    "category": "academic",
+    "subcategory": "research_interest",
+    "options": [
+      { "text": "1 - Not interested", "value": 1, "weight": 20 },
+      { "text": "2 - Slightly interested", "value": 2, "weight": 40 },
+      { "text": "3 - Moderately interested", "value": 3, "weight": 60 },
+      { "text": "4 - Very interested", "value": 4, "weight": 80 },
+      { "text": "5 - Extremely interested", "value": 5, "weight": 100 }
+    ],
+    "difficulty": "easy",
+    "stage": ["ongoing"],
+    "tags": ["research", "academic", "publications"]
+  },
+  {
+    "question": "What type of company culture do you prefer?",
+    "type": "multiple_choice",
+    "category": "personality",
+    "subcategory": "company_culture",
+    "options": [
+      {
+        "text": "Large established companies with structure",
+        "value": "corporate",
+        "weight": 75
+      },
+      {
+        "text": "Fast-paced startups with flexibility",
+        "value": "startup_culture",
+        "weight": 85
+      },
+      {
+        "text": "Research-oriented academic institutions",
+        "value": "academic",
+        "weight": 80
+      },
+      {
+        "text": "Product-based tech companies",
+        "value": "product_companies",
+        "weight": 90
+      }
+    ],
+    "difficulty": "medium",
+    "stage": ["ongoing"],
+    "tags": ["culture", "company", "work"]
+  },
+  {
+    "question": "Are you actively preparing for placement interviews?",
+    "type": "boolean",
+    "category": "academic",
+    "subcategory": "placement_prep",
+    "difficulty": "easy",
+    "stage": ["ongoing"],
+    "tags": ["placement", "interview", "preparation"]
+  },
+  {
+    "question": "Rate your interest in building your own products/SaaS (1-5)",
+    "type": "rating",
+    "category": "interest",
+    "subcategory": "product_building",
+    "options": [
+      { "text": "1 - Not interested", "value": 1, "weight": 20 },
+      { "text": "2 - Slightly interested", "value": 2, "weight": 40 },
+      { "text": "3 - Moderately interested", "value": 3, "weight": 60 },
+      { "text": "4 - Very interested", "value": 4, "weight": 80 },
+      { "text": "5 - Extremely interested", "value": 5, "weight": 100 }
+    ],
+    "difficulty": "medium",
+    "stage": ["ongoing"],
+    "tags": ["product", "saas", "entrepreneurship"]
+  },
+  {
+    "question": "How comfortable are you with Data Structures and Algorithms?",
+    "type": "rating",
+    "category": "technical",
+    "subcategory": "dsa_comfort",
+    "options": [
+      { "text": "1 - Just starting", "value": 1, "weight": 20 },
+      { "text": "2 - Basic problems", "value": 2, "weight": 40 },
+      { "text": "3 - Medium problems", "value": 3, "weight": 60 },
+      { "text": "4 - Hard problems", "value": 4, "weight": 80 },
+      { "text": "5 - Competitive level", "value": 5, "weight": 100 }
+    ],
+    "difficulty": "medium",
+    "stage": ["ongoing"],
+    "tags": ["dsa", "algorithms", "coding"]
+  },
+  {
+    "question": "Are you interested in freelancing or remote work opportunities?",
+    "type": "boolean",
+    "category": "interest",
+    "subcategory": "freelance_interest",
+    "difficulty": "easy",
+    "stage": ["ongoing"],
+    "tags": ["freelance", "remote", "work"]
+  },
+  {
+    "question": "What's your preferred job location type?",
+    "type": "multiple_choice",
+    "category": "personality",
+    "subcategory": "location_preference",
+    "options": [
+      {
+        "text": "On-site in major tech hubs (Bangalore, Mumbai, etc.)",
+        "value": "onsite_metro",
+        "weight": 80
+      },
+      { "text": "Remote from anywhere", "value": "remote", "weight": 85 },
+      {
+        "text": "Hybrid (mix of office and remote)",
+        "value": "hybrid",
+        "weight": 90
+      },
+      {
+        "text": "International opportunities",
+        "value": "international",
+        "weight": 88
+      }
+    ],
+    "difficulty": "easy",
+    "stage": ["ongoing"],
+    "tags": ["location", "work", "preference"]
+  },
+  {
+    "question": "Rate your interest in Open Source contributions (1-5)",
+    "type": "rating",
+    "category": "technical",
+    "subcategory": "opensource_interest",
+    "options": [
+      { "text": "1 - Not interested", "value": 1, "weight": 20 },
+      { "text": "2 - Slightly interested", "value": 2, "weight": 40 },
+      { "text": "3 - Moderately interested", "value": 3, "weight": 60 },
+      { "text": "4 - Very interested", "value": 4, "weight": 80 },
+      {
+        "text": "5 - Extremely interested/Active contributor",
+        "value": 5,
+        "weight": 100
+      }
+    ],
+    "difficulty": "easy",
+    "stage": ["ongoing"],
+    "tags": ["opensource", "github", "community"]
+  },
+  {
+    "question": "How important is package/salary in your first job?",
+    "type": "rating",
+    "category": "personality",
+    "subcategory": "salary_importance",
+    "options": [
+      { "text": "1 - Not very important", "value": 1, "weight": 20 },
+      { "text": "2 - Somewhat important", "value": 2, "weight": 40 },
+      { "text": "3 - Moderately important", "value": 3, "weight": 60 },
+      { "text": "4 - Very important", "value": 4, "weight": 80 },
+      { "text": "5 - Extremely important", "value": 5, "weight": 100 }
+    ],
+    "difficulty": "easy",
+    "stage": ["ongoing"],
+    "tags": ["salary", "compensation", "priority"]
+  },
+  {
+    "question": "Are you building a personal brand (LinkedIn, Twitter, Blog)?",
+    "type": "boolean",
+    "category": "communication",
+    "subcategory": "personal_branding",
+    "difficulty": "easy",
+    "stage": ["ongoing"],
+    "tags": ["branding", "social_media", "networking"]
+  },
+  {
+    "question": "Which domain excites you the most?",
+    "type": "multiple_choice",
+    "category": "interest",
+    "subcategory": "domain_interest",
+    "options": [
+      {
+        "text": "Artificial Intelligence & Machine Learning",
+        "value": "ai_ml_domain",
+        "weight": 95
+      },
+      {
+        "text": "Web & Mobile Development",
+        "value": "web_mobile",
+        "weight": 88
+      },
+      {
+        "text": "Data Science & Analytics",
+        "value": "data_science",
+        "weight": 90
+      },
+      {
+        "text": "Cybersecurity & Ethical Hacking",
+        "value": "security",
+        "weight": 85
+      },
+      { "text": "Blockchain & Web3", "value": "blockchain", "weight": 87 },
+      { "text": "Game Development", "value": "game_dev", "weight": 82 }
+    ],
+    "difficulty": "medium",
+    "stage": ["ongoing"],
+    "tags": ["domain", "specialization", "tech"]
+  },
+  {
+    "question": "Rate your networking and communication skills (1-5)",
+    "type": "rating",
+    "category": "communication",
+    "subcategory": "networking_skills",
+    "options": [
+      { "text": "1 - Needs improvement", "value": 1, "weight": 20 },
+      { "text": "2 - Basic", "value": 2, "weight": 40 },
+      { "text": "3 - Good", "value": 3, "weight": 60 },
+      { "text": "4 - Very good", "value": 4, "weight": 80 },
+      { "text": "5 - Excellent", "value": 5, "weight": 100 }
+    ],
+    "difficulty": "easy",
+    "stage": ["ongoing"],
+    "tags": ["networking", "communication", "soft_skills"]
+  },
+  {
+    "question": "Are you interested in participating in hackathons?",
+    "type": "boolean",
+    "category": "interest",
+    "subcategory": "hackathon_interest",
+    "difficulty": "easy",
+    "stage": ["ongoing"],
+    "tags": ["hackathon", "competition", "coding"]
+  },
+  {
+    "question": "How would you rate your problem-solving speed under time constraints? (1-5)",
+    "type": "rating",
+    "category": "analytical",
+    "subcategory": "timed_problem_solving",
+    "options": [
+      { "text": "1 - Slow", "value": 1, "weight": 20 },
+      { "text": "2 - Below average", "value": 2, "weight": 40 },
+      { "text": "3 - Average", "value": 3, "weight": 60 },
+      { "text": "4 - Fast", "value": 4, "weight": 80 },
+      { "text": "5 - Very fast", "value": 5, "weight": 100 }
+    ],
+    "difficulty": "medium",
+    "stage": ["ongoing"],
+    "tags": ["problem_solving", "speed", "analytical"]
+  },
+  {
+    "question": "What's your preferred learning method for new technologies?",
+    "type": "multiple_choice",
+    "category": "personality",
+    "subcategory": "learning_method",
+    "options": [
+      {
+        "text": "Online courses and tutorials",
+        "value": "online_courses",
+        "weight": 85
+      },
+      {
+        "text": "Documentation and official guides",
+        "value": "documentation",
+        "weight": 88
+      },
+      {
+        "text": "Building projects hands-on",
+        "value": "project_based",
+        "weight": 95
+      },
+      {
+        "text": "Books and structured learning",
+        "value": "books",
+        "weight": 80
+      },
+      {
+        "text": "YouTube and video content",
+        "value": "video_content",
+        "weight": 82
+      }
+    ],
+    "difficulty": "easy",
+    "stage": ["ongoing"],
+    "tags": ["learning", "education", "method"]
+  },
+  {
+    "question": "Are you interested in teaching or mentoring others?",
+    "type": "boolean",
+    "category": "leadership",
+    "subcategory": "mentoring_interest",
+    "difficulty": "easy",
+    "stage": ["ongoing"],
+    "tags": ["teaching", "mentoring", "leadership"]
+  }
+]

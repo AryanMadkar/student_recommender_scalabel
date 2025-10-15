@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Which entrance exam have you prepared for or are planning to take?",
+    "type": "multiple_choice",
+    "category": "academic",
+    "subcategory": "exam_preference",
+    "options": [
+      { "text": "JEE (Main/Advanced) for Engineering", "value": "jee", "weight": 90 },
+      { "text": "NEET for Medical (MBBS/BDS)", "value": "neet", "weight": 90 },
+      { "text": "CLAT/AILET for Law", "value": "law_entrance", "weight": 85 },
+      { "text": "NID/NIFT/UCEED for Design", "value": "design_entrance", "weight": 85 },
+      { "text": "University specific exams (CUET, etc.)", "value": "university_exam", "weight": 80 },
+      { "text": "None, seeking direct admission", "value": "direct", "weight": 60 }
+    ],
+    "difficulty": "easy",
+    "stage": ["after12th"],
+    "tags": ["entrance", "exam", "career"]
+  },
+  {
+    "question": "What kind of work environment do you see yourself thriving in?",
+    "type": "multiple_choice",
+    "category": "personality",
+    "subcategory": "work_environment",
+    "options": [
+      { "text": "Corporate office with structured roles", "value": "corporate", "weight": 80 },
+      { "text": "Startup with fast-paced dynamic environment", "value": "startup", "weight": 85 },
+      { "text": "Research lab or academic setting", "value": "research", "weight": 90 },
+      { "text": "Creative studio or freelance", "value": "creative", "weight": 85 },
+      { "text": "Healthcare or hospital setting", "value": "healthcare", "weight": 88 }
+    ],
+    "difficulty": "medium",
+    "stage": ["after12th"],
+    "tags": ["work", "environment", "preference"]
+  },
+  {
+    "question": "Rate your interest in Programming/Coding (1-5)",
+    "type": "rating",
+    "category": "technical",
+    "subcategory": "programming_interest",
+    "options": [
+      { "text": "1 - Not interested", "value": 1, "weight": 20 },
+      { "text": "2 - Slightly interested", "value": 2, "weight": 40 },
+      { "text": "3 - Moderately interested", "value": 3, "weight": 60 },
+      { "text": "4 - Very interested", "value": 4, "weight": 80 },
+      { "text": "5 - Extremely interested", "value": 5, "weight": 100 }
+    ],
+    "difficulty": "easy",
+    "stage": ["after12th"],
+    "tags": ["programming", "coding", "technical"]
+  },
+  {
+    "question": "What type of problem-solving approach appeals to you most?",
+    "type": "multiple_choice",
+    "category": "analytical",
+    "subcategory": "problem_solving_style",
+    "options": [
+      { "text": "Mathematical and logical reasoning", "value": "mathematical", "weight": 95 },
+      { "text": "Data analysis and pattern recognition", "value": "data_driven", "weight": 90 },
+      { "text": "Creative and innovative thinking", "value": "creative_thinking", "weight": 85 },
+      { "text": "Strategic planning and execution", "value": "strategic", "weight": 80 }
+    ],
+    "difficulty": "medium",
+    "stage": ["after12th"],
+    "tags": ["problem_solving", "thinking", "approach"]
+  },
+  {
+    "question": "Are you interested in understanding human behavior and psychology?",
+    "type": "boolean",
+    "category": "interest",
+    "subcategory": "psychology_interest",
+    "difficulty": "easy",
+    "stage": ["after12th"],
+    "tags": ["psychology", "human_behavior", "social"]
+  },
+  {
+    "question": "How comfortable are you with public presentations and debates?",
+    "type": "rating",
+    "category": "communication",
+    "subcategory": "presentation_skills",
+    "options": [
+      { "text": "1 - Very uncomfortable", "value": 1, "weight": 20 },
+      { "text": "2 - Somewhat uncomfortable", "value": 2, "weight": 40 },
+      { "text": "3 - Moderately comfortable", "value": 3, "weight": 60 },
+      { "text": "4 - Comfortable", "value": 4, "weight": 80 },
+      { "text": "5 - Very comfortable", "value": 5, "weight": 100 }
+    ],
+    "difficulty": "easy",
+    "stage": ["after12th"],
+    "tags": ["communication", "presentation", "speaking"]
+  },
+  {
+    "question": "What's your primary motivation for choosing a career?",
+    "type": "multiple_choice",
+    "category": "personality",
+    "subcategory": "career_motivation",
+    "options": [
+      { "text": "Financial independence and wealth", "value": "financial", "weight": 80 },
+      { "text": "Passion and personal fulfillment", "value": "passion", "weight": 85 },
+      { "text": "Social impact and helping society", "value": "social_good", "weight": 90 },
+      { "text": "Innovation and cutting-edge work", "value": "innovation", "weight": 88 },
+      { "text": "Job security and stability", "value": "security", "weight": 75 }
+    ],
+    "difficulty": "medium",
+    "stage": ["after12th"],
+    "tags": ["motivation", "career", "values"]
+  },
+  {
+    "question": "Do you enjoy working with numbers, data, and statistics?",
+    "type": "boolean",
+    "category": "analytical",
+    "subcategory": "data_affinity",
+    "difficulty": "easy",
+    "stage": ["after12th"],
+    "tags": ["data", "numbers", "analytical"]
+  },
+  {
+    "question": "Rate your interest in Business Management and Entrepreneurship (1-5)",
+    "type": "rating",
+    "category": "interest",
+    "subcategory": "business_interest",
+    "options": [
+      { "text": "1 - Not interested", "value": 1, "weight": 20 },
+      { "text": "2 - Slightly interested", "value": 2, "weight": 40 },
+      { "text": "3 - Moderately interested", "value": 3, "weight": 60 },
+      { "text": "4 - Very interested", "value": 4, "weight": 80 },
+      { "text": "5 - Extremely interested", "value": 5, "weight": 100 }
+    ],
+    "difficulty": "easy",
+    "stage": ["after12th"],
+    "tags": ["business", "entrepreneurship", "management"]
+  },
+  {
+    "question": "How would you describe your creativity level?",
+    "type": "rating",
+    "category": "creative",
+    "subcategory": "creativity_level",
+    "options": [
+      { "text": "1 - Not creative", "value": 1, "weight": 20 },
+      { "text": "2 - Somewhat creative", "value": 2, "weight": 40 },
+      { "text": "3 - Moderately creative", "value": 3, "weight": 60 },
+      { "text": "4 - Very creative", "value": 4, "weight": 80 },
+      { "text": "5 - Extremely creative", "value": 5, "weight": 100 }
+    ],
+    "difficulty": "easy",
+    "stage": ["after12th"],
+    "tags": ["creativity", "innovation", "artistic"]
+  },
+  {
+    "question": "Are you interested in emerging technologies like AI, Blockchain, or IoT?",
+    "type": "boolean",
+    "category": "technical",
+    "subcategory": "emerging_tech_interest",
+    "difficulty": "easy",
+    "stage": ["after12th"],
+    "tags": ["technology", "ai", "innovation"]
+  },
+  {
+    "question": "What type of learning do you prefer in college?",
+    "type": "multiple_choice",
+    "category": "personality",
+    "subcategory": "learning_preference",
+    "options": [
+      { "text": "Theoretical concepts and research", "value": "theoretical", "weight": 85 },
+      { "text": "Practical applications and hands-on", "value": "practical", "weight": 90 },
+      { "text": "Project-based and collaborative", "value": "project_based", "weight": 88 },
+      { "text": "Self-paced online learning", "value": "self_paced", "weight": 75 }
+    ],
+    "difficulty": "medium",
+    "stage": ["after12th"],
+    "tags": ["learning", "education", "style"]
+  },
+  {
+    "question": "How important is international exposure (study/work abroad) to you?",
+    "type": "rating",
+    "category": "personality",
+    "subcategory": "international_aspiration",
+    "options": [
+      { "text": "1 - Not important", "value": 1, "weight": 20 },
+      { "text": "2 - Slightly important", "value": 2, "weight": 40 },
+      { "text": "3 - Moderately important", "value": 3, "weight": 60 },
+      { "text": "4 - Very important", "value": 4, "weight": 80 },
+      { "text": "5 - Extremely important", "value": 5, "weight": 100 }
+    ],
+    "difficulty": "easy",
+    "stage": ["after12th"],
+    "tags": ["international", "aspirations", "career"]
+  },
+  {
+    "question": "Do you see yourself pursuing higher studies (Masters/PhD)?",
+    "type": "boolean",
+    "category": "academic",
+    "subcategory": "higher_education_interest",
+    "difficulty": "easy",
+    "stage": ["after12th"],
+    "tags": ["higher_education", "masters", "phd"]
+  },
+  {
+    "question": "Rate your ability to work under pressure and meet deadlines (1-5)",
+    "type": "rating",
+    "category": "personality",
+    "subcategory": "pressure_handling",
+    "options": [
+      { "text": "1 - Struggle significantly", "value": 1, "weight": 20 },
+      { "text": "2 - Find it challenging", "value": 2, "weight": 40 },
+      { "text": "3 - Manage adequately", "value": 3, "weight": 60 },
+      { "text": "4 - Handle well", "value": 4, "weight": 80 },
+      { "text": "5 - Thrive under pressure", "value": 5, "weight": 100 }
+    ],
+    "difficulty": "medium",
+    "stage": ["after12th"],
+    "tags": ["stress", "pressure", "deadlines"]
+  },
+  {
+    "question": "Which aspect of a job matters most to you?",
+    "type": "multiple_choice",
+    "category": "personality",
+    "subcategory": "job_priority",
+    "options": [
+      { "text": "Salary and financial benefits", "value": "compensation", "weight": 80 },
+      { "text": "Learning and growth opportunities", "value": "growth", "weight": 90 },
+      { "text": "Work-life balance", "value": "balance", "weight": 85 },
+      { "text": "Company reputation and brand", "value": "reputation", "weight": 75 },
+      { "text": "Job role and responsibilities", "value": "role_fit", "weight": 88 }
+    ],
+    "difficulty": "medium",
+    "stage": ["after12th"],
+    "tags": ["job", "priority", "values"]
+  },
+  {
+    "question": "Are you interested in fields related to environment and sustainability?",
+    "type": "boolean",
+    "category": "interest",
+    "subcategory": "environmental_interest",
+    "difficulty": "easy",
+    "stage": ["after12th"],
+    "tags": ["environment", "sustainability", "social"]
+  },
+  {
+    "question": "How would you rate your leadership and team management skills? (1-5)",
+    "type": "rating",
+    "category": "leadership",
+    "subcategory": "leadership_skills",
+    "options": [
+      { "text": "1 - Weak", "value": 1, "weight": 20 },
+      { "text": "2 - Below average", "value": 2, "weight": 40 },
+      { "text": "3 - Average", "value": 3, "weight": 60 },
+      { "text": "4 - Good", "value": 4, "weight": 80 },
+      { "text": "5 - Excellent", "value": 5, "weight": 100 }
+    ],
+    "difficulty": "easy",
+    "stage": ["after12th"],
+    "tags": ["leadership", "management", "skills"]
+  },
+  {
+    "question": "Do you prefer jobs with routine tasks or varied challenges?",
+    "type": "multiple_choice",
+    "category": "personality",
+    "subcategory": "work_variety",
+    "options": [
+      { "text": "Routine and predictable tasks", "value": "routine", "weight": 70 },
+      { "text": "Mix of routine and new challenges", "value": "balanced", "weight": 80 },
+      { "text": "Constantly varied and new challenges", "value": "dynamic", "weight": 90 }
+    ],
+    "difficulty": "easy",
+    "stage": ["after12th"],
+    "tags": ["work_style", "personality", "variety"]
+  },
+  {
+    "question": "Are you interested in content creation (writing, video, design)?",
+    "type": "boolean",
+    "category": "creative",
+    "subcategory": "content_creation_interest",
+    "difficulty": "easy",
+    "stage": ["after12th"],
+    "tags": ["content", "creative", "media"]
+  }
+]

@@ -1,0 +1,293 @@
+[
+  {
+    "title": "Software Engineer",
+    "category": "Engineering",
+    "description": "Develops and maintains software applications. High demand in IT hubs like Mumbai, Pune, Bangalore.",
+    "requiredSkills": [
+      { "skill": "JavaScript", "proficiency": "Intermediate", "importance": 5 },
+      { "skill": "Python", "proficiency": "Beginner", "importance": 4 },
+      { "skill": "SQL", "proficiency": "Intermediate", "importance": 3 }
+    ],
+    "educationPath": [
+      {
+        "level": "Bachelor",
+        "fields": ["Computer Science", "IT"],
+        "duration": "4 years",
+        "mandatory": true
+      },
+      {
+        "level": "Master",
+        "fields": ["M.Tech Software"],
+        "duration": "2 years",
+        "mandatory": false
+      }
+    ],
+    "salaryRange": {
+      "entry": { "min": 4, "max": 8 },
+      "mid": { "min": 10, "max": 20 },
+      "senior": { "min": 25, "max": 50 }
+    },
+    "jobRoles": ["Full Stack Developer", "Backend Engineer", "DevOps Engineer"],
+    "industries": ["IT Services", "Product Companies", "Startups", "Banking"],
+    "growth": {
+      "demand": "High",
+      "futureScope": "AI/ML integration",
+      "automationRisk": "Low"
+    },
+    "aptitudeMapping": {
+      "analytical": 90,
+      "creative": 70,
+      "technical": 95,
+      "communication": 60,
+      "leadership": 50
+    },
+    "entranceExams": ["JEE Main", "GATE"],
+    "topCompaniesInMH": [
+      "TCS Mumbai",
+      "Infosys Pune",
+      "Capgemini Navi Mumbai",
+      "Accenture Mumbai"
+    ],
+    "mhJobMarket": "Very High - 50k+ openings yearly in Pune/Mumbai IT parks"
+  },
+  {
+    "title": "Data Scientist",
+    "category": "Engineering",
+    "description": "Analyzes complex data to drive business decisions. Emerging field with AI focus in India.",
+    "requiredSkills": [
+      {
+        "skill": "Machine Learning",
+        "proficiency": "Advanced",
+        "importance": 5
+      },
+      {
+        "skill": "R Programming",
+        "proficiency": "Intermediate",
+        "importance": 4
+      },
+      {
+        "skill": "Big Data (Hadoop)",
+        "proficiency": "Beginner",
+        "importance": 3
+      }
+    ],
+    "educationPath": [
+      {
+        "level": "Bachelor",
+        "fields": ["Statistics", "Computer Science"],
+        "duration": "3-4 years",
+        "mandatory": true
+      },
+      {
+        "level": "Master",
+        "fields": ["Data Science"],
+        "duration": "2 years",
+        "mandatory": true
+      }
+    ],
+    "salaryRange": {
+      "entry": { "min": 6, "max": 12 },
+      "mid": { "min": 15, "max": 30 },
+      "senior": { "min": 35, "max": 70 }
+    },
+    "jobRoles": [
+      "Data Analyst",
+      "ML Engineer",
+      "Business Intelligence Analyst"
+    ],
+    "industries": ["Finance", "E-commerce", "Healthcare", "Government"],
+    "growth": {
+      "demand": "High",
+      "futureScope": "AI-driven analytics",
+      "automationRisk": "Medium"
+    },
+    "aptitudeMapping": {
+      "analytical": 95,
+      "creative": 80,
+      "technical": 85,
+      "communication": 75,
+      "leadership": 60
+    },
+    "entranceExams": ["GATE", "CAT for MBA Analytics"],
+    "topCompaniesInMH": [
+      "Mu Sigma Pune",
+      "Fractal Analytics Mumbai",
+      "Tiger Analytics Navi Mumbai"
+    ],
+    "mhJobMarket": "High - Growing in Pune analytics hubs, 20k+ roles"
+  },
+  {
+    "title": "Doctor (MBBS)",
+    "category": "Medical",
+    "description": "Provides healthcare services. High respect and stable career in India's expanding medical sector.",
+    "requiredSkills": [
+      { "skill": "Diagnostics", "proficiency": "Advanced", "importance": 5 },
+      {
+        "skill": "Patient Communication",
+        "proficiency": "Intermediate",
+        "importance": 4
+      },
+      { "skill": "Surgery Basics", "proficiency": "Beginner", "importance": 3 }
+    ],
+    "educationPath": [
+      {
+        "level": "Bachelor",
+        "fields": ["MBBS"],
+        "duration": "5.5 years",
+        "mandatory": true
+      },
+      {
+        "level": "Master",
+        "fields": ["MD/MS"],
+        "duration": "3 years",
+        "mandatory": false
+      }
+    ],
+    "salaryRange": {
+      "entry": { "min": 8, "max": 15 },
+      "mid": { "min": 20, "max": 50 },
+      "senior": { "min": 60, "max": 200 }
+    },
+    "jobRoles": ["General Physician", "Surgeon", "Specialist"],
+    "industries": ["Hospitals", "Clinics", "Government Health", "Pharma"],
+    "growth": {
+      "demand": "High",
+      "futureScope": "Telemedicine",
+      "automationRisk": "Low"
+    },
+    "aptitudeMapping": {
+      "analytical": 85,
+      "creative": 60,
+      "technical": 70,
+      "communication": 90,
+      "leadership": 80
+    },
+    "entranceExams": ["NEET UG", "NEET PG"],
+    "topCompaniesInMH": [
+      "Lilavati Hospital Mumbai",
+      "Ruby Hall Pune",
+      "CIIGMA Nagpur"
+    ],
+    "mhJobMarket": "Very High - Mumbai/Pune have 1000+ hospitals needing doctors"
+  },
+  {
+    "title": "Chartered Accountant",
+    "category": "Business",
+    "description": "Handles financial auditing, taxation, and advisory. Essential for India's growing economy.",
+    "requiredSkills": [
+      { "skill": "Auditing", "proficiency": "Advanced", "importance": 5 },
+      {
+        "skill": "Tax Laws (GST/IT)",
+        "proficiency": "Intermediate",
+        "importance": 4
+      },
+      {
+        "skill": "Financial Reporting",
+        "proficiency": "Advanced",
+        "importance": 5
+      }
+    ],
+    "educationPath": [
+      {
+        "level": "10+2",
+        "fields": ["Commerce"],
+        "duration": "2 years",
+        "mandatory": true
+      },
+      {
+        "level": "Certificate",
+        "fields": ["CA"],
+        "duration": "4-5 years",
+        "mandatory": true
+      }
+    ],
+    "salaryRange": {
+      "entry": { "min": 5, "max": 10 },
+      "mid": { "min": 12, "max": 25 },
+      "senior": { "min": 30, "max": 100 }
+    },
+    "jobRoles": ["Auditor", "Tax Consultant", "Financial Advisor"],
+    "industries": ["CA Firms", "Banks", "Corporates", "Consulting"],
+    "growth": {
+      "demand": "Medium",
+      "futureScope": "Forensic Accounting",
+      "automationRisk": "Medium"
+    },
+    "aptitudeMapping": {
+      "analytical": 90,
+      "creative": 50,
+      "technical": 70,
+      "communication": 80,
+      "leadership": 70
+    },
+    "entranceExams": ["CA Foundation", "CA Intermediate"],
+    "topCompaniesInMH": [
+      "Big 4 (Deloitte Mumbai)",
+      "KPMG Pune",
+      "BDO India Navi Mumbai"
+    ],
+    "mhJobMarket": "High - Mumbai financial capital, 30k+ CA jobs"
+  },
+  {
+    "title": "Digital Marketer",
+    "category": "Business",
+    "description": "Manages online campaigns for brands. Booming field with e-commerce growth in India.",
+    "requiredSkills": [
+      { "skill": "SEO/SEM", "proficiency": "Intermediate", "importance": 4 },
+      {
+        "skill": "Social Media Management",
+        "proficiency": "Advanced",
+        "importance": 5
+      },
+      {
+        "skill": "Google Analytics",
+        "proficiency": "Beginner",
+        "importance": 3
+      }
+    ],
+    "educationPath": [
+      {
+        "level": "Bachelor",
+        "fields": ["Marketing", "BBA"],
+        "duration": "3 years",
+        "mandatory": true
+      },
+      {
+        "level": "Certificate",
+        "fields": ["Digital Marketing"],
+        "duration": "6 months",
+        "mandatory": false
+      }
+    ],
+    "salaryRange": {
+      "entry": { "min": 3, "max": 6 },
+      "mid": { "min": 8, "max": 15 },
+      "senior": { "min": 20, "max": 40 }
+    },
+    "jobRoles": [
+      "Content Strategist",
+      "SEO Specialist",
+      "Social Media Manager"
+    ],
+    "industries": ["Digital Agencies", "E-commerce", "Startups", "Media"],
+    "growth": {
+      "demand": "High",
+      "futureScope": "AI Marketing",
+      "automationRisk": "Medium"
+    },
+    "aptitudeMapping": {
+      "analytical": 70,
+      "creative": 95,
+      "technical": 60,
+      "communication": 90,
+      "leadership": 75
+    },
+    "entranceExams": ["SET for BBA", "CUET"],
+    "topCompaniesInMH": [
+      "GroupM Mumbai",
+      "Dentsu Pune",
+      "WatConsult Navi Mumbai"
+    ],
+    "mhJobMarket": "Very High - Mumbai advertising hub, 40k+ roles in digital"
+  }
+]
