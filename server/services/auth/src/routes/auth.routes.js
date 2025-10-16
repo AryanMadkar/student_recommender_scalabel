@@ -18,6 +18,7 @@ router.post('/reset-password', authController.resetPassword);
 
 // Get current user
 router.get('/me', authMiddleware, authController.getCurrentUser);
+router.put('/me', authMiddleware, authController.updateMe);
 
 // Validate token
 router.get('/validate', authMiddleware, authController.validateToken);

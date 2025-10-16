@@ -315,9 +315,95 @@ const getCurrentUser = async (req, res) => {
     }
 };
 
+const updateMe = async (req, res) => {
+    try {
+        console.log('📝 Update User - User ID:', req.user?.id);
+
+        if (!req.user || !req.user.id) {
+            return res.status(401).json({
+                success: false,
+                message: 'User not authenticated'
+            });
+        }
+
+        // Get the fields to update from request body
+        const {
+            name,
+            phone,
+            dateOfBirth,
+            gender,
+            state,
+            city,
+            educationStage
+        } = req.body;
+
+        // Find the user
+        const user = await User.findById(req.user.id);
+
+        if (!user) {
+            return res.status(404).json({
+                success: false,
+                message: 'User not found'
+            });
+        }
+
+        // Update personalInfo fields if provided
+        if (name) user.personalInfo.name = name;
+        if (phone) user.personalInfo.phone = phone;
+        if (dateOfBirth) user.personalInfo.dateOfBirth = dateOfBirth;
+        if (gender) user.personalInfo.gender = gender;
+        if (state) user.personalInfo.state = state;
+        if (city) user.personalInfo.city = city;
+
+        // Update educationStage if provided
+        if (educationStage) {
+            if (!['after10th', 'after12th', 'ongoing'].includes(educationStage)) {
+                return res.status(400).json({
+                    success: false,
+                    message: 'Invalid education stage'
+                });
+            }
+            user.educationStage = educationStage;
+        }
+
+        // Update lastActive
+        user.progress.lastActive = new Date();
+
+        // Save updated user
+        await user.save();
+
+        res.json({
+            success: true,
+            message: 'Profile updated successfully',
+            data: {
+                user: {
+                    id: user._id,
+                    name: user.personalInfo.name,
+                    email: user.personalInfo.email,
+                    phone: user.personalInfo.phone,
+                    dateOfBirth: user.personalInfo.dateOfBirth,
+                    gender: user.personalInfo.gender,
+                    state: user.personalInfo.state,
+                    city: user.personalInfo.city,
+                    educationStage: user.educationStage,
+                    profileCompletion: user.progress?.profileCompletion || 0
+                }
+            }
+        });
+
+    } catch (error) {
+        console.error('Update user error:', error);
+        res.status(500).json({
+            success: false,
+            message: error.message
+        });
+    }
+};
+
 module.exports = {
     register,
     login,
+    updateMe ,
     logout,
     validateToken,
     forgotPassword,

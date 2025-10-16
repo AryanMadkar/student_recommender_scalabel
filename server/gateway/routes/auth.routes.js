@@ -50,11 +50,25 @@ router.get('/me', authMiddleware, async (req, res, next) => {
   try {
     // Forward the Authorization header to the auth service
     const token = req.header('Authorization');
-    
+
     const response = await axios.get(`${AUTH_SERVICE}/me`, {
-      headers: { 
+      headers: {
         'Authorization': token,
-        'user-id': req.user.id 
+        'user-id': req.user.id
+      }
+    });
+    res.json(response.data);
+  } catch (error) {
+    next(error);
+  }
+});
+router.put('/me', authMiddleware, async (req, res, next) => {
+  try {
+    const token = req.header('Authorization');
+    const response = await axios.put(`${AUTH_SERVICE}/me`, req.body, {
+      headers: {
+        'Authorization': token,
+        'user-id': req.user.id
       }
     });
     res.json(response.data);
@@ -67,11 +81,11 @@ router.get('/me', authMiddleware, async (req, res, next) => {
 router.get('/validate', authMiddleware, async (req, res, next) => {
   try {
     const token = req.header('Authorization');
-    
+
     const response = await axios.get(`${AUTH_SERVICE}/validate`, {
-      headers: { 
+      headers: {
         'Authorization': token,
-        'user-id': req.user.id 
+        'user-id': req.user.id
       }
     });
     res.json(response.data);
@@ -84,11 +98,11 @@ router.get('/validate', authMiddleware, async (req, res, next) => {
 router.post('/logout', authMiddleware, async (req, res, next) => {
   try {
     const token = req.header('Authorization');
-    
+
     const response = await axios.post(`${AUTH_SERVICE}/logout`, {}, {
-      headers: { 
+      headers: {
         'Authorization': token,
-        'user-id': req.user.id 
+        'user-id': req.user.id
       }
     });
     res.json(response.data);
